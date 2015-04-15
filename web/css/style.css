@@ -1,0 +1,14 @@
+/*
+Theme Name: Casas de cuidado diario
+Theme URI: http://casasdecuidadodiario.com
+Author: Agencia Mixen
+Author URI: http://mixen.mx/
+Description: Tema para el sitio de Casas de cuidado diario.
+Version: 1.0
+Text Domain: Mixen Communication & Web Technology
+*/
+
+/** MISC **/
+body {
+    overflow-x: hidden;
+}
