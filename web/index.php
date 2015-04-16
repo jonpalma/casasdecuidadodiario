@@ -95,5 +95,64 @@
     </div>
 </div>
 <!-- END SERVICIOS -->
+<!-- BEGIN ALIANZAS -->
+<div class="jumbotron parallax-q">
+    <div class="container">
+        <div class="row">
+           <div class="col-sm-12">
+               <h2>Alianzas</h2>
+           </div>
+            <div class="col-sm-4">
+                <img src="img/gobierno-estado-logo.png" alt="" class="img-responsive center-block">
+                <h3>Gubernamental</h3>
+            </div>
+            <div class="col-sm-4">
+                <img src="img/uach-logo.png" alt="" class="img-responsive center-block">
+                <h3>Académicas</h3>
+            </div>
+            <div class="col-sm-4">
+                <img src="img/fechac-logo.png" alt="" class="img-responsive center-block">
+                <h3>OSC</h3>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END ALIANZAS -->
+<!-- BEGIN NOSOTROS -->
+<div class="jumbotron bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2>Acerca de nosotros</h2>
+                <p>Casas de Cuidado Diario es un modelo alternativo para el cuidado, atención y protección de los niños pequeños hijos de madres trabajadoras que no cuentan con un servicio adecuado para dejar a sus hijos durante su jornada laboral.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END NOSOTROS -->
+<!-- BEGIN VISITANOS -->
+<div class="jumbotron bg-map">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <p><span>+ de 100</span><br /> Casas de<br /> Cuidado<br />Diario</p>
+                <a href="#" class="btn btn-green">Visítanos</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END VISITANOS -->
+<!-- BEGIN DONACIONES -->
+<div class="jumbotron bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h3>Aceptamos donaciones</h3>
+                <a href="#" class="btn btn-blue">Formas para Donar</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END DONACIONES -->
 
 <?php include('modules/footer.php'); ?>

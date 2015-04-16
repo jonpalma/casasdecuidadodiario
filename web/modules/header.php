@@ -34,25 +34,28 @@
                 </div>
                 <div class="navbar-contact">
                     <p class="text-right">
-                        Niños cuidados. Padres tranquilos.<br />
-                        01 800 123 4599<br />
+                        Niños cuidados. Padres tranquilos.<br /><br />
+                        01 800 123 4599<br /><br />
                         hola@casasdecuidado.org
                     </p>
                 </div>
             </div>
             <div class="container-fluid">
-                <div class="collapse navbar-collapse">
-                  <ul class="nav navbar-nav">
-                      <li><a href="#">Inicio</a></li>
-                      <li><a href="#">Nosotros</a></li>
-                      <li><a href="#">Servicios</a></li>
-                      <li><a href="#">Vinculación</a></li>
-                      <li><a href="#">Donaciones</a></li>
-                      <li><a href="#">Ubicaciones</a></li>
-                      <li><a href="#">Equipo</a></li>
-                      <li><a href="#">Contacto</a></li>
-                  </ul>
-              </div>
+               <div class="row">
+                   <div class="collapse navbar-collapse">
+                      <ul class="nav nav-justified">
+                          <li class="border-menu"><a href="#">Inicio</a></li>
+                          <li class="border-yellow"><a href="#">Nosotros</a></li>
+                          <li class="border-green"><a href="#">Servicios</a></li>
+                          <li class="border-light-yellow"><a href="#">Vinculación</a></li>
+                          <li class="border-orange"><a href="#">Sorteo</a></li>
+                          <li class="border-teal"><a href="#">Donaciones</a></li>
+                          <li class="border-blue"><a href="#">Ubicaciones</a></li>
+                          <li class="border-purple"><a href="#">Equipo</a></li>
+                          <li class="border-pink"><a href="#">Contacto</a></li>
+                      </ul>
+                   </div>
+               </div>
             </div>
         </nav> 
     </header>

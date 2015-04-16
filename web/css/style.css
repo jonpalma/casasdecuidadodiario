@@ -7,8 +7,103 @@ Description: Tema para el sitio de Casas de cuidado diario.
 Version: 1.0
 Text Domain: Mixen Communication & Web Technology
 */
+/** MENU **/
+.navbar {
+    border-top: 21px solid #f9c444;
+}
+
+.navbar-default {
+    background-color: #fff !important;
+    background-image: none !important;
+    
+}
+
+.navbar .navbar-brand {
+    height: 178px;
+    padding-top: 5px;
+}
+
+.navbar .navbar-contact {
+    float: right;
+    padding: 50px 0;
+}
+
+.navbar .navbar-contact p{
+    font: 700 16px / 11.77px 'Myriad Pro';
+    color: #43bcd5;
+}
+
+.container-fluid .navbar-collapse {
+    border-top: 5px solid #f57b7c;
+}
+
+.nav-justified {
+    position: relative;
+    top: -5px;
+}
+
+.navbar-nav > li, .dropdown-menu > li {
+    max-width: 156px;
+    height: 47px;
+}
+
+.nav-justified > li > a, .dropdown-menu > li > a {
+    color: #000 !important;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.navbar .nav-justified > .active > a, .navbar .nav-justified > .open > a {
+    background-image: none !important;
+}
+
+.nav-justified > li > a {
+    padding: 10px 15px;
+}
+
+/** BORDERS **/
+.border-menu {
+    border-top: 5px solid #f57b7c;
+}
+
+.border-yellow {
+    border-top: 5px solid #f9c444;
+}
+
+.border-green {
+    border-top: 5px solid #adc252;
+}
+
+.border-light-yellow {
+    border-top: 5px solid #fee580;
+}
+
+.border-orange {
+    border-top: 5px solid #ed9d5a;
+}
+
+.border-teal {
+    border-top: 5px solid #43bcd5;
+}
+
+.border-blue {
+    border-top: 5px solid #497297;
+}
+
+.border-purple {
+    border-top: 5px solid #be5193;
+}
+
+.border-pink {
+    border-top: 5px solid #df7fb8;
+}
 
 /** MISC **/
 body {
     overflow-x: hidden;
+    font-family: 'Myriad Pro';
+    color: #393939;
+    font-size: 14px;
 }
