@@ -32,18 +32,19 @@
                           </div>
                         </div>
                      </div>
-                      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-                      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+                      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><div class="carousel-prev"></div></a>
+                      <a class="right carousel-control" href="#myCarousel" data-slide="next"><div class="carousel-next"></div></a>
                     </div>
 <!-- END SLIDE -->
 <!-- BEGIN SERVICIOS -->
 <div class="jumbotron bg-white">
-    <div class="container">
+    <div class="container servicios">
         <div class="row">
             <div class="col-sm-12">
                 <h2>Nuestros servicios</h2>
+                <div class="bottom-yellow center-block"></div>
             </div>
-            <div class="col-sm-12">
+            <div class="col-sm-12 margin-top">
                 <div class="col-sm-1"></div>
                 <div class="col-sm-2">
                     <img src="img/yellow-square.jpg" alt="" class="img-responsive center-block img-square">
@@ -63,7 +64,7 @@
                 </div>
                 <div class="col-sm-2">
                     <img src="img/yellow-square.jpg" alt="" class="img-responsive center-block img-square">
-                    <p class="text-center">inglés</p>
+                    <p class="text-center">Inglés</p>
                 </div>
                 <div class="col-sm-1"></div>
             </div>
@@ -96,11 +97,13 @@
 </div>
 <!-- END SERVICIOS -->
 <!-- BEGIN ALIANZAS -->
-<div class="jumbotron parallax-q">
-    <div class="container">
+<div class="jumbotron bg-purple parallax-container">
+   <div class="parallax"><img src="img/parallax/inicio.jpg" alt="" class="img-responsive"></div>
+    <div class="container alianzas">
         <div class="row">
-           <div class="col-sm-12">
+           <div class="col-sm-12 margin-bottom">
                <h2>Alianzas</h2>
+               <div class="bottom-white center-block"></div>
            </div>
             <div class="col-sm-4">
                 <img src="img/gobierno-estado-logo.png" alt="" class="img-responsive center-block">
@@ -120,10 +123,11 @@
 <!-- END ALIANZAS -->
 <!-- BEGIN NOSOTROS -->
 <div class="jumbotron bg-white">
-    <div class="container">
+    <div class="container nosotros">
         <div class="row">
             <div class="col-sm-12">
                 <h2>Acerca de nosotros</h2>
+                <div class="bottom-blue center-block"></div>
                 <p>Casas de Cuidado Diario es un modelo alternativo para el cuidado, atención y protección de los niños pequeños hijos de madres trabajadoras que no cuentan con un servicio adecuado para dejar a sus hijos durante su jornada laboral.</p>
             </div>
         </div>
@@ -131,24 +135,27 @@
 </div>
 <!-- END NOSOTROS -->
 <!-- BEGIN VISITANOS -->
-<div class="jumbotron bg-map">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <p><span>+ de 100</span><br /> Casas de<br /> Cuidado<br />Diario</p>
-                <a href="#" class="btn btn-green">Visítanos</a>
+<div class="bg-mapa">
+  <div class="jumbotron bg-map">
+        <div class="container visitanos">
+            <div class="row">
+                <div class="col-sm-12">
+                    <p><span>+ de 100</span><br /><br /> Casas de<br /> Cuidado<br />Diario</p>
+                    <a href="#" class="btn btn-green">Visítanos</a>
+                </div>
             </div>
         </div>
-    </div>
+    </div>  
 </div>
 <!-- END VISITANOS -->
 <!-- BEGIN DONACIONES -->
 <div class="jumbotron bg-white">
-    <div class="container">
+    <div class="container donaciones">
         <div class="row">
             <div class="col-sm-12">
                 <h3>Aceptamos donaciones</h3>
                 <a href="#" class="btn btn-blue">Formas para Donar</a>
+                <span>¿Por que solicitamos donaciones?</span>
             </div>
         </div>
     </div>

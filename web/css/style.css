@@ -7,6 +7,11 @@ Description: Tema para el sitio de Casas de cuidado diario.
 Version: 1.0
 Text Domain: Mixen Communication & Web Technology
 */
+
+/** FONTS **/
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,800,900);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,700,700italic);
+
 /** MENU **/
 .navbar {
     border-top: 21px solid #f9c444;
@@ -63,6 +68,46 @@ Text Domain: Mixen Communication & Web Technology
     padding: 10px 15px;
 }
 
+.nav-justified > li > a:hover {
+    color: #fff !important;
+}
+
+li.border-menu a:hover {
+    background-color: #f57b7c;
+}
+
+li.border-yellow a:hover {
+    background-color: #f9c444;
+}
+
+li.border-green a:hover {
+    background-color: #adc252;
+}
+
+li.border-light-yellow a:hover {
+    background-color: #fee580;
+}
+
+li.border-orange a:hover {
+    background-color: #ed9d5a;
+}
+
+li.border-teal a:hover {
+    background-color: #43bcd5;
+}
+
+li.border-blue a:hover {
+    background-color: #497297;
+}
+
+li.border-purple a:hover {
+    background-color: #be5193;
+}
+
+li.border-pink a:hover {
+    background-color: #df7fb8;
+}
+
 /** BORDERS **/
 .border-menu {
     border-top: 5px solid #f57b7c;
@@ -100,6 +145,338 @@ Text Domain: Mixen Communication & Web Technology
     border-top: 5px solid #df7fb8;
 }
 
+/** BACKGROUNDS **/
+.bg-white {
+    background-color: #fff;
+}
+
+.bg-purple {
+    background-color: rgba(62, 108, 204, .8);
+    /*height: 651px !important;*/
+}
+
+.bg-map {
+    background-color: rgba(242, 199, 94, .8);
+    padding: 120px 0;
+}
+
+.bg-mapa {
+    background-image: url('../img/parallax/mapa.jpg');
+}
+
+.bg-lime-green {
+    background-color: #96da73;
+}
+
+
+/** BOTTOMS **/
+.bottom-yellow, .bottom-white, .bottom-blue {
+    width: 156px;
+    height: 8px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.bottom-yellow {
+    
+    background-color: #f9c444;
+    border: 1px solid #f9c444;
+}
+
+.bottom-white {
+    background-color: #fff;
+    border: 1ps solid #fff;
+}
+
+.bottom-blue {
+    background-color: #62c5db;
+    border: 1px solid #62c5db;
+}
+
+/** CONTENT **/
+.servicios {
+    font-family: Raleway;
+    color: #43bcd5;
+}
+.servicios h2 {
+    font: 700 26px / 14.768px Raleway;
+    color: #43bcd5;
+    text-align: center;
+    margin: 30px 0 20px;
+}
+
+.servicios p {
+    font: 700 20px / 17.738px Raleway;
+    color: #43bcd5;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.alianzas h2 {
+    font: 700 40px / 14.768px 'Myriad Pro';
+    color: #fff;
+    text-align: center;
+    margin: 30px 0 20px;
+}
+
+.alianzas h3 {
+    font: 700 30px / 14.768px 'Myriad Pro';
+    color: #fff;
+    text-align: center;
+    margin: 50px 0 20px;
+}
+
+.nosotros {
+    padding: 120px; 
+}
+
+.nosotros h2 {
+    font: 700 40px / 14.768px 'Myriad Pro';
+    color: #62c6db;
+    text-align: center;
+    margin: 30px 0 20px;
+}
+
+.nosotros p {
+    font: 400 22.49px / 30px 'Myriad Pro';
+    color: #393939;
+    text-align: center;
+    width: 765px;
+    margin: 30px auto;
+}
+
+.visitanos p {
+    font: 700 40px / 37px 'Myriad Pro';
+    color: #fff;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.visitanos p span {
+    font-size: 60px;
+    text-align: center;
+}
+
+.donaciones {
+    padding: 150px;
+}
+
+.donaciones h3 {
+    font: 400 22px / 30px Raleway;
+    color: #393939;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.donaciones span {
+    font: 400 14px / 30px Raleway;
+    color: #393939;
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+}
+
+/** BUTTONS **/
+.btn-green {
+    width: 235px;
+    background-color: #56b17d;
+    color: #fff;
+    font: 700 23px / 14.768px 'Myriad Pro';
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.btn-green:hover {
+    color: #e3e3e3;
+    background-color: #418b61;
+}
+
+.btn-blue {
+    background-color: #1ea7e7;
+    color: #fff;
+    width: 327px;
+    display: block;
+    margin: 0 auto;
+    font: 400 23px / 30px Raleway;
+    padding: 20px;
+}
+
+.btn-blue:hover {
+    color: #e3e3e3;
+    background-color: #2393c7;
+}
+
+/** PARALLAX **/
+.parallax-container {
+  position: relative;
+  overflow: hidden;
+  /*height: 500px;*/ 
+}
+
+.parallax {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1; 
+}
+
+.parallax img {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-height: 100%;
+    background-position: center; 
+}
+
+/** CAROUSEL **/
+.carousel {
+    margin-top: -20px;    
+}
+
+.carousel-caption {
+    z-index: 10;
+}
+
+
+.carousel .item {
+    min-width: 100%;
+    background-color: #fff;
+}
+
+.carousel-inner > .item > img {
+    min-width: 100%;
+    height: 100%;;
+}
+
+.carousel-indicators li {
+    background-image: url('../img/banner/cloud.png');
+    width: 52px;
+    height: 35px;
+    border: none;
+}
+
+.carousel-indicators li.active {
+    background-image: url('../img/banner/cloud-active.png');
+    width: 52px;
+    height: 35px;
+    border: none;
+    background-color: transparent;
+}
+
+.carousel-prev, .carousel-next {
+    width: 53px;
+    height: 53px;
+}
+
+
+.carousel-prev {
+    background-image: url(../img/banner/prev.png);
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+
+.carousel-next {
+    background-image: url('../img/banner/next.png');
+    position: absolute;
+    top: 50%;
+    right: 30%;
+}
+
+.carousel-caption {
+    font-family: Raleway;
+    text-shadow: 0px 1px 1px rgba(77, 77, 77, 0.3);
+    right: 25% !important;
+    top: 45% !important;
+    left: auto !important;
+    text-align: right;
+}
+
+.carousel-caption h1 {
+    font-size: 50px;
+    font-weight: 700;
+    width: 462px;
+    height: 160px;
+}
+
+/** FOOTER **/
+footer {
+    font: 400 10px / 24px Open Sans;
+    color: #fff;
+}
+
+footer h3 {
+    font-size: 14px;
+    font-weight: 700;
+    margin: 30px 0;
+}
+
+footer p {
+    font-size: 12px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: 'Myriad Pro';
+}
+
+footer ul {
+    text-decoration: none;
+    list-style: none;
+    font-size: 12px;
+    margin: 0;
+}
+
+footer ul li a::before {
+    content: '- ';
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: -30px;
+}
+
+footer li a:hover {
+    color: #e3e3e3;
+    text-decoration: underline;
+}
+
+footer address {
+    font-family: 'Myriad Pro';
+    line-height: 20px;
+    font-size: 14px;
+}
+
+footer address h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+
+.footer-rights {
+    background-color: #5db156;
+    color: #fff;
+    padding: 5px 0;
+}
+
+.footer-rights h4 {
+    font: oblique 12px / 20px Helvetica;
+    text-align: center;
+}
+
+.footer-rights a {
+    color: #fff;
+}
+
+.footer-rights a:hover {
+    color: #e3e3e3;
+    
+}
+
 /** MISC **/
 body {
     overflow-x: hidden;
@@ -107,3 +484,13 @@ body {
     color: #393939;
     font-size: 14px;
 }
+
+.margin-top {
+    margin-top: 30px;
+}
+
+.margin-bottom {
+    margin-bottom: 30px;
+}
+
+/** MEDIA QUERIES **/

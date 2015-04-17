@@ -1,9 +1,9 @@
-<footer>
+<footer class="bg-lime-green">
   <div class="container-fluid bg-white">
       <div class="row"><img src="img/footer.png" alt="" class="img-responsive"></div>
   </div>
-   <div class="container bg-lime-green">
-       <div class="row">
+   <div class="container">
+       <div class="row margin-top margin-bottom">
            <div class="col-sm-3">
               <h3 class="text-uppercase">Casas de cuidado diario</h3>
               <p>
@@ -38,9 +38,9 @@
                    Calle 22 #181 <br>
                    Col. San Felipe, C.P.31020<br />
                    Chihuahua, Chih.<br />
-                   Tel. 614 4100000
+                   Tel. 614 4100000<br /><br />
+                   <p>Chihuahua, Chihuahua, México</p>
                </address>
-               <p>Chihuahua, Chihuahua, México</p>
           </div>
        </div>
    </div>
@@ -49,7 +49,6 @@
           <h4>Todos los derechos reservados <span>Casas de cuidado diario</span> 2015 | Design by: <a href="http://mixen.mx"><img src="http://mixen.mx/firma/logo-mixen.png" alt="Agencia Mixen"> mixen.mx</a></h4>
       </div>
    </div>
-   <br />
     <script src="js/jquery.min.js"></script>
     <script src="js/materialize.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
