@@ -34,11 +34,11 @@ Text Domain: Mixen Communication & Web Technology
 }
 
 .navbar .navbar-contact p{
-    font: 700 16px / 11.77px 'Myriad Pro';
+    font: 700 16px / 11.77px Raleway;
     color: #43bcd5;
 }
 
-.container-fluid .navbar-collapse {
+.nav-border-top {
     border-top: 5px solid #f57b7c;
 }
 
@@ -62,10 +62,6 @@ Text Domain: Mixen Communication & Web Technology
 
 .navbar .nav-justified > .active > a, .navbar .nav-justified > .open > a {
     background-image: none !important;
-}
-
-.nav-justified > li > a {
-    padding: 10px 15px;
 }
 
 .nav-justified > li > a:hover {
@@ -168,9 +164,12 @@ li.border-pink a:hover {
     background-color: #96da73;
 }
 
+.bg-yellow {
+    background-color: #f9c444;
+}
 
 /** BOTTOMS **/
-.bottom-yellow, .bottom-white, .bottom-blue {
+.bottom-yellow, .bottom-white, .bottom-blue, .bottom-purple {
     width: 156px;
     height: 8px;
     border-radius: 5px;
@@ -191,6 +190,11 @@ li.border-pink a:hover {
 .bottom-blue {
     background-color: #62c5db;
     border: 1px solid #62c5db;
+}
+
+.bottom-purple {
+    background-color: #be5193;
+    border: 1px solid #be5193;
 }
 
 /** CONTENT **/
@@ -214,32 +218,32 @@ li.border-pink a:hover {
 }
 
 .alianzas h2 {
-    font: 700 40px / 14.768px 'Myriad Pro';
+    font: 700 40px / 14.768px Raleway;
     color: #fff;
     text-align: center;
     margin: 30px 0 20px;
 }
 
 .alianzas h3 {
-    font: 700 30px / 14.768px 'Myriad Pro';
+    font: 700 30px / 14.768px Raleway;
     color: #fff;
     text-align: center;
     margin: 50px 0 20px;
 }
 
 .nosotros {
-    padding: 120px; 
+    padding: 120px 0; 
 }
 
 .nosotros h2 {
-    font: 700 40px / 14.768px 'Myriad Pro';
+    font: 700 40px / 40px Raleway;
     color: #62c6db;
     text-align: center;
     margin: 30px 0 20px;
 }
 
 .nosotros p {
-    font: 400 22.49px / 30px 'Myriad Pro';
+    font: 400 22.49px / 30px Raleway;
     color: #393939;
     text-align: center;
     width: 765px;
@@ -247,7 +251,7 @@ li.border-pink a:hover {
 }
 
 .visitanos p {
-    font: 700 40px / 37px 'Myriad Pro';
+    font: 700 40px / 37px Raleway;
     color: #fff;
     text-align: center;
     margin: 30px 0;
@@ -259,7 +263,7 @@ li.border-pink a:hover {
 }
 
 .donaciones {
-    padding: 150px;
+    padding: 150px 0;
 }
 
 .donaciones h3 {
@@ -277,12 +281,92 @@ li.border-pink a:hover {
     margin: 10px auto;
 }
 
+.heading {
+    height: 194px;
+    color: #fff;
+    background-color: rgba(190, 81, 147, 0.5);
+    margin-top: -20px;
+}
+
+.heading h2 {
+    font: 700 28px / 14.768px Raleway;
+    text-align: center;
+    text-shadow: 0px 1px 1px rgba(77, 77, 77, 0.3);
+    margin: 80px 0;
+}
+
+.content-nosotros h2 {
+    font: 400 22px / 40px Open Sans;
+    color: #3e3e3e;
+    text-align: center;
+    max-width: 1097px;
+    display: block;
+    margin: 30px auto;
+}
+
+.content-nosotros h5::before {
+    content: url('../img/arrow.png');
+    margin-right: 10px;
+}
+
+.content-nosotros h5, .content-nosotros p {
+    font: 600 14px / 20px Verdana;
+    color: #000;
+    text-align: justify;
+}
+
+.content-nosotros p {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.content-nosotros p span::before {
+    content: url('../img/bullet.png');
+    margin-right: 5px;
+}
+
+.content-consejo {
+    color: #fff;
+}
+
+.content-consejo h2 {
+    font: 700 25px / 31.76px Open Sans;
+    text-align: center;
+    max-width: 500px;
+    display: block;
+    margin: 30px auto;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 10px;
+}
+
+.consejo {
+    max-width: 500px;
+    display: block;
+    margin: 30px auto;
+}
+
+.consejo p {
+    font: 400 14px / 20px Verdana !important;
+    text-align: left;
+}
+
+.content-contacto p {
+    font: 400 14px / 20.05px Open Sans;
+    color: #393939;
+}
+
+.content-voluntariado img {
+    border-right: 2px solid rgba(0, 0, 0, 0.3);
+    padding-right: 20px;
+}
+
+
 /** BUTTONS **/
 .btn-green {
     width: 235px;
     background-color: #56b17d;
     color: #fff;
-    font: 700 23px / 14.768px 'Myriad Pro';
+    font: 700 23px / 14.768px Raleway;
     display: block;
     margin: 0 auto;
     padding: 20px;
@@ -306,6 +390,21 @@ li.border-pink a:hover {
 .btn-blue:hover {
     color: #e3e3e3;
     background-color: #2393c7;
+}
+
+.btn-yellow {
+    background-color: #ffca59;
+    width: 178px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px;
+    border: 1px solid #ffca59;
+    border-radius: 0;
+}
+
+.btn-yellow:hover, .btn-yellow:active, .btn-yellow:focus {
+    color: #fff;
+    background-color: #FFAF00;
 }
 
 /** PARALLAX **/
@@ -332,6 +431,33 @@ li.border-pink a:hover {
     min-height: 100%;
     background-position: center; 
 }
+
+/** FORMS **/
+form {
+    border-left: 2px solid rgba(0, 0, 0, 0.3);
+    padding-left: 50px;
+}
+
+.control-label {
+    font: 700 14px / 39.66px Open Sans;
+    color: #525252;
+}
+
+.form-textfield {
+    height: 90px;
+}
+
+.form-textfield, .form-textarea {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0;
+}
+
+.form-textarea {
+    width: 100%;
+    height: 148px;
+    resize: none;
+}
+
 
 /** CAROUSEL **/
 .carousel {
@@ -391,9 +517,6 @@ li.border-pink a:hover {
 .carousel-caption {
     font-family: Raleway;
     text-shadow: 0px 1px 1px rgba(77, 77, 77, 0.3);
-    right: 25% !important;
-    top: 45% !important;
-    left: auto !important;
     text-align: right;
 }
 
@@ -420,7 +543,7 @@ footer p {
     font-size: 12px;
     font-weight: 400;
     text-align: justify;
-    font-family: 'Myriad Pro';
+    font-family: Raleway;
 }
 
 footer ul {
@@ -446,7 +569,7 @@ footer li a:hover {
 }
 
 footer address {
-    font-family: 'Myriad Pro';
+    font-family: Raleway;
     line-height: 20px;
     font-size: 14px;
 }
@@ -480,9 +603,15 @@ footer address h4 {
 /** MISC **/
 body {
     overflow-x: hidden;
-    font-family: 'Myriad Pro';
+    font-family: Raleway;
     color: #393939;
     font-size: 14px;
+}
+
+#googleMap {
+    width: 100%;
+    height: 561px;
+    overflow: hidden;
 }
 
 .margin-top {
@@ -493,4 +622,87 @@ body {
     margin-bottom: 30px;
 }
 
+.padding-top {
+    padding-top: 80px;
+}
+
+.paddong-bottom {
+    padding-bottom: 80px;
+}
+
 /** MEDIA QUERIES **/
+@media (max-width: 767px) {
+.carousel-caption {
+    right: 15% !important;
+    top: -10% !important;
+    left: 15% !important;
+}
+
+.carousel-caption h1 {
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
+    
+.carousel-prev, .carousel-next {
+    top: 25% !important;
+}
+
+.nosotros p {
+    width: 100% !important;
+}
+    
+form {
+    border-left: none;
+    padding-left: 0;
+}
+    
+}
+
+@media (min-width: 768px) {
+.nav-hidden {
+    display: none;
+}
+    
+.nav-justified > li > a {
+    font-size: 10px;
+    padding: 10px 5px !important;
+}
+    
+.carousel-caption {
+    right: 20% !important;
+    top: 30% !important;
+    left: auto !important;
+}
+
+.carousel-caption h1 {
+    font-size: 30px;
+}
+
+.carousel-prev, .carousel-next {
+    top: 50% !important;
+}
+    
+}
+
+@media (min-width: 992px) { 
+.nav-hidden {
+    display: block;
+}
+
+.nav-justified > li > a {
+    font-size: 14px;
+    padding: 10px !important;
+}
+    
+.carousel-caption {
+    right: 25% !important;
+    top: 40% !important;
+    left: auto !important;
+}
+    
+.carousel-caption h1 {
+    font-size: 50px;
+}
+    
+}

@@ -12,7 +12,7 @@ function initialize() {
     var map_canvas = document.getElementById('googleMap');
 
     var map_options = {
-        center: new google.maps.LatLng(28.644897,-106.066754),
+        center: new google.maps.LatLng(28.646564,-106.098378),
         zoom: 15,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         scrollwheel: false
@@ -20,9 +20,9 @@ function initialize() {
 
     var map = new google.maps.Map(map_canvas, map_options);
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(28.644897,-106.066754),
+        position: new google.maps.LatLng(28.646564,-106.098378),
         map: map,
-        title: 'VTS'
+        title: 'Casas de Cuidado Diario Infantiles'
     });
    /* var styles = [
         {

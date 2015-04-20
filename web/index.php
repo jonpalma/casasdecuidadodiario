@@ -98,7 +98,7 @@
 <!-- END SERVICIOS -->
 <!-- BEGIN ALIANZAS -->
 <div class="jumbotron bg-purple parallax-container">
-   <div class="parallax"><img src="img/parallax/inicio.jpg" alt="" class="img-responsive"></div>
+   <div class="parallax"><img src="img/parallax/inicio1.jpg" alt="" class="img-responsive"></div>
     <div class="container alianzas">
         <div class="row">
            <div class="col-sm-12 margin-bottom">

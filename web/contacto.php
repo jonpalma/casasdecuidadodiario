@@ -1,7 +1,7 @@
 <?php include('modules/header.php'); ?>
 <!-- BEGIN HEADING -->
-<div class="container-fluid parallax-container">
-   <div class="parallax"><img src="img/parallax/contacto.jpg" alt="" class="img-responsive"></div>
+<div class="container-fluid parallax-container heading">
+   <div class="parallax"><img src="img/parallax/contacto1.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>Contacto</h2>
     </div>
@@ -9,7 +9,7 @@
 <!-- END HEADING -->
 <!-- BEGIN CONTACTO -->
 <div class="jumbotron bg-white">
-    <div class="container">
+    <div class="container content-contacto">
         <div class="row">
             <div class="col-sm-4">
                 <p>
@@ -49,8 +49,10 @@
                                    <textarea class="form-textarea" name="" id="contacto_mensaje" cols="30" rows="10"></textarea>
                                </div>
                            </div>
-                           <div class="pull-left">
-                            <button type="submit" id="sendBttn" class="btn btn-yellow">Enviar</button>
+                           <div class="form-group">
+                              <div class="col-sm-12">
+                                  <button type="submit" id="sendBttn" class="btn btn-yellow">Enviar</button>
+                              </div>
                         </div>
                     </form>
             </div>

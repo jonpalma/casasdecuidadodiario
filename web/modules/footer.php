@@ -1,5 +1,5 @@
 <footer class="bg-lime-green">
-  <div class="container-fluid bg-white">
+  <div class="container-fluid bg-white padding-top">
       <div class="row"><img src="img/footer.png" alt="" class="img-responsive"></div>
   </div>
    <div class="container">

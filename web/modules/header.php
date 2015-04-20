@@ -40,22 +40,26 @@
                     </p>
                 </div>
             </div>
-            <div class="container-fluid">
-               <div class="row">
-                   <div class="collapse navbar-collapse">
-                      <ul class="nav nav-justified">
-                          <li class="border-menu"><a href="#">Inicio</a></li>
-                          <li class="border-yellow"><a href="#">Nosotros</a></li>
-                          <li class="border-green"><a href="#">Servicios</a></li>
-                          <li class="border-light-yellow"><a href="#">Vinculación</a></li>
-                          <li class="border-orange"><a href="#">Sorteo</a></li>
-                          <li class="border-teal"><a href="#">Donaciones</a></li>
-                          <li class="border-blue"><a href="#">Ubicaciones</a></li>
-                          <li class="border-purple"><a href="#">Equipo</a></li>
-                          <li class="border-pink"><a href="#">Contacto</a></li>
-                      </ul>
+            <div class="container-fluid nav-border-top">
+                <div class="row">
+                  <div class="col-lg-2 nav-hidden"></div>
+                  <div class="col-lg-8 col-md-12">
+                       <div class="collapse navbar-collapse">
+                          <ul class="nav nav-justified">
+                              <li class="border-menu"><a href="index.php">Inicio</a></li>
+                              <li class="border-yellow"><a href="nosotros.php">Nosotros</a></li>
+                              <li class="border-green"><a href="#">Servicios</a></li>
+                              <li class="border-light-yellow"><a href="#">Vinculación</a></li>
+                              <li class="border-orange"><a href="#">Sorteo</a></li>
+                              <li class="border-teal"><a href="#">Donaciones</a></li>
+                              <li class="border-blue"><a href="#">Ubicaciones</a></li>
+                              <li class="border-purple"><a href="voluntariado.php">Voluntariado</a></li>
+                              <li class="border-pink"><a href="contacto.php">Contacto</a></li>
+                          </ul>
+                       </div>
                    </div>
-               </div>
+                  <div class="col-lg-2 nav-hidden"></div>
+                </div>
             </div>
         </nav> 
     </header>

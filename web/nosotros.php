@@ -1,15 +1,35 @@
 <?php include('modules/header.php'); ?>
 <!-- BEGIN HEADING -->
-<div class="container-fluid parallax-container">
-   <div class="parallax"><img src="img/parallax/nosotros.jpg" alt="" class="img-responsive"></div>
+<div class="container-fluid parallax-container heading">
+   <div class="parallax"><img src="img/parallax/nosotros1.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>Nosotros</h2>
     </div>
 </div>
 <!-- END HEADING -->
+<!-- BEGIN MODAL -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Casas de Cuidado Diario</h4>
+      </div>
+      <div class="modal-body">
+           <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
+           </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Regresar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL -->
 <!-- BEGIN CONTENT -->
     <div class="jumbotron bg-white">
-        <div class="container content">
+        <div class="container content-nosotros">
             <div class="row">
                 <div class="col-sm-12">
                     <h2>
@@ -17,10 +37,12 @@
                     </h2>
                     <hr />
                 </div>
-                <div class="col-sm-4">
-                    <img src="img/nosotros.jpg" alt="" class="img-responsive">
+                <div class="col-sm-4 margin-top">
+                   <a href="#" data-toggle="modal" data-target="#myModal">
+                       <img src="img/nosotros.jpg" alt="" class="img-responsive">
+                   </a>
                 </div>
-                <div class="col-sm-8">
+                <div class="col-sm-8 margin-top">
                     <div class="col-sm-12">
                         <h5>Misión</h5>
                         <p>
@@ -36,31 +58,31 @@
                     <div class="col-sm-12">
                         <h5>Valores</h5>
                         <p>
-                            Vocación de servicio<br />
+                            <span>Vocación de servicio</span><br />
                             Darse a los demás. Ser generoso. Siempre estar ayudando.
                         </p>
                         <p>
-                            Optimismo<br />
+                            <span>Optimismo</span><br />
                             Pensamiento positivo y propositivo.
                         </p>
                         <p>
-                            Responsabilidad<br />
+                            <span>Responsabilidad</span><br />
                             cumplir con sus compromisos.
                         </p>
                         <p>
-                            humildad<br />
+                            <span>humildad</span><br />
                             Reconocer sus limitaciones, cualidades y capacidades aprovechándolas para hacer el bien sin llamar la atención.
                         </p>
                         <p>
-                            Honestidad<br />
+                            <span>Honestidad</span><br />
                             Congruencia entre lo que se dice y lo que se hace. Honradez, en el manejo de recursos. Lealtad a la institución. Sinceridad.
                         </p>
                         <p>
-                            Perseverancia<br />
+                            <span>Perseverancia</span><br />
                             Tenacidad ante la adversidad. No abandonar lo que se propone. Ser constante en el ideal y en el trabajo.
                         </p>
                         <p>
-                            Respeto<br />
+                            <span>Respeto</span><br />
                             Tolerancia a las acciones de los demás. Aceptar lo que los demás piensan. Actuar y dejar de actuar.
                         </p>
                     </div>
@@ -71,25 +93,34 @@
 <!-- END CONTENT -->
 <!-- BEGIN CONSEJO -->
 <div class="jumbotron bg-yellow">
-    <div class="container">
+    <div class="container content-consejo">
         <div class="row">
             <h2>Consejo</h2>
             <div class="consejo">
-                <p>Presidenta <span>María Teresa García Terrazas</span></p>
-                <p>Vicepresidenta <span>Fabiola Corral Pérez</span></p>
-                <p>Tesorera <span>Patricia Margarita Fierro Shelton</span></p>
-                <p>Secretaria <span>Adriana Rodríguez Amezaga</span></p>
-                <p>
-                    vocales <span>Ana Gabriela Guerrero Elías</span><br />
-                    <span>blanca Rosa Montes Prado</span><br />
-                    <span>Leticia Terrazas Becerra</span><br />
-                    <span>María de los Ángeles Vizcaya Engroñat</span><br />
-                    <span>María Emilia García Domínguez</span><br />
-                    <span>María del Pilar García Hernández</span><br />
-                    <span>Mariana Medina Pegram</span><br />
-                    <span>Rosa Elena Corral Lozano</span>
-                </p>
+                <div class="col-sm-5">
+                        <p><strong>Presidenta</strong></p>
+                        <p><strong>Vicepresidenta</strong></p>
+                        <p><strong>Tesorera</strong></p>
+                        <p><strong>Secretaria</strong></p>
+                        <p><strong>vocales</strong></p>
+                </div>
+                <div class="col-sm-7">
+                       <p>María Teresa García Terrazas</p>
+                       <p>Fabiola Corral Pérez</p>
+                       <p>Patricia Margarita Fierro Shelton</p>
+                       <p>Adriana Rodríguez Amezaga</p>
+                       <p>Ana Gabriela Guerrero Elías<br />
+                            blanca Rosa Montes Prado<br />
+                            Leticia Terrazas Becerra<br />
+                            María de los Ángeles Vizcaya Engroñat<br />
+                            María Emilia García Domínguez<br />
+                            María del Pilar García Hernández<br />
+                            Mariana Medina Pegram<br />
+                            Rosa Elena Corral Lozano
+                       </p>
+                </div>
             </div>
+                
         </div>
     </div>
 </div>
