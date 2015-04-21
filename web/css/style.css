@@ -141,6 +141,16 @@ li.border-pink a:hover {
     border-top: 5px solid #df7fb8;
 }
 
+.border-left {
+    border-left: 2px solid rgba(0, 0, 0, 0.3);
+    padding-left: 30px;
+}
+
+.border-right {
+    border-right: 2px solid rgba(0, 0, 0, 0.3);
+    padding-right: 30px;
+}
+
 /** BACKGROUNDS **/
 .bg-white {
     background-color: #fff;
@@ -166,6 +176,14 @@ li.border-pink a:hover {
 
 .bg-yellow {
     background-color: #f9c444;
+}
+
+.bg-parallax {
+    background-color: rgba(190, 81, 147, 0.5);
+    color: #fff;
+}
+.bg-vinculacion {
+    background-color: rgba(254, 229, 128, 0.58) !important;
 }
 
 /** BOTTOMS **/
@@ -288,8 +306,8 @@ li.border-pink a:hover {
     margin-top: -20px;
 }
 
-.heading h2 {
-    font: 700 28px / 14.768px Raleway;
+.heading h2, .bg-parallax h2 {
+    font: 700 28px / 30px Raleway;
     text-align: center;
     text-shadow: 0px 1px 1px rgba(77, 77, 77, 0.3);
     margin: 80px 0;
@@ -358,6 +376,53 @@ li.border-pink a:hover {
 .content-voluntariado img {
     border-right: 2px solid rgba(0, 0, 0, 0.3);
     padding-right: 20px;
+}
+
+.content-voluntariado h3 {
+    color: #43bcd5;
+    text-align: center;
+    font: 700 26px / 30px Raleway;
+    margin-bottom: 20px;
+}
+
+.content-voluntariado p {
+    color: #393939;
+    font: 400 16px / 30px Raleway;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.content-voluntariado ol {
+    margin-left: 0;
+    padding-right: 0;
+    list-style-type: none;
+}
+
+.content-voluntariado ol > li {
+    counter-increment: step-counter;
+    margin-bottom: 20px;
+}
+
+.content-voluntariado ol > li::before {
+    content: counter(step-counter)".";
+    margin-right: 5px;
+    color: #be5193;
+}
+
+.content-organizaciones {
+    font-family: Raleway;
+    color: #393939;
+}
+
+.content-organizaciones h4 {
+    font-weight: 700;
+    text-align: center;
+    font-size: 14px !important;
+}
+
+.content-organizaciones p {
+    text-align: justify;
+    font-size: 14px !important;
 }
 
 
@@ -626,8 +691,12 @@ body {
     padding-top: 80px;
 }
 
-.paddong-bottom {
+.padding-bottom {
     padding-bottom: 80px;
+}
+
+.box-content {
+    padding: 200px 0;
 }
 
 /** MEDIA QUERIES **/
@@ -652,9 +721,14 @@ body {
     width: 100% !important;
 }
     
-form {
+form, .border-left {
     border-left: none;
     padding-left: 0;
+}
+
+.border-right, .content-voluntariado img {
+    border-right: none;
+    padding-right: 0;
 }
     
 }
