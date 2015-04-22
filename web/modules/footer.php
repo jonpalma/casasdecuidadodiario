@@ -13,11 +13,11 @@
           <div class="col-sm-3">
               <h3>Servicios</h3>
               <ul>
-                  <li><a href="">Nosotros</a></li>
+                  <li><a href="nosotros.php">Nosotros</a></li>
                   <li><a href="">Servicios</a></li>
-                  <li><a href="">Vinculación</a></li>
-                  <li><a href="">Mapa</a></li>
-                  <li><a href="">Sorteo</a></li>
+                  <li><a href="vinculacion.php">Vinculación</a></li>
+                  <li><a href="contacto.php">Mapa</a></li>
+                  <li><a href="sorteo.php">Sorteo</a></li>
                   <li><a href="">Donaciones</a></li>
               </ul>
           </div>
