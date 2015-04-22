@@ -55,10 +55,20 @@
     <script src="https://maps.googleapis.com/maps/api/js"></script>
     <script src="js/googleMapInit.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/imageloaded.pkgd.min.js"></script>
+    <script src="js/masonry.pkgd.min.js"></script>
     <script type="text/javascript">
             $(document).ready(function(){
                 $("#myCarousel2").carousel();
                 $('.parallax').parallax();
+                var $container = $('.masonry');
+
+                $container.imagesLoaded(function () {
+                    $container.masonry({
+                        itemSelector: '.item',
+                        columnWidth: '.item'
+                    });
+    });
 
             });
     </script>

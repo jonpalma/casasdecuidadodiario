@@ -152,20 +152,10 @@
             </div>
         </div>
         <div class="row margin-bottom">
-            <div class="col-sm-3 col-md-offset-1">
-                <img src="img/organizaciones/congreso-del-estado.jpg" alt="" class="img-responsive center-block">
-                <h4>Congreso del Estado</h4>
-                <p>Mesa de trabajo papra el impulso a la ley de niños, niñas y adolescentes.</p>
-            </div>
-            <div class="col-sm-3">
-                <img src="img/organizaciones/comite-estatal.jpg" alt="" class="img-responsive center-block">
-                <h4>Comité Estatal de Seguimiento y Vigilancia de los Derechos de los Niños</h4>
-                <p>Para unir esfuerzos interinstitucionales para evaluar el progreso de la aplicación de los derechos de los niños, niñas y adolescentes.</p>
-            </div>
-            <div class="col-sm-3">
-                <img src="img/organizaciones/codeso.jpg" alt="" class="img-responsive center-block">
-                <h4>CODESO y PC (Consejo de Desarrollo Social y Participación Ciudadana)</h4>
-                <p>Formamos parte del Consejo para la participación en políticas públicas.</p>
+            <div class="col-sm-3 center-block no-float">
+                <img src="img/organizaciones/comision-osc.jpg" alt="" class="img-responsive center-block">
+                <h4>Comisión de Fomento a las Actividades de las OSC</h4>
+                <p>Miembros del Consejo Técnico Consultivo de dicha Comisión.</p>
             </div>
         </div>
     </div>
@@ -184,63 +174,41 @@
     <div class="container content-organizaciones">
         <div class="row margin-bottom">
             <div class="col-sm-3">
-                <img src="img/organizaciones/instituto-chihuahuense-de-la-mujer.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>ICHMujer (Instituto Chihuahuense de la Mujer)</h4>
-                <p>Se canalizan casos legales, psicológicos y/o de atención especializada a mujeres; recibimos y becamos a hijo de mujeres refugiadas.</p>
+                <img src="img/organizaciones/escuela-trabajo-social.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>Escuela de Trabajo Social</h4>
+                <p>Proporciona practicantes para el trabajo de campo de la operación del Programa.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/immujer.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>IMMujer (insituto Municipal de la Mujer)</h4>
-                <p>Recibimos y becamos a hijos de mujeres refugiadas.</p>
+                <img src="img/organizaciones/uach-nutricion.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>Facultad de Nutrición y Enfermería</h4>
+                <p>Elabora y certifica el mení alimentario que emplean en las Casas de Cuidado Diario.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/sedesol.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>Secretaría de Fomento Social del Gobierno del Estado</h4>
-                <p>Apoya la operación del Programa por medio de recursos vía subsidio.</p>
+                <img src="img/organizaciones/uach.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>UACH (Univiersidad Autónoma de Chihuahua)</h4>
+                <p>Convenio de Participación para el desarrollo de programas culturales y académicos en general.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/gobierno-del-estado.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>Secretaría de Salud</h4>
-                <p>Apoyo con Doctores y practicantes que realizan visitas de revisiones médicas a los menores en las casas de cuidado Diario.</p>
-            </div>
-        </div>
-        <div class="row margin-bottom">
-            <div class="col-sm-3">
-                <img src="img/organizaciones/ayuntamiento-chihuahua.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>Presidencia Municipal de Chihuahua y Cuauhtémoc</h4>
-                <p>Otorgan donativos a la institución por proyectos.</p>
-            </div>
-            <div class="col-sm-3">
-                <img src="img/organizaciones/dif-estatal.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>DIF Estatal</h4>
-                <p>Apoya a la institución con insumos para eventos y aval para proyectos.</p>
-            </div>
-            <div class="col-sm-3">
-                <img src="img/organizaciones/seech.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>SEECH (Servicios Educativos del Estado de Chihuahua)</h4>
-                <p>Integración del Comité ATP (asesores técnicos pedagógicos).</p>
-            </div>
-            <div class="col-sm-3">
-                <img src="img/organizaciones/pensiones-civiles.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>Pensiones Civiles del Estado</h4>
-                <p>Implementación de un Casa de Cuidado Diario en sus instalaciones para dar atención a hijos de trabajadoras.</p>
+                <img src="img/organizaciones/unidep.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>Otras Universidades (ITESM, UTCH, ITCH, UNIDEP)</h4>
+                <p>Proporcionan apoyo con estudiantes para servicio social y prácticas profesionales.</p>
             </div>
         </div>
         <div class="row margin-bottom">
             <div class="col-sm-3 col-md-offset-1">
-                <img src="img/organizaciones/congreso-del-estado.jpg" alt="" class="img-responsive center-block">
-                <h4>Congreso del Estado</h4>
-                <p>Mesa de trabajo papra el impulso a la ley de niños, niñas y adolescentes.</p>
+                <img src="img/organizaciones/upn.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>Universidad Pedagógica Nacional</h4>
+                <p>Desarrollo de Diplomados para Madres Cuidadoras en Educación Inicial.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/comite-estatal.jpg" alt="" class="img-responsive center-block">
-                <h4>Comité Estatal de Seguimiento y Vigilancia de los Derechos de los Niños</h4>
-                <p>Para unir esfuerzos interinstitucionales para evaluar el progreso de la aplicación de los derechos de los niños, niñas y adolescentes.</p>
+                <img src="img/organizaciones/cecytech.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>CeCyTECH</h4>
+                <p>Apoyo con prestadores de servicio social.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/codeso.jpg" alt="" class="img-responsive center-block">
-                <h4>CODESO y PC (Consejo de Desarrollo Social y Participación Ciudadana)</h4>
-                <p>Formamos parte del Consejo para la participación en políticas públicas.</p>
+                <img src="img/organizaciones/uach-fisica.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>Facultad de Educación Física</h4>
+                <p>implementación de Diplomados de Estimulación Temprana para MC.</p>
             </div>
         </div>
     </div>
