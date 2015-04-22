@@ -56,26 +56,38 @@
                        <div class="row margin-bottom">
                            <div class="col-sm-12 item w2">
                                 <div class="col-sm-3 item">
-                                    <img src="img/galeria-sorteo/2.jpg" alt="" class="img-responsive center-block">
+                                   <a href="#" data-toggle="modal" data-target="#2">
+                                       <img src="img/galeria-sorteo/2.jpg" alt="" class="img-responsive center-block">
+                                   </a>
                                 </div>
                                 <div class="col-sm-6 item">
-                                    <img src="img/galeria-sorteo/3.jpg" alt="" class="img-responsive center-block">
+                                   <a href="#" data-toggle="modal" data-target="#3">
+                                       <img src="img/galeria-sorteo/3.jpg" alt="" class="img-responsive center-block">
+                                   </a>
                                 </div>
                                 <div class="col-sm-3 item">
-                                    <img src="img/galeria-sorteo/4.jpg" alt="" class="img-responsive center-block">
+                                   <a href="#" data-toggle="modal" data-target="#4">
+                                       <img src="img/galeria-sorteo/4.jpg" alt="" class="img-responsive center-block">
+                                   </a>
                                 </div>
                             </div>
                        </div>
                        <div class="row margin-bottom">
                            <div class="col-sm-12 item w2">
                                 <div class="col-sm-3 item">
-                                    <img src="img/galeria-sorteo/5.jpg" alt="" class="img-responsive center-block">
+                                   <a href="#" data-toggle="modal" data-target="#5">
+                                       <img src="img/galeria-sorteo/5.jpg" alt="" class="img-responsive center-block">
+                                   </a>
                                 </div>
                                 <div class="col-sm-3 item">
-                                    <img src="img/galeria-sorteo/6.jpg" alt="" class="img-responsive center-block">
+                                   <a href="#" data-toggle="modal" data-target="#6">
+                                       <img src="img/galeria-sorteo/6.jpg" alt="" class="img-responsive center-block">
+                                    </a>
                                 </div>
                                 <div class="col-sm-6 item">
-                                    <img src="img/galeria-sorteo/7.jpg" alt="" class="img-responsive center-block">
+                                   <a href="#" data-toggle="modal" data-target="#7">
+                                       <img src="img/galeria-sorteo/7.jpg" alt="" class="img-responsive center-block">
+                                   </a>
                                 </div>
                            </div>
                        </div>
@@ -93,57 +105,67 @@
               <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria-sorteo/1.jpg" class="img-responsive" alt="">
+              <img src="img/galeria-sorteo/1.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
         <div class="modal fade" id="2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-close">
-              <img src="img/galeria/close.png" data-dismiss="modal" alt="">
+              <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria/2-1.jpg" class="img-responsive" alt="">
+              <img src="img/galeria-sorteo/2.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
         <div class="modal fade" id="3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-close">
-              <img src="img/galeria/close.png" data-dismiss="modal" alt="">
+              <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria/3-1.jpg" class="img-responsive" alt="">
+              <img src="img/galeria-sorteo/3.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
         <div class="modal fade" id="4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-close">
-              <img src="img/galeria/close.png" data-dismiss="modal" alt="">
+              <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria/4-1.jpg" class="img-responsive" alt="">
+              <img src="img/galeria-sorteo/4.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
         <div class="modal fade" id="5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-close">
-              <img src="img/galeria/close.png" data-dismiss="modal" alt="">
+              <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria/5-1.jpg" class="img-responsive" alt="">
+              <img src="img/galeria-sorteo/5.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
         <div class="modal fade" id="6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-close">
-              <img src="img/galeria/close.png" data-dismiss="modal" alt="">
+              <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria/6-1.jpg" class="img-responsive" alt="">
+              <img src="img/galeria-sorteo/6.jpg" class="img-responsive center-block" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="modal fade" id="7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-close">
+              <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
+           </div>
+            <div class="modal-content">
+              <img src="img/galeria-sorteo/7.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>

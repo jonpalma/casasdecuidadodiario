@@ -454,7 +454,7 @@ li.border-pink a:hover {
     padding: 20px;
 }
 
-.btn-green:hover {
+.btn-green:hover, .btn-green:active, .btn-green:focus {
     color: #e3e3e3;
     background-color: #418b61;
 }
@@ -469,7 +469,7 @@ li.border-pink a:hover {
     padding: 20px;
 }
 
-.btn-blue:hover {
+.btn-blue:hover, .btn-blue:active, .btn-blue:focus {
     color: #e3e3e3;
     background-color: #2393c7;
 }
@@ -499,7 +499,7 @@ li.border-pink a:hover {
     padding: 20px;
 }
 
-.btn-orange:hover {
+.btn-orange:hover, .btn-orange:active, .btn-orange:focus {
     color: #e3e3e3;
     background-color: #d5680c;
 }
@@ -631,10 +631,17 @@ form {
 
 .item { 
     padding: 0 5px !important;
-    float: none;
 }
 .item.w2 { 
     padding: 0 !important; 
+}
+
+.modal-dialog {
+    margin-top: 100px;
+}
+
+.modal-content {
+    background-color: #000;
 }
 
 
