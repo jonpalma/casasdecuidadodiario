@@ -38,7 +38,7 @@
                    Calle 22 #181 <br>
                    Col. San Felipe, C.P.31020<br />
                    Chihuahua, Chih.<br />
-                   Tel. 614 4100000<br /><br />
+                   Tel. 614 413 0319<br /><br />
                    <p>Chihuahua, Chihuahua, México</p>
                </address>
           </div>

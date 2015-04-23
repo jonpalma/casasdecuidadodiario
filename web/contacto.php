@@ -18,7 +18,7 @@
                     Calle 22 #181, Col. San Felipe, C.P. 31020<br />
                     Chihuahua, Chih.<br /><br />
                     Email: contacto@casasdecuidado.com.mx<br />
-                    Tel: 614 410 0494
+                    Tel: 614 413 0319
                 </p>
             </div>
             <div class="col-sm-8">

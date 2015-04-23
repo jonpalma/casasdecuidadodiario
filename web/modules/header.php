@@ -35,7 +35,7 @@
                 <div class="navbar-contact">
                     <p class="text-right">
                         Niños cuidados. Padres tranquilos.<br /><br />
-                        01 800 123 4599<br /><br />
+                        614 413 0319<br /><br />
                         hola@casasdecuidado.org
                     </p>
                 </div>
