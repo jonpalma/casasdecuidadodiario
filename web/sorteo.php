@@ -91,9 +91,7 @@
                                    </a>
                                 </div>
                            </div>
-                           <div class="clearfix"></div>
                        </div>
-                       <div class="clearfix"></div>
                     </div>
                     <div class="clearfix"></div>
                </div>
@@ -109,7 +107,7 @@
               <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria-sorteo/1.jpg" class="img-responsive center-block" alt="">
+              <img src="img/galeria-sorteo/grandes/1.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
@@ -119,7 +117,7 @@
               <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria-sorteo/2.jpg" class="img-responsive center-block" alt="">
+              <img src="img/galeria-sorteo/grandes/2.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
@@ -129,7 +127,7 @@
               <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria-sorteo/3.jpg" class="img-responsive center-block" alt="">
+              <img src="img/galeria-sorteo/grandes/3.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
@@ -139,7 +137,7 @@
               <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria-sorteo/4.jpg" class="img-responsive center-block" alt="">
+              <img src="img/galeria-sorteo/grandes/4.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
@@ -149,7 +147,7 @@
               <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria-sorteo/5.jpg" class="img-responsive center-block" alt="">
+              <img src="img/galeria-sorteo/grandes/5.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
@@ -159,7 +157,7 @@
               <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria-sorteo/6.jpg" class="img-responsive center-block" alt="">
+              <img src="img/galeria-sorteo/grandes/6.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
@@ -169,7 +167,7 @@
               <img src="img/galeria-sorteo/close.png" data-dismiss="modal" alt="">
            </div>
             <div class="modal-content">
-              <img src="img/galeria-sorteo/7.jpg" class="img-responsive center-block" alt="">
+              <img src="img/galeria-sorteo/grandes/7.jpg" class="img-responsive center-block" alt="">
             </div>
           </div>
         </div>
