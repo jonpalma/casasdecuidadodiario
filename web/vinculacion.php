@@ -80,7 +80,7 @@
             <div class="col-sm-3 col-md-offset-1">
                 <img src="img/organizaciones/congreso-del-estado.jpg" alt="" class="img-responsive center-block">
                 <h4>Congreso del Estado</h4>
-                <p>Mesa de trabajo papra el impulso a la ley de niños, niñas y adolescentes.</p>
+                <p>Mesa de trabajo para el impulso a la ley de niños, niñas y adolescentes.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/comite-estatal.jpg" alt="" class="img-responsive center-block">
@@ -142,12 +142,12 @@
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/cemefi.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>CEMEFI (Centro Mexicano para la Filantropia)</h4>
-                <p>Ofrece cursos y conferencias de modo virtual en áreas de interés para el personal opérativo de nuestra institución.</p>
+                <h4>CEMEFI (Centro Mexicano para la Filantropía)</h4>
+                <p>Ofrece cursos y conferencias de modo virtual en áreas de interés para el personal operativo de nuestra institución.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/red-infancia-juarez.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>Red de la infancia de cd. Juárez</h4>
+                <h4>Red de la infancia de Cd. Juárez</h4>
                 <p>Coadyuvar esfuerzos para la participación en políticas públicas a favor de la infancia.</p>
             </div>
         </div>
@@ -181,11 +181,11 @@
             <div class="col-sm-3">
                 <img src="img/organizaciones/uach-nutricion.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Facultad de Nutrición y Enfermería</h4>
-                <p>Elabora y certifica el mení alimentario que emplean en las Casas de Cuidado Diario.</p>
+                <p>Elabora y certifica el menú alimentario que emplean en las Casas de Cuidado Diario.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/uach.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>UACH (Univiersidad Autónoma de Chihuahua)</h4>
+                <h4>UACH (Universidad Autónoma de Chihuahua)</h4>
                 <p>Convenio de Participación para el desarrollo de programas culturales y académicos en general.</p>
             </div>
             <div class="col-sm-3">
@@ -208,7 +208,7 @@
             <div class="col-sm-3">
                 <img src="img/organizaciones/uach-fisica.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Facultad de Educación Física</h4>
-                <p>implementación de Diplomados de Estimulación Temprana para MC.</p>
+                <p>Implementación de Diplomados de Estimulación Temprana para MC.</p>
             </div>
         </div>
     </div>

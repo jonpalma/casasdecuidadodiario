@@ -15,7 +15,7 @@
                 <p>
                     Información:<br /><br />
                     Casas de Cuidado Diario<br /><br />
-                    Calle 22 #181, Col. San Felipi, C.P. 31020<br />
+                    Calle 22 #181, Col. San Felipe, C.P. 31020<br />
                     Chihuahua, Chih.<br /><br />
                     Email: contacto@casasdecuidado.com.mx<br />
                     Tel: 614 410 0494

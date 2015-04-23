@@ -70,7 +70,7 @@
                             cumplir con sus compromisos.
                         </p>
                         <p>
-                            <span>humildad</span><br />
+                            <span>Humildad</span><br />
                             Reconocer sus limitaciones, cualidades y capacidades aprovechándolas para hacer el bien sin llamar la atención.
                         </p>
                         <p>
@@ -102,7 +102,7 @@
                         <p><strong>Vicepresidenta</strong></p>
                         <p><strong>Tesorera</strong></p>
                         <p><strong>Secretaria</strong></p>
-                        <p><strong>vocales</strong></p>
+                        <p><strong>Vocales</strong></p>
                 </div>
                 <div class="col-sm-7">
                        <p>María Teresa García Terrazas</p>
