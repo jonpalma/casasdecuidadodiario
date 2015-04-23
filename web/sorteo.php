@@ -47,7 +47,7 @@
             </div>
             <div class="col-sm-12">
                <div class="row masonry">
-                   <div class="col-sm-3 item">
+                   <div class="col-sm-3 item lg">
                        <a href="#" data-toggle="modal" data-target="#1">
                            <img src="img/galeria-sorteo/1.jpg" alt="" class="img-responsive center-block">
                        </a>
@@ -55,43 +55,47 @@
                    <div class="col-sm-9">
                        <div class="row margin-bottom">
                            <div class="col-sm-12 item w2">
-                                <div class="col-sm-3 item">
+                                <div class="col-sm-3 item sm">
                                    <a href="#" data-toggle="modal" data-target="#2">
                                        <img src="img/galeria-sorteo/2.jpg" alt="" class="img-responsive center-block">
                                    </a>
                                 </div>
-                                <div class="col-sm-6 item">
+                                <div class="col-sm-6 item sm">
                                    <a href="#" data-toggle="modal" data-target="#3">
                                        <img src="img/galeria-sorteo/3.jpg" alt="" class="img-responsive center-block">
                                    </a>
                                 </div>
-                                <div class="col-sm-3 item">
+                                <div class="col-sm-3 item sm">
                                    <a href="#" data-toggle="modal" data-target="#4">
                                        <img src="img/galeria-sorteo/4.jpg" alt="" class="img-responsive center-block">
                                    </a>
                                 </div>
                             </div>
+                            <div class="clearfix"></div>
                        </div>
                        <div class="row margin-bottom">
                            <div class="col-sm-12 item w2">
-                                <div class="col-sm-3 item">
+                                <div class="col-sm-3 item sm">
                                    <a href="#" data-toggle="modal" data-target="#5">
                                        <img src="img/galeria-sorteo/5.jpg" alt="" class="img-responsive center-block">
                                    </a>
                                 </div>
-                                <div class="col-sm-3 item">
+                                <div class="col-sm-3 item sm">
                                    <a href="#" data-toggle="modal" data-target="#6">
                                        <img src="img/galeria-sorteo/6.jpg" alt="" class="img-responsive center-block">
                                     </a>
                                 </div>
-                                <div class="col-sm-6 item">
+                                <div class="col-sm-6 item sm">
                                    <a href="#" data-toggle="modal" data-target="#7">
                                        <img src="img/galeria-sorteo/7.jpg" alt="" class="img-responsive center-block">
                                    </a>
                                 </div>
                            </div>
+                           <div class="clearfix"></div>
                        </div>
+                       <div class="clearfix"></div>
                     </div>
+                    <div class="clearfix"></div>
                </div>
             </div>
         </div>

@@ -632,6 +632,7 @@ form {
 .item { 
     padding: 0 5px !important;
 }
+
 .item.w2 { 
     padding: 0 !important; 
 }
@@ -789,6 +790,14 @@ form, .border-left {
     padding-right: 0;
 }
     
+.item.lg img {
+    height: auto;
+}
+
+.item.sm img {
+    height: auto;
+}
+    
 }
 
 @media (min-width: 768px) {
@@ -815,6 +824,14 @@ form, .border-left {
     top: 50% !important;
 }
     
+.item.lg img {
+    height: 310px;
+}
+
+.item.sm img {
+    height: 140px;
+}
+    
 }
 
 @media (min-width: 992px) { 
@@ -835,6 +852,14 @@ form, .border-left {
     
 .carousel-caption h1 {
     font-size: 50px;
+}
+    
+.item.lg img {
+    height: 510px;
+}
+
+.item.sm img {
+    height: 240px;
 }
     
 }
