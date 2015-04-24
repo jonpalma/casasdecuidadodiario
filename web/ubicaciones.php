@@ -18,7 +18,7 @@
                 <div class="bottom-yellow center-block"></div>
             </div>
             <div class="col-sm-12">
-                <div class="col-sm-4 border-right">
+                <div class="col-sm-4">
                     <p>
                         <strong>Col. Gustavo Díaz Ordaz</strong><br />
                         Tel. 214-00-27 <span>Cel. 447-48-88</span>
@@ -147,7 +147,7 @@
                         Tel. 262-35-44
                     </p>
                 </div>
-                <div class="col-sm-4 border-right">
+                <div class="col-sm-4 border-left border-right">
                     <p>
                         <strong>Col. Lealtad 1</strong><br />
                         Tel. 541-07-69 <span>Cel. 487-44-26</span><br />
