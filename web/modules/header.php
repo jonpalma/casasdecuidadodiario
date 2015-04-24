@@ -52,7 +52,7 @@
                               <li class="border-light-yellow"><a href="vinculacion.php">Vinculación</a></li>
                               <li class="border-orange"><a href="sorteo.php">Sorteo</a></li>
                               <li class="border-teal"><a href="#">Donaciones</a></li>
-                              <li class="border-blue"><a href="#">Ubicaciones</a></li>
+                              <li class="border-blue"><a href="ubicaciones.php">Ubicaciones</a></li>
                               <li class="border-purple"><a href="voluntariado.php">Voluntariado</a></li>
                               <li class="border-pink"><a href="contacto.php">Contacto</a></li>
                           </ul>

@@ -440,6 +440,17 @@ li.border-pink a:hover {
     margin-top: 20px;
 }
 
+.content-ubicaciones p {
+    font: 400 14px / 20.05px Raleway;
+    color: #393939;
+    text-align: left;
+    margin: 20px 0;
+}
+
+.content-ubicaciones p span {
+    padding-left: 10px;
+}
+
 
 
 

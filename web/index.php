@@ -141,7 +141,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <p><span>+ de 100</span><br /><br /> Casas de<br /> Cuidado<br />Diario</p>
-                    <a href="#" class="btn btn-green">Visítanos</a>
+                    <a href="ubicaciones.php" class="btn btn-green">Visítanos</a>
                 </div>
             </div>
         </div>
