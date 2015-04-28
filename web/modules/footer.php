@@ -35,10 +35,11 @@
               <h3>Contacto</h3>
                <address>
                   <h4>Casas de cuidado diario</h4>
-                   Calle 22 #181 <br>
+                   Trasviña y Retes 2102 <br />
                    Col. San Felipe, C.P.31020<br />
                    Chihuahua, Chih.<br />
                    Tel. 614 413 0319<br /><br />
+                   comunicacion@casasdecuidadodiario.org<br /><br />
                    <p>Chihuahua, Chihuahua, México</p>
                </address>
           </div>
@@ -46,7 +47,7 @@
    </div>
    <div class=" container-fluid bg-green footer-rights">
       <div class="row">
-          <h4>Todos los derechos reservados <span>Casas de cuidado diario</span> 2015 | Design by: <a href="http://mixen.mx"><img src="http://mixen.mx/firma/logo-mixen.png" alt="Agencia Mixen"> mixen.mx</a></h4>
+          <h4>Todos los derechos reservados <span>Casas de Cuidado Diario</span> 2015 | Design by: <a href="http://mixen.mx"><img src="http://mixen.mx/firma/logo-mixen.png" alt="Agencia Mixen"> mixen.mx</a></h4>
       </div>
    </div>
     <script src="js/jquery.min.js"></script>

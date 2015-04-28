@@ -34,9 +34,9 @@
                 </div>
                 <div class="navbar-contact">
                     <p class="text-right">
-                        Niños cuidados. Padres tranquilos.<br /><br />
-                        614 413 0319<br /><br />
-                        hola@casasdecuidado.org
+                        Tel. 413 43 00<br /><br />
+                        Tel. 413 03 19<br /><br />
+                        comunicacion@casasdecuidado.org
                     </p>
                 </div>
             </div>
@@ -49,7 +49,7 @@
                               <li class="border-menu"><a href="index.php">Inicio</a></li>
                               <li class="border-yellow"><a href="nosotros.php">Nosotros</a></li>
                               <li class="border-green"><a href="#">Servicios</a></li>
-                              <li class="border-light-yellow"><a href="vinculacion.php">Vinculación</a></li>
+                              <li class="border-light-yellow"><a href="madres-cuidadoras.php">M. Cuidadoras</a></li>
                               <li class="border-orange"><a href="sorteo.php">Sorteo</a></li>
                               <li class="border-teal"><a href="#">Donaciones</a></li>
                               <li class="border-blue"><a href="ubicaciones.php">Ubicaciones</a></li>

@@ -1,6 +1,6 @@
 <?php include('modules/header.php'); ?>
 <!-- BEGIN HEADING -->
-<div class="container-fluid parallax-container heading bg-vinculacion">
+<div id="gubernamentales" class="container-fluid parallax-container heading bg-vinculacion">
    <div class="parallax"><img src="img/parallax/vinculacion1.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>Gubernamentales</h2>
@@ -97,7 +97,7 @@
 </div>
 <!-- END GUBERNAMENTAL -->
 <!-- BEGIN HEADING 2 -->
-<div class="container-fluid parallax-container heading bg-vinculacion">
+<div id="osc" class="container-fluid parallax-container heading bg-vinculacion">
    <div class="parallax"><img src="img/parallax/vinculacion2.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>OSC</h2>
@@ -162,7 +162,7 @@
 </div>
 <!-- END OSC -->
 <!-- BEGIN HEADING 3 -->
-<div class="container-fluid parallax-container heading bg-vinculacion">
+<div id="academicas" class="container-fluid parallax-container heading bg-vinculacion">
    <div class="parallax"><img src="img/parallax/vinculacion3.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>Académicas</h2>
