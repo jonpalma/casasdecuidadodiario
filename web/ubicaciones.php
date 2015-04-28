@@ -1,6 +1,6 @@
 <?php include('modules/header.php'); ?>
 <!-- BEGIN HEADING -->
-<div class="container-fluid parallax-container heading">
+<div class="container-fluid parallax-container heading bg-ubicaciones">
    <div class="parallax"><img src="img/parallax/ubicaciones.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>Ubicaciones</h2>

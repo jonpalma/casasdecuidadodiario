@@ -187,8 +187,20 @@ li.border-pink a:hover {
     color: #fff;
 }
 
+.bg-nosotros {
+    background-color: rgba(249,196,68, 0.58) !important;
+}
+
+.bg-ubicaciones {
+    background-color: rgba(73,114,151, 0.58) !important;
+}
+
 .bg-sorteo {
     background-color: rgba(237, 157, 90, 0.7) !important;
+}
+
+.bg-contacto {
+    background-color: rgba(223,127,184, 0.58) !important;
 }
 
 /** BOTTOMS **/
