@@ -24,11 +24,11 @@
           <div class="col-sm-3">
               <h3>Servicios destacados</h3>
               <ul>
-                  <li><a href="">Alimentación</a></li>
+                  <li><a href="">Cuidado de niños y niñas</a></li>
+                  <li><a href="">Formación Integral</a></li>
+                  <li><a href="">Nutrición</a></li>
                   <li><a href="">Inglés</a></li>
-                  <li><a href="">Música</a></li>
                   <li><a href="">Computación</a></li>
-                  <li><a href="">Transporte</a></li>
               </ul>
           </div>
           <div class="col-sm-3 contacto">
@@ -36,8 +36,9 @@
                <address>
                   <h4>Casas de cuidado diario</h4>
                    Trasviña y Retes 2102 <br />
-                   Col. San Felipe, C.P.31020<br />
+                   Col. San Felipe, C.P.31240<br />
                    Chihuahua, Chih.<br />
+                   Tel. 614 413 4300<br />
                    Tel. 614 413 0319<br /><br />
                    comunicacion@casasdecuidadodiario.org<br /><br />
                    <p>Chihuahua, Chihuahua, México</p>
