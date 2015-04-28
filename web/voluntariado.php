@@ -42,7 +42,7 @@
         </div>
         <div class="row margin-top">
             <div class="col-sm-12">
-                <h3>comunicacion@casasdecuidadodiario.org</h3>
+                <h3>comunicacion@casasdecuidado.org</h3>
                 <div class="bottom-purple center-block"></div>
             </div>
         </div>

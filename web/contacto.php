@@ -15,10 +15,11 @@
                 <p>
                     Información:<br /><br />
                     Casas de Cuidado Diario<br /><br />
-                    Calle 22 #181, Col. San Felipe, C.P. 31020<br />
+                    Trasviña y Retes 2102, Col. San Felipe, C.P. 31240<br />
                     Chihuahua, Chih.<br /><br />
-                    Email: contacto@casasdecuidado.com.mx<br />
-                    Tel: 614 413 0319
+                    Email: comunicacion@casasdecuidado.org<br />
+                    Tel: 614 413 0319<br />
+                    Tel: 614 413 4300
                 </p>
             </div>
             <div class="col-sm-8">
