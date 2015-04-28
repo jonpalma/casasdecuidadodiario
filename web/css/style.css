@@ -184,6 +184,7 @@ li.border-pink a:hover {
 }
 .bg-vinculacion {
     background-color: rgba(254, 229, 128, 0.58) !important;
+    color: #fff;
 }
 
 .bg-sorteo {
@@ -242,6 +243,14 @@ li.border-pink a:hover {
     text-align: center;
     margin-top: 10px;
     margin-bottom: 20px;
+}
+
+.servicios .square {
+    background-color: #F9C444;
+    padding: 10px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
 }
 
 .alianzas h2 {
@@ -315,7 +324,7 @@ li.border-pink a:hover {
     margin-top: -20px;
 }
 
-.heading h2, .bg-parallax h2 {
+.heading h2, .bg-parallax h2, .bg-vinculacion h2 {
     font: 700 28px / 30px Raleway;
     text-align: center;
     text-shadow: 0px 1px 1px rgba(77, 77, 77, 0.3);
@@ -415,7 +424,7 @@ li.border-pink a:hover {
 .content-voluntariado ol > li::before {
     content: counter(step-counter)".";
     margin-right: 5px;
-    color: #be5193;
+    color: #43bcd5;
 }
 
 .content-organizaciones {
@@ -441,7 +450,7 @@ li.border-pink a:hover {
 }
 
 .content-ubicaciones p {
-    font: 400 14px / 20.05px Raleway;
+    font: 400 14px / 20.05px Raleway !important;
     color: #393939;
     text-align: left;
     margin: 20px 0;
@@ -633,7 +642,6 @@ form {
     font-size: 50px;
     font-weight: 700;
     width: 462px;
-    height: 160px;
 }
 
 /** MASONRY **/
@@ -738,7 +746,8 @@ footer address h4 {
 
 /** MISC **/
 body {
-    overflow-x: hidden;
+    width: auto !important;
+    overflow-x: hidden !important;
     font-family: Raleway;
     color: #393939;
     font-size: 14px;
@@ -777,6 +786,15 @@ body {
 
 /** MEDIA QUERIES **/
 @media (max-width: 767px) {
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.btn-blue {
+    width: 100%;
+}
+
 .carousel-caption {
     right: 15% !important;
     top: -10% !important;
@@ -787,10 +805,32 @@ body {
     font-size: 20px;
     width: 100%;
     text-align: center;
+    visibility: hidden;
 }
     
 .carousel-prev, .carousel-next {
     top: 25% !important;
+}
+
+.carousel-indicators {
+    bottom: 5px;
+}
+    
+.carousel-indicators li {
+    background-image: none;
+    background-color: #fff;
+    border: 1px solid #43BCD5;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.carousel-indicators li.active {
+    background-image: none;
+    background-color: #43BCD5;
+    border: 1px solid #43BCD5;
+    width: 10px;
+    height: 10px;
 }
 
 .nosotros p {
@@ -815,6 +855,10 @@ form, .border-left {
     height: auto;
 }
     
+.content-voluntariado ol {
+    padding-left: 0;
+}
+    
 }
 
 @media (min-width: 768px) {
@@ -829,7 +873,7 @@ form, .border-left {
     
 .carousel-caption {
     right: 20% !important;
-    top: 30% !important;
+    top: 15% !important;
     left: auto !important;
 }
 
@@ -849,6 +893,11 @@ form, .border-left {
     height: 140px;
 }
     
+.servicios p {
+    font-size: 16px;
+    letter-spacing: -1px;
+}
+    
 }
 
 @media (min-width: 992px) { 
@@ -863,7 +912,7 @@ form, .border-left {
     
 .carousel-caption {
     right: 25% !important;
-    top: 40% !important;
+    top: 15% !important;
     left: auto !important;
 }
     
@@ -877,6 +926,11 @@ form, .border-left {
 
 .item.sm img {
     height: 240px;
+}
+    
+.servicios p {
+    font-size: 20px;
+    letter-spacing: 0;
 }
     
 }

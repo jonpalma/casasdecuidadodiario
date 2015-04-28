@@ -22,31 +22,31 @@
                 </p>
             </div>
             <div class="col-sm-8">
-                <form action="" class="form-horizontal">
+                <form action="mailer.php" id="ajax-contact" class="form-horizontal">
                            <div class="form-group">
                                <div class="col-sm-6">
                                    <label for="contacto_nombre" class="control-label">Nombre:</label>
-                                   <input type="text" class="form-control form-textfield" id="contacto_nombre">
+                                   <input type="text" class="form-control form-textfield" id="contacto_nombre" name="nombreContacto">
                                </div>
                                <div class="col-sm-6">
                                    <label for="contacto_empresa" class="control-label">Empresa:</label>
-                                   <input type="text" class="form-control form-textfield" id="contacto_empresa">
+                                   <input type="text" class="form-control form-textfield" id="contacto_empresa" name="nombreEmpresa">
                                </div>  
                            </div>
                            <div class="form-group">
                                <div class="col-sm-6">
                                    <label for="contacto_email" class="control-label">Email:</label>
-                                   <input type="email" class="form-control form-textfield" id="contacto_email">
+                                   <input type="email" class="form-control form-textfield" id="contacto_email" name="emailContacto">
                                </div>
                                <div class="col-sm-6">
                                    <label for="contacto_telefono" class="control-label">Teléfono:</label>
-                                   <input type="text" class="form-control form-textfield" id="contacto_telefono">
+                                   <input type="text" class="form-control form-textfield" id="contacto_telefono" name="telContacto">
                                </div>
                            </div>
                            <div class="form-group">
                                <div class="col-sm-12">
                                        <label for="contacto_mensaje" class="control-label">Mensaje:</label>
-                                   <textarea class="form-textarea" name="" id="contacto_mensaje" cols="30" rows="10"></textarea>
+                                   <textarea class="form-textarea" name="mensajeContacto" id="contacto_mensaje" cols="30" rows="10"></textarea>
                                </div>
                            </div>
                            <div class="form-group">
@@ -55,6 +55,9 @@
                               </div>
                         </div>
                     </form>
+                    <div class="col-sm-12">
+                        <div id="form-messages" role="alert"></div>
+                    </div>
             </div>
         </div>
     </div>
