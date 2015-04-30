@@ -15,10 +15,14 @@
         <div class="row">
             <div class="col-sm-12">
                 <h2>Casas de cuidado Diario</h2>
-                <div class="bottom-yellow center-block"></div>
+                <div class="bottom-dark-blue center-block"></div>
             </div>
-            <div class="col-sm-12">
+            <div class="col-sm-12 margin-top">
                 <div class="col-sm-4">
+                   <div class="col-sm-12 margin-bottom">
+                        <h2>Zona Norte</h2>
+                        <div class="bottom-dark-blue center-block"></div>
+                   </div>
                     <p>
                         <strong>Col. Gustavo Díaz Ordaz</strong><br />
                         Tel. 214-00-27 <span>Cel. 447-48-88</span>
@@ -120,34 +124,13 @@
                         Tel. 112-18-45 <span>Cel. 133-39-59</span><br />
                         Tel. 296-94-69 <span>Cel. 286-89-21</span><br />
                         Tel. 482-36-90
-                    </p>
-                    <p>
-                        <strong>Col. Jardines de Oriente</strong><br />
-                        Tel. 296-97-80 <span>Cel. 169-21-15</span><br />
-                        Tel. 291-08-93
-                    </p>
-                    <p>
-                        <strong>Col. Jardines de Sacramento</strong><br />
-                        Cel. 275-95-63
-                    </p>
-                    <p>
-                        <strong>Col. Junta de los Ríos</strong><br />
-                        Tel. 262-37-22 <span>Cel. 502-36-21</span>
-                    </p>
-                    <p>
-                        <strong>Col. La Ciudadela Fase B, Etapa IV, Cuauhtemoc, Chih.</strong><br />
-                        Tel. 625-114-03-46
-                    </p>
-                    <p>
-                        <strong>Col. Laderas de San Guillermo II, Aquiles Serdán</strong><br />
-                        Cel. 218-65-99
-                    </p>
-                    <p>
-                        <strong>Col. Lázaro Cárdenas</strong><br />
-                        Tel. 262-35-44
-                    </p>
+                    </p>   
                 </div>
                 <div class="col-sm-4 border-left border-right">
+                   <div class="col-sm-12 margin-bottom">
+                        <h2>Zona Sur</h2>
+                        <div class="bottom-dark-blue center-block"></div>
+                   </div>
                     <p>
                         <strong>Col. Lealtad 1</strong><br />
                         Tel. 541-07-69 <span>Cel. 487-44-26</span><br />
@@ -249,42 +232,12 @@
                         Tel. 261-89-82 <span>Cel. 156-90-04</span><br />
                         Cel. 106-35-18
                     </p>
-                    <p>
-                        <strong>Col. Revolución</strong><br />
-                        Tel. 296-96-00 <span>Cel. 289-70-36</span><br />
-                        Tel. 484-86-31 <span>Cel. 195-12-47</span><br />
-                        Tel. 262-75-44 <span>Cel. 268-96-37</span><br />
-                        Tel. 482-06-89 <span>Cel. 502-88-21</span><br />
-                        Cel. 278-05-91<br />
-                        Tel. 482-13-29 <span>Cel. 163-48-45</span><br />
-                    </p>
-                    <p>
-                        <strong>Col. Riberas de Sacramento</strong><br />
-                        Tel. 499-47-65 <span>Cel. 342-85-71</span>
-                    </p>
-                    <p>
-                        <strong>Col. Rigoberto Quiroz</strong><br />
-                        Tel. 446-00-49 <span>Cel. 22-89-48</span>
-                    </p>
-                    <p>
-                        <strong>Col. Rinconada Los Nogales II</strong><br />
-                        Cel. 149-61-23
-                    </p>
-                    <p>
-                        <strong>Col. Rodolfo Fierro</strong><br />
-                        Tel. 370-17-10
-                    </p>
-                    <p>
-                        <strong>Col. Rosario</strong><br />
-                        Tel. 261-09-69 <span>Cel. 188-16-97</span><br />
-                        Cel. 231-62-02
-                    </p>
-                    <p>
-                        <strong>Col. Rubio</strong><br />
-                        Tel. 433-21-81 <span>Cel. 104-40-04</span>
-                    </p>
                 </div>
                 <div class="col-sm-4">
+                   <div class="col-sm-12 margin-bottom">
+                        <h2>Zona Este</h2>
+                        <div class="bottom-dark-blue center-block"></div>
+                   </div>
                     <p>
                         <strong>Col. Santa Rita</strong><br />
                         Tel. 416-82-45 <span>Cel. 513-40-71</span>
@@ -386,36 +339,112 @@
                         <strong>Fracc. Quintas Juan Pablo</strong><br />
                         Tel. 261-05-50 <span>Cel. 253-10-47</span>
                     </p>
-                    <p>
-                        <strong>Fracc. San Ignacio</strong><br />
-                        Tel. 419-24-39 <span>Cel. 253-10-47</span>
-                    </p>
-                    <p>
-                        <strong>Fracc. Santo Tomás</strong><br />
-                        Tel. 484-60-10 <span>Cel. 213-64-88</span>
-                    </p>
-                    <p>
-                        <strong>Fracc. Torres del Rey</strong><br />
-                        Tel. 417-21-36 <span>Cel. 192-87-26</span>
-                    </p>
-                    <p>
-                        <strong>Fracc. Valle del Sauco II</strong><br />
-                        Cel. 279-38-00
-                    </p>
-                    <p>
-                        <strong>Fracc. Valparaíso, Alvaro Obregón, Chihuahua</strong><br />
-                        Cel. 614-302-61-07 <span>Cel. 625-283-62-38</span>
-                    </p>
-                    <p>
-                        <strong>Fracc. Villas del Real</strong><br />
-                        Tel. 493-71-92
-                    </p>
-                    <p>
-                        <strong>Fracc. Viñedos California</strong><br />
-                        Tel. 436-14-86 <span>Cel. 44-54-42</span>
-                    </p>
                 </div>
             </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="row margin-top">
+          <div class="col-sm-2"></div>
+           <div class="col-sm-4 border-right">
+               <div class="col-sm-12 margin-bottom">
+                        <h2>Zona Centro</h2>
+                        <div class="bottom-dark-blue center-block"></div>
+               </div>
+                        <p>
+                            <strong>Col. Revolución</strong><br />
+                            Tel. 296-96-00 <span>Cel. 289-70-36</span><br />
+                            Tel. 484-86-31 <span>Cel. 195-12-47</span><br />
+                            Tel. 262-75-44 <span>Cel. 268-96-37</span><br />
+                            Tel. 482-06-89 <span>Cel. 502-88-21</span><br />
+                            Cel. 278-05-91<br />
+                            Tel. 482-13-29 <span>Cel. 163-48-45</span><br />
+                        </p>
+                        <p>
+                            <strong>Col. Riberas de Sacramento</strong><br />
+                            Tel. 499-47-65 <span>Cel. 342-85-71</span>
+                        </p>
+                        <p>
+                            <strong>Col. Rigoberto Quiroz</strong><br />
+                            Tel. 446-00-49 <span>Cel. 22-89-48</span>
+                        </p>
+                        <p>
+                            <strong>Col. Rinconada Los Nogales II</strong><br />
+                            Cel. 149-61-23
+                        </p>
+                        <p>
+                            <strong>Col. Rodolfo Fierro</strong><br />
+                            Tel. 370-17-10
+                        </p>
+                        <p>
+                            <strong>Col. Rosario</strong><br />
+                            Tel. 261-09-69 <span>Cel. 188-16-97</span><br />
+                            Cel. 231-62-02
+                        </p>
+                        <p>
+                            <strong>Col. Rubio</strong><br />
+                            Tel. 433-21-81 <span>Cel. 104-40-04</span>
+                        </p>
+                        <p>
+                            <strong>Col. Jardines de Oriente</strong><br />
+                            Tel. 296-97-80 <span>Cel. 169-21-15</span><br />
+                            Tel. 291-08-93
+                        </p>
+                        <p>
+                            <strong>Col. Jardines de Sacramento</strong><br />
+                            Cel. 275-95-63
+                        </p>
+                        <p>
+                            <strong>Col. Junta de los Ríos</strong><br />
+                            Tel. 262-37-22 <span>Cel. 502-36-21</span>
+                        </p>
+           </div>
+           <div class="col-sm-4">
+               <div class="col-sm-12 margin-bottom">
+                        <h2>Zona Foraneas</h2>
+                        <div class="bottom-dark-blue center-block"></div>
+               </div>
+                        <p>
+                            <strong>Fracc. San Ignacio</strong><br />
+                            Tel. 419-24-39 <span>Cel. 253-10-47</span>
+                        </p>
+                        <p>
+                            <strong>Fracc. Santo Tomás</strong><br />
+                            Tel. 484-60-10 <span>Cel. 213-64-88</span>
+                        </p>
+                        <p>
+                            <strong>Fracc. Torres del Rey</strong><br />
+                            Tel. 417-21-36 <span>Cel. 192-87-26</span>
+                        </p>
+                        <p>
+                            <strong>Fracc. Valle del Sauco II</strong><br />
+                            Cel. 279-38-00
+                        </p>
+                        <p>
+                            <strong>Fracc. Valparaíso, Alvaro Obregón, Chihuahua</strong><br />
+                            Cel. 614-302-61-07 <span>Cel. 625-283-62-38</span>
+                        </p>
+                        <p>
+                            <strong>Fracc. Villas del Real</strong><br />
+                            Tel. 493-71-92
+                        </p>
+                        <p>
+                            <strong>Fracc. Viñedos California</strong><br />
+                            Tel. 436-14-86 <span>Cel. 44-54-42</span>
+                        </p>
+                        <p>
+                            <strong>Col. La Ciudadela Fase B, Etapa IV, Cuauhtemoc, Chih.</strong><br />
+                            Tel. 625-114-03-46
+                        </p>
+                        <p>
+                            <strong>Col. Laderas de San Guillermo II, Aquiles Serdán</strong><br />
+                            Cel. 218-65-99
+                        </p>
+                        <p>
+                            <strong>Col. Lázaro Cárdenas</strong><br />
+                            Tel. 262-35-44
+                        </p>
+           </div>
+           <div class="col-sm-2"></div>
             <div class="clearfix"></div>
         </div>
     </div>

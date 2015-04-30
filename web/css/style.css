@@ -204,7 +204,7 @@ li.border-pink a:hover {
 }
 
 /** BOTTOMS **/
-.bottom-yellow, .bottom-white, .bottom-blue, .bottom-purple, .bottom-orange {
+.bottom-yellow, .bottom-white, .bottom-blue, .bottom-purple, .bottom-orange, .bottom-dark-blue {
     width: 156px;
     height: 8px;
     border-radius: 5px;
@@ -237,6 +237,10 @@ li.border-pink a:hover {
     border: 1px solid #ed9d5a;
 }
 
+.bottom-dark-blue {
+    background-color: #497297;
+    border: 1px solid #497297;
+}
 /** CONTENT **/
 .servicios {
     font-family: Raleway;

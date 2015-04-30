@@ -19,9 +19,10 @@
                <img src="img/voluntariado1.jpg" alt="" class="img-responsive">
            </div>
            <div class="col-sm-8">
-               <p>El voluntariado para Casa de Cuidado Diario es la columna vertebral de la labor que la institución realiza.</p>
+               <p>El voluntariado para Casa de Cuidado Diario es la columna vertebral de la labor que la institución realiza a tráves de un programa de capacitación continua.</p>
                <p>Nuestras voluntarias son el motor que permite generar un círculo virtuoso de desarrollo humano en todos los ámbitos, tanto para nuestras Madres Cuidadoras, los niños y niñas, los padres de familia y el personal operativo que trabaja en conjunto para desarrollar los Programas que maneja la Institución.</p>
                <p>La unión de todas estas voluntades y servicio enriquece la operación y con ello permite un crecimiento y desarrollo basado en este capital social.</p>
+               <p>Hay dos formas de ser voluntario:</p>
            </div>
          </div>
          <div class="row margin-top">
@@ -30,14 +31,14 @@
                    <h3>Guía de desarrollo</h3>
                    <div class="bottom-purple center-block"></div>
                </div>
-               <p>Representante de la Institución, responsable de apoyar y verificar la operación de la Casa de Cuidado Diario, con el fin de asegurar el buen funcionamiento de la misma.</p>
+               <p>Voluntaria de la Institución, responsable de apoyar y verificar la operación de la Casa de Cuidado Diario, con el fin de asegurar el buen funcionamiento de la misma.</p>
            </div>
            <div class="col-sm-6 border-left">
                <div class="col-sm-12">
                    <h3>Guía de junta de padres</h3>
                    <div class="bottom-purple center-block"></div>
                </div>
-               <p>Representante de la Institución ante las familias de la comunidad, portando la filosofía del programa y manteniendo un contacto directo con la Madre Cuidadora.<br />Es responsable de proporcionar a los padres de familia herramientas para la integración familiar a través de los temas que se exponen cada mes.</p>
+               <p>Voluntaria de la Institución ante las familias de la comunidad, portando la filosofía del programa y manteniendo un contacto directo con la Madre Cuidadora.<br />Es responsable de proporcionar a los padres de familia herramientas para la integración familiar a través de los temas que se exponen cada mes.</p>
            </div>
         </div>
         <div class="row margin-top">

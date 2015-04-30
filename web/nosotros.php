@@ -105,18 +105,18 @@
                         <p><strong>Vocales</strong></p>
                 </div>
                 <div class="col-sm-7">
-                       <p>María de los Ángeles Vizcaya Engroñat</p>
-                       <p>Mariana Medina Pegram</p>
-                       <p>Blanca Rosa Montes Prado</p>
+                       <p>María Teresa García Terrazas</p>
+                       <p>Fabiola Corral Pérez</p>
+                       <p>Patricia Margarita Fierro Shelton</p>
                        <p>Ana Cecilia Sánchez Vizcaya</p>
-                       <p>Adriana Rodríguez Amezaga<br />
+                       <p>María de los Ángeles Vizcaya Engroñat<br />
+                            Mariana Medina Pegram<br />
+                            Blanca Rosa Montes Prado<br />
+                            Adriana Rodríguez Amezaga<br />
                             María Emilia García Domínguez<br />
                             Rosa Elena Corral Lozano<br />
                             Ana Gabriela Guerrero Elías<br />
                             Leticia Terrazas Becerra<br />
-                            María Teresa García Terrazas<br />
-                            Fabiola Corral Pérez<br />
-                            Patricia Margarita Fierro Shelton<br />
                             Rosalinda Ramos Ríos
                        </p>
                 </div>
