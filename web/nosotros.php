@@ -112,12 +112,11 @@
                        <p>María de los Ángeles Vizcaya Engroñat<br />
                             Mariana Medina Pegram<br />
                             Blanca Rosa Montes Prado<br />
-                            Adriana Rodríguez Amezaga<br />
+                            Adriana Rodríguez Amézaga<br />
                             María Emilia García Domínguez<br />
                             Rosa Elena Corral Lozano<br />
                             Ana Gabriela Guerrero Elías<br />
-                            Leticia Terrazas Becerra<br />
-                            Rosalinda Ramos Ríos
+                            Leticia Terrazas Becerra
                        </p>
                 </div>
                 <div class="clearfix"></div>

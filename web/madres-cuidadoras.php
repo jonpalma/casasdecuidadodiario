@@ -57,11 +57,18 @@
                     <li>El espacio que se designará para la Casa de Cuidado Diario deberá estar a la entrada de la casa cerca de la cocina y del baño, y será mínimo de 20 a 25 metros cuadrados.</li>
                     <li>Deberá contar con un espacio recreativo que esté limpio y seguro, ya sea el patio o al frente, donde los niños salgan a jugar.</li>
                     <li>En la casa no puede haber ningún negocio (abarrotes, taller de soldadura, mecánico, etc.).</li>
-                    <li>La persona interesada se debe asegurar que haya niños de 16 años a 6 años que tengan la necesidad de contar con una Casa de Cuidado Diario.</li>
-                    <li>La casa de la interesada debe estar relativamente cerca de algún kínder de tal manera que pueda trasladarse con los niños.</li>
+                    <li>La persona interesada se debe asegurar que haya niños de 1.5 años a 9 años que tengan la necesidad de contar con una Casa de Cuidado Diario.</li>
+                    <li>La casa de la interesada debe estar relativamente cerca de algún kínder o primaria de tal manera que pueda trasladarse con los niños.</li>
                     <li>La casa en donde se desea poner la casa de cuidado no debe estar cerca de otra que ya esté instalada.</li>
                     <li>No deberá tener animales ni alfombras en la casa.</li>
+                    <li>Aprobar la valoración psicológica aplicada por la Procuraduría de Asistencia Jurídica y Social.</li>
                 </ol>
+            </div>
+        </div>
+        <div class="row margin-top">
+            <div class="col-sm-12">
+                <h3>aperturas@casasdecuidado.com</h3>
+                <div class="bottom-yellow center-block"></div>
             </div>
         </div>
     </div>

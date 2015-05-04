@@ -12,7 +12,7 @@
                                   <img src="img/banner/1.jpg" class="img-responsive" alt="">
                                   <div class="container">
                                     <div class="carousel-caption">
-                                      <h1>Mientras sus padres trabajan, muchos niños se quedan solos.</h1>
+                                      <h1>"Mientras sus padres trabajan, muchos niños se quedan solos... ¡Apoyanos!"</h1>
                                     </div>
                                   </div>
                                 </div>
@@ -20,7 +20,7 @@
                                   <img src="img/banner/2.jpg" class="img-responsive" alt="">
                                   <div class="container">
                                     <div class="carousel-caption">
-                                      <h1>Mientras sus padres trabajan, muchos niños se quedan solos.</h1>
+                                      <h1>"Mientras sus padres trabajan, muchos niños se quedan solos... ¡Apoyanos!"</h1>
                                     </div>
                                   </div>
                                 </div>
@@ -28,7 +28,7 @@
                                   <img src="img/banner/3.jpg" class="img-responsive" alt="">
                                   <div class="container">
                                     <div class="carousel-caption">
-                                      <h1>Mientras sus padres trabajan, muchos niños se quedan solos.</h1>
+                                      <h1>"Mientras sus padres trabajan, muchos niños se quedan solos... ¡Apoyanos!"</h1>
                                     </div>
                                   </div>
                                 </div>
@@ -36,7 +36,7 @@
                                   <img src="img/banner/4.jpg" class="img-responsive" alt="">
                                   <div class="container">
                                     <div class="carousel-caption">
-                                      <h1>Mientras sus padres trabajan, muchos niños se quedan solos.</h1>
+                                      <h1>"Mientras sus padres trabajan, muchos niños se quedan solos... ¡Apoyanos!"</h1>
                                     </div>
                                   </div>
                                 </div>
@@ -75,15 +75,15 @@
                 </div>
                 <div class="col-sm-2">
                    <div class="square img-responsive">
-                       <img src="img/servicios/ingles.png" alt="" class="img-responsive center-block img-square">
+                       <img src="img/servicios/becas.png" alt="" class="img-responsive center-block img-square">
                    </div>
-                    <p class="text-center">Inglés</p>
+                    <p class="text-center">Becas</p>
                 </div>
                 <div class="col-sm-2">
                    <div class="square img-responsive">
-                       <img src="img/servicios/computacion.png" alt="" class="img-responsive center-block img-square">
+                       <img src="img/servicios/auto-empleo.png" alt="" class="img-responsive center-block img-square">
                    </div>
-                    <p class="text-center">Computación</p>
+                    <p class="text-center">Auto Empleo</p>
                 </div>
                 <div class="col-sm-1"></div>
             </div>
@@ -103,9 +103,9 @@
                 </div>
                 <div class="col-sm-2">
                    <div class="square img-responsive">
-                       <img src="img/servicios/becas.png" alt="" class="img-responsive center-block img-square">
+                       <img src="img/servicios/ingles.png" alt="" class="img-responsive center-block img-square">
                    </div>
-                    <p class="text-center">Becas</p>
+                    <p class="text-center">Inglés</p>
                 </div>
                 <div class="col-sm-2">
                    <div class="square img-responsive">
@@ -115,9 +115,9 @@
                 </div>
                 <div class="col-sm-2">
                    <div class="square img-responsive">
-                       <img src="img/servicios/auto-empleo.png" alt="" class="img-responsive center-block img-square">
+                       <img src="img/servicios/computacion.png" alt="" class="img-responsive center-block img-square">
                    </div>
-                    <p class="text-center">Auto Empleo</p>
+                    <p class="text-center">Computación</p>
                 </div>
                 <div class="col-sm-1"></div>
             </div>
