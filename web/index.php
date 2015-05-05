@@ -150,7 +150,7 @@
            </div>
             <div class="col-sm-4">
                <a href="vinculacion.php#gubernamentales">
-                    <img src="img/alianzas/gob/<?php echo mt_rand(1, 15);?>.png" alt="" class="img-responsive center-block">
+                    <img src="img/alianzas/gob/<?php echo mt_rand(1, 16);?>.png" alt="" class="img-responsive center-block">
                     <h3>Gubernamental</h3>
                </a>
             </div>

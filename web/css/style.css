@@ -191,6 +191,10 @@ li.border-pink a:hover {
     background-color: rgba(249,196,68, 0.58) !important;
 }
 
+.bg-servicios {
+    background-color: rgba(173,194,82, 0.58) !important;
+}
+
 .bg-ubicaciones {
     background-color: rgba(73,114,151, 0.58) !important;
 }

@@ -1,6 +1,6 @@
 <?php include('modules/header.php'); ?>
 <!-- BEGIN HEADING -->
-<div id="gubernamentales" class="container-fluid parallax-container heading bg-vinculacion">
+<div id="gubernamentales" class="container-fluid parallax-container heading bg-servicios">
    <div class="parallax"><img src="img/parallax/vinculacion1.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>Gubernamentales</h2>
@@ -14,29 +14,29 @@
             <div class="col-sm-3">
                 <img src="img/organizaciones/procuradurias-de-la-defensa-del-menor-y-la-familia.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Procuraduría de la Defensa del Menor y la Familia</h4>
-                <p>Realiza los exámenes psicológicos a las candidatas a Madre Cuidadora y se le canalizan problemas con los niños y sus familias.</p>
+                <p>Realiza los exámenes psicológicos a las candidatas a Madre Cuidadora  y se le canalizan problemas con los niños/niñas y sus familias.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/comision-federal-para-proteccion-contra-riesgos-sanitarios.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>COESPRIS (Regulación Sanitaria)</h4>
-                <p>Otorga los permisos sanitarios para el funcionamiento de la casa.</p>
+                <p>Otorga los permisos sanitarios para el funcionamiento de la Casa de Cuidado.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/capsi.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CAPSI (Centro de Atención Psicológica Integral)</h4>
-                <p>Vínculo para canalizar cualquier anomalía detectada en el sano desarrollo psicológico de los niños beneficiarios.</p>
+                <p>Vínculo para canalizar cualquier anomalía detectada en el sano desarrollo psicológico de los niños y niñas beneficiarios.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/dif.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>DIF Municipal</h4>
-                <p>Convenio en conjunto para incrementar la cobertura del Programa en la ciudad.</p>
+                <p>A través de éste se canalizan los niños y las familias que presentan algún tipo de problema enviándolos a su centro de atención psicológica CAPSI.</p>
             </div>
         </div>
         <div class="row margin-bottom">
             <div class="col-sm-3">
                 <img src="img/organizaciones/instituto-chihuahuense-de-la-mujer.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>ICHMujer (Instituto Chihuahuense de la Mujer)</h4>
-                <p>Se canalizan casos legales, psicológicos y/o de atención especializada a mujeres; recibimos y becamos a hijo de mujeres refugiadas.</p>
+                <p>Se canalizan casos legales, psicológicos y/o de atención especializada a mujeres; recibimos y becamos a hijos e hijas de mujeres en situación de violencia.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/immujer.jpg" alt="" class="img-responsive center-block margin-bottom">
@@ -46,58 +46,63 @@
             <div class="col-sm-3">
                 <img src="img/organizaciones/sedesol.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Secretaría de Fomento Social del Gobierno del Estado</h4>
-                <p>Apoya la operación del Programa por medio de recursos vía subsidio.</p>
+                <p>Apoya la operación del Programa por medio de recursos vía subsidio. Participamos en la Mesa de Niños, Niñas y Adolescentes.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/gobierno-del-estado.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>Secretaría de Salud</h4>
-                <p>Apoyo con Doctores y practicantes que realizan visitas de revisiones médicas a los menores en las casas de cuidado Diario.</p>
+                <img src="img/organizaciones/implan.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>IMPLAN (Instituto Municipal de Planeación)</h4>
+                <p>Convenio de intercambio de información de infraestructura para la instalación de Casas de Cuidado Diario.</p>
             </div>
         </div>
         <div class="row margin-bottom">
+           <div class="col-sm-3">
+                <img src="img/organizaciones/gobierno-del-estado.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>Secretaría de Salud</h4>
+                <p>Apoyo con Doctores y practicantes que realizan visitas de revisiones médicas a los menores en las Casas de Cuidado Diario.</p>
+            </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/ayuntamiento-chihuahua.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Presidencia Municipal de Chihuahua y Cuauhtémoc</h4>
-                <p>Otorgan donativos a la institución por proyectos.</p>
+                <p>Otorgan donativos a la  Institución como despensas y becas.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/dif-estatal.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>DIF Estatal</h4>
-                <p>Apoya a la institución con insumos para eventos y aval para proyectos.</p>
+                <p>Apoya a la Institución con insumos para eventos y proyectos específicos.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/seech.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>SEECH (Servicios Educativos del Estado de Chihuahua)</h4>
-                <p>Integración del Comité ATP (asesores técnicos pedagógicos).</p>
-            </div>
-            <div class="col-sm-3">
-                <img src="img/organizaciones/pensiones-civiles.jpg" alt="" class="img-responsive center-block margin-bottom">
-                <h4>Pensiones Civiles del Estado</h4>
-                <p>Implementación de un Casa de Cuidado Diario en sus instalaciones para dar atención a hijos de trabajadoras.</p>
+                <p>ntegración del Comité ATP (asesores técnicos pedagógicos).</p>
             </div>
         </div>
         <div class="row margin-bottom">
-            <div class="col-sm-3 col-md-offset-1">
+           <div class="col-sm-3">
+                <img src="img/organizaciones/pensiones-civiles.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <h4>Pensiones Civiles del Estado</h4>
+                <p>mplementación de una Casa de Cuidado Diario en sus instalaciones para dar atención a hijos e hijas de los empleados.</p>
+            </div>
+            <div class="col-sm-3">
                 <img src="img/organizaciones/congreso-del-estado.jpg" alt="" class="img-responsive center-block">
                 <h4>Congreso del Estado</h4>
-                <p>Mesa de trabajo para el impulso a la ley de niños, niñas y adolescentes.</p>
+                <p> Mesa de trabajo para el impulso a la ley de niños, niñas y adolescentes.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/comite-estatal.jpg" alt="" class="img-responsive center-block">
                 <h4>Comité Estatal de Seguimiento y Vigilancia de los Derechos de los Niños</h4>
-                <p>Para unir esfuerzos interinstitucionales para evaluar el progreso de la aplicación de los derechos de los niños, niñas y adolescentes.</p>
+                <p>Miembros del Comité, participamos en la evaluación y el progreso de la aplicación de los derechos de los niños, niñas y adolescentes.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/codeso.jpg" alt="" class="img-responsive center-block">
                 <h4>CODESO y PC (Consejo de Desarrollo Social y Participación Ciudadana)</h4>
-                <p>Formamos parte del Consejo para la participación en políticas públicas.</p>
+                <p>Presidimos la Comisión de niños y niñas de este Consejo para la participación en políticas públicas.</p>
             </div>
         </div>
     </div>
 </div>
 <!-- END GUBERNAMENTAL -->
 <!-- BEGIN HEADING 2 -->
-<div id="osc" class="container-fluid parallax-container heading bg-vinculacion">
+<div id="osc" class="container-fluid parallax-container heading bg-servicios">
    <div class="parallax"><img src="img/parallax/vinculacion2.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>OSC</h2>
@@ -111,17 +116,17 @@
             <div class="col-sm-3">
                 <img src="img/organizaciones/fechac.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>FECHAC (Fundación del Empresariado Chihuahuense)</h4>
-                <p>Convenios de alianza para distintos proyectos.</p>
+                <p>Apoyo en proyectos específicos.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/damas-vicentinas.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Damas Vicentinas</h4>
-                <p>Convenio de comodato de inmueble en la colonia Tarahumara para el servicio de comedor para niños.</p>
+                <p>Convenio de Comodato de Inmueble en la Colonia Tarahumara para el servicio de comedor para niños.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/red-por-derechos-de-la-infancia.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Red por los derechos de la infancia en México</h4>
-                <p>Formamos parte de la Red, la cual fue creada por el Centro de Fortalecimiento a las instituciones de la Sociedad Civil, en la que participan más de 70 OSC's dedicadas a la protección infantil.</p>
+                <p>Miembros activos de la Red.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/cedehm.jpg" alt="" class="img-responsive center-block margin-bottom">
@@ -133,17 +138,17 @@
             <div class="col-sm-3">
                 <img src="img/organizaciones/cfosc.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CFOSC (Centro de Fortalecimiento a las Organizaciones de la Sociedad Civil)</h4>
-                <p>Es el vínculo con otras OSC's ofrece cursos y capacitaciones en áreas de interés y apoyo con trámites, espacios en medios, etc.</p>
+                <p>Es el vínculo con otras OSC´s, ofrece cursos y capacitaciones en áreas de interés y apoyo con trámites, espacios en medios, etc.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/ezer.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>EZER La casa del Voluntario en Chihuahua</h4>
-                <p>Nos apoya con campañas de reclutamiento y Casas de Cuidado Diario ofrece sus programas de voluntariado para ser aprendidos y replicados por otras OSC's.</p>
+                <p>Nos apoya con campañas de reclutamiento y Casas de Cuidado Diario ofrece sus programas de voluntariado para ser aprendidos y replicados por otras OSC´s.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/cemefi.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CEMEFI (Centro Mexicano para la Filantropía)</h4>
-                <p>Ofrece cursos y conferencias de modo virtual en áreas de interés para el personal operativo de nuestra institución.</p>
+                <p>Ofrece cursos y conferencias de modo virtual en áreas de interés para el personal operativo de nuestra Institución.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/red-infancia-juarez.jpg" alt="" class="img-responsive center-block margin-bottom">
@@ -151,18 +156,11 @@
                 <p>Coadyuvar esfuerzos para la participación en políticas públicas a favor de la infancia.</p>
             </div>
         </div>
-        <div class="row margin-bottom">
-            <div class="col-sm-3 center-block no-float">
-                <img src="img/organizaciones/comision-osc.jpg" alt="" class="img-responsive center-block">
-                <h4>Comisión de Fomento a las Actividades de las OSC</h4>
-                <p>Miembros del Consejo Técnico Consultivo de dicha Comisión.</p>
-            </div>
-        </div>
     </div>
 </div>
 <!-- END OSC -->
 <!-- BEGIN HEADING 3 -->
-<div id="academicas" class="container-fluid parallax-container heading bg-vinculacion">
+<div id="academicas" class="container-fluid parallax-container heading bg-servicios">
    <div class="parallax"><img src="img/parallax/vinculacion3.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>Académicas</h2>
@@ -181,7 +179,7 @@
             <div class="col-sm-3">
                 <img src="img/organizaciones/uach-nutricion.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Facultad de Nutrición y Enfermería</h4>
-                <p>Elabora y certifica el menú alimentario que emplean en las Casas de Cuidado Diario.</p>
+                <p>Elabora los menús que se emplean en las Casas de Cuidado Diario.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/uach.jpg" alt="" class="img-responsive center-block margin-bottom">
@@ -208,7 +206,7 @@
             <div class="col-sm-3">
                 <img src="img/organizaciones/uach-fisica.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Facultad de Educación Física</h4>
-                <p>Implementación de Diplomados de Estimulación Temprana para MC.</p>
+                <p>Implementación de Diplomados de Estimulación Temprana para Madres Cuidadoras.</p>
             </div>
         </div>
     </div>
