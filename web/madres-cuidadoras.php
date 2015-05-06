@@ -23,7 +23,7 @@
             <div class="col-sm-8">
                 <p>El voluntariado para Casa de Cuidado Diario es la columna vertebral de la labor que la institución realiza.</p>
                <p>Nuestras voluntarias son el motor que permite generar un círculo virtuoso de desarrollo humano en todos los ámbitos, tanto para nuestras Madres Cuídadoras, los niños y niñas, los padres de familia y el personal operativo que trabaja en conjunto para desarrollar los Programas que maneja la Institución.</p>
-               <p>La unión de todas estas voluntadas y servicio enriquece la operación y con ello permite un crecimiento y desarrollo basado en este capital social.</p>
+               <p>La unión de todas estas voluntades y servicio enriquece la operación y con ello permite un crecimiento y desarrollo basado en este capital social.</p>
             </div>
         </div>
     </div>

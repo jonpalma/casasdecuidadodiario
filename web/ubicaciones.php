@@ -14,7 +14,7 @@
     <div class="container servicios content-ubicaciones">
         <div class="row">
             <div class="col-sm-12">
-                <h2>Casas de cuidado Diario</h2>
+                <h2>Casas de Cuidado Diario</h2>
                 <div class="bottom-dark-blue center-block"></div>
             </div>
             <div class="col-sm-12 margin-top">

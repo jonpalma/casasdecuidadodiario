@@ -19,7 +19,21 @@
                     Chihuahua, Chih.<br /><br />
                     Email: comunicacion@casasdecuidadodiario.org<br />
                     Tel: 614 413 0319<br />
-                    Tel: 614 413 4300
+                    Tel: 614 413 4300<br /><br />
+                    Cuauhtémoc, Chih.<br />
+                    Ana Aide Beltran Montes<br />
+                    Tel: 625 128 0223<br />
+                    Cel: 625 115 41 35<br />
+                    Email: Aidebel70@hotmail.com<br /><br/>
+                    Ignacio Zaragoza, Chih.<br />
+                    jorge Ivan Muñoz<br />
+                    Tel: 636 116 9446<br />
+                    Cel: 636 121 2139<br />
+                    Email: ing.jorgemunoz@hotmail.com<br /><br/>
+                    León, Gto.<br />
+                    oliveria Aguirre Gordillo<br />
+                    Cel: 472 728 84 23<br />
+                    Email: oli_73@hotmail.com<br /><br/>
                 </p>
             </div>
             <div class="col-sm-8">
