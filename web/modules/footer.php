@@ -40,7 +40,7 @@
                    Chihuahua, Chih.<br />
                    Tel. 614 413 4300<br />
                    Tel. 614 413 0319<br /><br />
-                   comunicacion@casasdecuidado.org<br /><br />
+                   comunicacion@casasdecuidadodiario.org<br /><br />
                    <p>Chihuahua, Chihuahua, México</p>
                </address>
           </div>

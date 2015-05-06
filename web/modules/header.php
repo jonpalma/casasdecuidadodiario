@@ -36,7 +36,7 @@
                     <p class="text-right">
                         Tel. 413 43 00<br /><br />
                         Tel. 413 03 19<br /><br />
-                        comunicacion@casasdecuidado.org
+                        comunicacion@casasdecuidadodiario.org
                     </p>
                 </div>
             </div>

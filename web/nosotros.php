@@ -67,7 +67,7 @@
                         </p>
                         <p>
                             <span>Responsabilidad</span><br />
-                            cumplir con sus compromisos.
+                            Cumplir con sus compromisos.
                         </p>
                         <p>
                             <span>Humildad</span><br />

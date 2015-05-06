@@ -67,7 +67,7 @@
         </div>
         <div class="row margin-top">
             <div class="col-sm-12">
-                <h3>aperturas@casasdecuidado.com</h3>
+                <h3>aperturas@casasdecuidadodiario.org</h3>
                 <div class="bottom-yellow center-block"></div>
             </div>
         </div>

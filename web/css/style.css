@@ -893,7 +893,7 @@ form, .border-left {
     
 .carousel-caption {
     right: 20% !important;
-    top: 15% !important;
+    top: 10% !important;
     left: auto !important;
 }
 
@@ -937,7 +937,7 @@ form, .border-left {
 }
     
 .carousel-caption h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
     
 .item.lg img {

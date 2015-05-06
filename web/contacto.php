@@ -17,7 +17,7 @@
                     Casas de Cuidado Diario<br /><br />
                     Trasviña y Retes 2102, Col. San Felipe, C.P. 31240<br />
                     Chihuahua, Chih.<br /><br />
-                    Email: comunicacion@casasdecuidado.org<br />
+                    Email: comunicacion@casasdecuidadodiario.org<br />
                     Tel: 614 413 0319<br />
                     Tel: 614 413 4300
                 </p>

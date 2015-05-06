@@ -65,7 +65,7 @@ Dorada</p>
                    <p>C. 110 Y Fco. I Madero #2501 Col. Ampliación Martin López</p>
                    <p>C. priv. De Miguel Olea #1603 Col. Santa Rita</p>
                    <p>C. Mauricio Corredor #8024 Col. 17 De Junio</p>
-                   <p>Gustavo Díaz Ordaz #5808 col. Gustavo Díaz Ordaz</p>
+                   <p>Gustavo Díaz Ordaz #5808 Col. Gustavo Díaz Ordaz</p>
                    <p>C. Antonio Ochoa Palmas#17767 Col. Los Olivos</p>
                    <p>C. 9a. #411 Col. Villa Juárez</p>
                    <p>C. Ana Ma. Nender #2028 Col. Lázaro Cárdenas</p>
@@ -198,7 +198,7 @@ Dorada</p>
                    Tel: 614 413 43 00<br />
                    Tel: 614 413 03 19
                </p>
-               <p>Email: comunicacion@casasdecuidado.org</p>
+               <p>Email: comunicacion@casasdecuidadodiario.org</p>
                <p>Chihuahua, Chih.</p>
                
           </div>
