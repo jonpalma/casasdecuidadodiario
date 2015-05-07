@@ -18,17 +18,17 @@
                   <li><a href="vinculacion.php">Vinculación</a></li>
                   <li><a href="contacto.php">Mapa</a></li>
                   <li><a href="sorteo.php">Sorteo</a></li>
-                  <li><a href="">Donaciones</a></li>
+                  <li><a href="donaciones.php">Donaciones</a></li>
               </ul>
           </div>
           <div class="col-sm-3">
               <h3>Servicios destacados</h3>
               <ul>
-                  <li><a href="">Cuidado de niños y niñas</a></li>
-                  <li><a href="">Formación Integral</a></li>
-                  <li><a href="">Nutrición</a></li>
-                  <li><a href="">Inglés</a></li>
-                  <li><a href="">Computación</a></li>
+                  <li><a href="vinculacion.php">Cuidado de niños y niñas</a></li>
+                  <li><a href="vinculacion.php">Formación Integral</a></li>
+                  <li><a href="vinculacion.php">Nutrición</a></li>
+                  <li><a href="vinculacion.php">Inglés</a></li>
+                  <li><a href="vinculacion.php">Computación</a></li>
               </ul>
           </div>
           <div class="col-sm-3 contacto">

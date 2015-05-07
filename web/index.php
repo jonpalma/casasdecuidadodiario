@@ -203,7 +203,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <h3>Aceptamos donaciones</h3>
-                <a href="#" class="btn btn-blue">Formas para Donar</a>
+                <a href="donaciones.php" class="btn btn-blue">Formas para Donar</a>
                 <span>¿Por que solicitamos donaciones?</span>
             </div>
         </div>

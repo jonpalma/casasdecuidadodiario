@@ -1,12 +1,134 @@
 <?php include('modules/header.php'); ?>
 <!-- BEGIN HEADING -->
+<div class="container-fluid parallax-container heading bg-servicios">
+   <div class="parallax"><img src="img/parallax/servicios.jpg" alt="" class="img-responsive"></div>
+    <div class="row">
+        <h2>Nuestros Servicios</h2>
+    </div>
+</div>
+<!-- END HEADING -->
+<!-- BEGIN SERVICIOS -->
+<div class="jumbotron bg-white">
+    <div class="container serv padding-top">
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/cuidado.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Cuidado de niños y niñas</h3>
+                    <p>Brindamos atención, cuidado y protección a menores hijos de madres trabajadoras durante su jornada laboral.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/formacion.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Formación Integral</h3>
+                    <p>Fomentamos en los niños y niñas el desarrollo de sus habilidades emocionales, sociales e intelectuales para formar individuos íntegros.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/nutricion.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Nutrición</h3>
+                    <p>Proporcionamos una alimentación sana y balanceada con menús diseñados por la Facultad de Enfermería y Nutriología de la Universidad Autónoma de Chihuahua.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/becas.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Becas</h3>
+                    <p>Apoyo económico para padres y madres usuarios que no cuentan con recursos suficientes.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row margin-top">
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/auto-empleo.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Auto Empleo</h3>
+                    <p>La Madre Cuidadora tiene la oportunidad de realizar un trabajo en su propio hogar sin descuidar a sus hijos, además de aportar un ingreso extra.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/musica.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Música</h3>
+                    <p>Los niños tienen la oportunidad de tener contacto con la música a través de grupos de coro y guitarra, lo cual ayuda a su desarrollo intelectual, auditivo, motriz y sensorial.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/traslado.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Traslado</h3>
+                    <p>Los niños en edad escolar son trasladados por la Madre Cuidadora a su centro educativo. </p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/ingles.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">inglés</h3>
+                    <p>Con el fin de complementar el programa de actividades que reciben nuestros niños, contamos con un equipo de maestros de inglés.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row margin-top margin-bottom">
+            <div class="col-sm-3 col-sm-offset-1">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/capacitacion.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Capacitación</h3>
+                    <p>Profesionalizamos el trabajo de la Madre Cuidadora a través de cursos y talleres que mejoren la atención hacia los niños y niñas de Casas de Cuidado Diario.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/computacion.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Computación</h3>
+                    <p>Contamos con clases de computación para que nuestros niños tengan la oportunidad de desarrollar a temprana edad sus habilidades relacionadas con la tecnología.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="square border-round img-responsive">
+                       <img src="img/servicios/centro.png" alt="" class="img-responsive center-block">
+                </div>
+                <div class="content">
+                    <h3 class="text-center">Centro de Capacitación</h3>
+                    <p>Formación de personas encargadas de la atención y cuidado de niños y niñas.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END SERVICIOS -->
+<!-- BEGIN HEADING1 -->
 <div id="gubernamentales" class="container-fluid parallax-container heading bg-servicios">
    <div class="parallax"><img src="img/parallax/vinculacion1.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>Gubernamentales</h2>
     </div>
 </div>
-<!-- END HEADING -->
+<!-- END HEADING1 -->
+<!-- BEGIN SERVICIOS -->
+
+<!-- END SERVICIOS -->
 <!-- BEGIN GUBERNAMENTAL -->
 <div class="jumbotron bg-white">
     <div class="container content-organizaciones">

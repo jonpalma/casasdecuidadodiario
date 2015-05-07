@@ -21,9 +21,7 @@
                 <img src="img/voluntariado2.jpg" alt="" class="img-responsive">
             </div>
             <div class="col-sm-8">
-                <p>El voluntariado para Casa de Cuidado Diario es la columna vertebral de la labor que la institución realiza.</p>
-               <p>Nuestras voluntarias son el motor que permite generar un círculo virtuoso de desarrollo humano en todos los ámbitos, tanto para nuestras Madres Cuídadoras, los niños y niñas, los padres de familia y el personal operativo que trabaja en conjunto para desarrollar los Programas que maneja la Institución.</p>
-               <p>La unión de todas estas voluntades y servicio enriquece la operación y con ello permite un crecimiento y desarrollo basado en este capital social.</p>
+                <p>La  Madre  Cuidadora  es  una  madre  de  familia  que  desea contribuir  al  ingreso  familiar,  así  como  al  desarrollo  de  su comunidad mediante el cuidado de los hijos e hijas de otras mujeres trabajadoras dentro de su propio hogar brindándoles, no  solamente  la  atención  a  sus necesidades  básicas,  sino atendiendo  sus  necesidades  afectivas  y  de  formación  de valores.</p>
             </div>
         </div>
     </div>

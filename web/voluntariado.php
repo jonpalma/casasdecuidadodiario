@@ -19,7 +19,7 @@
                <img src="img/voluntariado1.jpg" alt="" class="img-responsive">
            </div>
            <div class="col-sm-8">
-               <p>El voluntariado para Casa de Cuidado Diario es la columna vertebral de la labor que la institución realiza a tráves de un programa de capacitación continua.</p>
+               <p>El voluntariado para Casas de Cuidado Diario es la columna vertebral de la labor que la institución realiza a tráves de un programa de capacitación continua.</p>
                <p>Nuestras voluntarias son el motor que permite generar un círculo virtuoso de desarrollo humano en todos los ámbitos, tanto para nuestras Madres Cuidadoras, los niños y niñas, los padres de familia y el personal operativo que trabaja en conjunto para desarrollar los Programas que maneja la Institución.</p>
                <p>La unión de todas estas voluntades y servicio enriquece la operación y con ello permite un crecimiento y desarrollo basado en este capital social.</p>
                <p>Hay dos formas de ser voluntario:</p>

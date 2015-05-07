@@ -51,7 +51,7 @@
                               <li class="border-green"><a href="vinculacion.php">Servicios</a></li>
                               <li class="border-light-yellow"><a href="madres-cuidadoras.php">Madres Cuidadoras</a></li>
                               <li class="border-orange"><a href="sorteo.php">Sorteo</a></li>
-                              <li class="border-teal"><a href="#">Donaciones</a></li>
+                              <li class="border-teal"><a href="donaciones.php">Donaciones</a></li>
                               <li class="border-blue"><a href="ubicaciones.php">Ubicaciones</a></li>
                               <li class="border-purple"><a href="voluntariado.php">Voluntariado</a></li>
                               <li class="border-pink"><a href="contacto.php">Contacto</a></li>

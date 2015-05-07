@@ -59,31 +59,31 @@
                         <h5>Valores</h5>
                         <p>
                             <span>Vocación de servicio</span><br />
-                            Darse a los demás. Ser generoso. Siempre estar ayudando.
+                            Dar de sí a los demás, siendo generoso y siempre buscando ayudar.
                         </p>
                         <p>
                             <span>Optimismo</span><br />
-                            Pensamiento positivo y propositivo.
+                            Tener un pensamiento positivo y propositivo.
                         </p>
                         <p>
                             <span>Responsabilidad</span><br />
-                            Cumplir con sus compromisos.
+                            Cumplir siempre con los compromisos adquiridos.  
                         </p>
                         <p>
                             <span>Humildad</span><br />
-                            Reconocer sus limitaciones, cualidades y capacidades aprovechándolas para hacer el bien sin llamar la atención.
+                            Reconocer las propias cualidades y capacidades, así como las limitaciones, para hacer el bien sin llamar la atención.
                         </p>
                         <p>
                             <span>Honestidad</span><br />
-                            Congruencia entre lo que se dice y lo que se hace. Honradez, en el manejo de recursos. Lealtad a la institución. Sinceridad.
+                            Ser congruente entre las palabras y las acciones, siendo leal a la Institución y logrando transparencia en el manejo de recursos.
                         </p>
                         <p>
                             <span>Perseverancia</span><br />
-                            Tenacidad ante la adversidad. No abandonar lo que se propone. Ser constante en el ideal y en el trabajo.
+                            Ser tenaz ante la adversidad y no abandonar lo propuesto para alcanzar los ideales propuestos en el trabajo. 
                         </p>
                         <p>
                             <span>Respeto</span><br />
-                            Tolerancia a las acciones de los demás. Aceptar lo que los demás piensan. Actuar y dejar de actuar.
+                            Ser tolerante ante las acciones de los demás, aceptando las diferentes y diversas maneras de pensar.
                         </p>
                     </div>
                 </div>

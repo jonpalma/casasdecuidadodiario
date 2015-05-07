@@ -203,6 +203,10 @@ li.border-pink a:hover {
     background-color: rgba(237, 157, 90, 0.7) !important;
 }
 
+.bg-donaciones {
+    background-color: rgba(67, 188, 213, 0.58) !important;
+}
+
 .bg-contacto {
     background-color: rgba(223,127,184, 0.58) !important;
 }
@@ -257,7 +261,7 @@ li.border-pink a:hover {
     margin: 30px 0 20px;
 }
 
-.servicios p {
+.servicios p, .serv h3 {
     font: 700 20px / 17.738px Raleway;
     color: #43bcd5;
     text-align: center;
@@ -265,12 +269,33 @@ li.border-pink a:hover {
     margin-bottom: 20px;
 }
 
-.servicios .square {
+.serv .content {
+    width: 70%;
+    display: block;
+    margin: 20px auto;
+}
+
+.serv p {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -1px;
+    text-align: justify;
+}
+
+.servicios .square, .serv .square {
     background-color: #F9C444;
     padding: 10px;
     width: 200px;
     display: block;
     margin: 0 auto;
+}
+
+.serv .square {
+    height: 200px;
+}
+
+.serv .square img{
+    padding: 28px 0;
 }
 
 .alianzas h2 {
@@ -472,7 +497,7 @@ li.border-pink a:hover {
 .content-ubicaciones p {
     font: 400 14px / 20.05px Raleway !important;
     color: #393939;
-    text-align: left;
+    text-align: center;
     margin: 20px 0;
 }
 
@@ -801,6 +826,10 @@ body {
 
 .no-float {
     float: none;
+}
+
+.border-round {
+    border-radius: 5px;
 }
 
 
