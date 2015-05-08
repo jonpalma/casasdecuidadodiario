@@ -27,8 +27,8 @@
                   <li><a href="vinculacion.php">Cuidado de niños y niñas</a></li>
                   <li><a href="vinculacion.php">Formación Integral</a></li>
                   <li><a href="vinculacion.php">Nutrición</a></li>
-                  <li><a href="vinculacion.php">Inglés</a></li>
-                  <li><a href="vinculacion.php">Computación</a></li>
+                  <li><a href="vinculacion.php">Becas</a></li>
+                  <li><a href="vinculacion.php">Auto Empleo</a></li>
               </ul>
           </div>
           <div class="col-sm-3 contacto">

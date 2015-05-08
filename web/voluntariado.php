@@ -1,7 +1,7 @@
 <?php include('modules/header.php'); ?>
 <!-- BEGIN HEADING -->
 <div class="container-fluid parallax-container heading">
-   <div class="parallax"><img src="img/parallax/voluntariado1.jpg" alt="" class="img-responsive"></div>
+   <div class="parallax"><img src="img/parallax/voluntariado4.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>¿Cómo puedo participar?</h2>
     </div>

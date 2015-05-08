@@ -42,6 +42,13 @@
                 </p>
             </div>
         </div>
+        <div class="row margin-top">
+            <div class="col-sm-12">
+                <h3>¿De dónde viene y a dónde va<br />el dinero que recaudamos?</h3>
+                <div class="bottom-blue center-block"></div>
+                <a href="Casas%20de%20Cuidado%20Diario.pdf" target="_blank" class="btn btn-blue margin-top">Descargar Documento</a>
+            </div>
+        </div>
     </div>
 </div>
 <!-- END VOLUNTARIADO 2 -->

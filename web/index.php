@@ -9,7 +9,7 @@
                               </ol>
                               <div class="carousel-inner">
                                 <div class="item active">
-                                  <img src="img/banner/1.jpg" class="img-responsive" alt="">
+                                  <img src="img/banner/5.jpg" class="img-responsive" alt="">
                                   <div class="container">
                                     <div class="carousel-caption">
                                       <h1>"Mientras sus padres trabajan, muchos niños se quedan solos... ¡Apóyanos!"</h1>
