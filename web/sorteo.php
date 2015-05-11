@@ -7,6 +7,26 @@
     </div>
 </div>
 <!-- END HEADING -->
+<!-- BEGIN MODAL -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Casas de Cuidado Diario</h4>
+      </div>
+      <div class="modal-body">
+           <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H_LaTMOOkhc"></iframe>
+           </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Regresar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL -->
 <!-- BEGIN CONTENT -->
 <div class="jumbotron bg-white">
     <div class="container content-sorteo">
@@ -31,8 +51,8 @@
    <div class="parallax"><img src="img/parallax/sorteo2.jpg" alt="" class="img-responsive"></div>
    <div class="container">
        <div class="row">
-           <h2>Descarga la información<br />del Sorteo</h2>
-           <a href="#" class="btn btn-orange">Descargar</a>
+           <h2>Ver Recorrido Virtual<br />de la Casa</h2>
+           <a href="#" data-toggle="modal" data-target="#myModal" class="btn btn-orange">Tomar Recorrido</a>
        </div>
    </div>
 </div>

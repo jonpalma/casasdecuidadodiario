@@ -403,6 +403,8 @@ li.border-pink a:hover {
 
 .content-nosotros p span::before {
     content: url('../img/bullet.png');
+    position: relative;
+    top: -3px;
     margin-right: 5px;
 }
 
