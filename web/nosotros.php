@@ -58,39 +58,39 @@
                     <div class="col-sm-12">
                         <h5>Valores</h5>
                         <p>
-                            <span>El Respeto</span><br />
+                            <span>Respeto</span><br />
                             Como elemento importante de la condición e interacción humana y que a través del mismo se generan relaciones valiosas, profundas y duraderas..
                         </p>
                         <p>
-                            <span>La Familia</span><br />
+                            <span>Familia</span><br />
                             Como elemento base, formador e integrador de valores y principios que hacen de sus miembros personas de alta calidad personal, moral y espiritual.
                         </p>
                         <p>
-                            <span>La Honestidad</span><br />
+                            <span>Honestidad</span><br />
                             Como base de cualquier actividad humana y principio en todo tipo de relación.  
                         </p>
                         <p>
-                            <span>La Humildad</span><br />
+                            <span>Humildad</span><br />
                             En la cual todos los seres humanos podemos recibir y aportar algo de alguien más grande o más pequeño que nosotros.
                         </p>
                         <p>
-                            <span>La Flexibilidad</span><br />
+                            <span>Flexibilidad</span><br />
                             Adaptando el comportamiento con agilidad a las circunstancias de cada persona o situación, sin abandonar por ello los criterios de actuación personal.
                         </p>
                         <p>
-                            <span>El Optimismo</span><br />
+                            <span>Optimismo</span><br />
                             Porque confiamos en nuestras propias posibilidades y en la ayuda que podemos prestar a los demás. Distinguimos lo que es positivo en sí y las posibilidades de mejora que existen. 
                         </p>
                         <p>
-                            <span>La Disciplina</span><br />
+                            <span>Disciplina</span><br />
                             Como elemento fundamental en la formación del carácter y de hábitos positivos de las personas, y que a través de la vida son guías importantes.
                         </p>
                         <p>
-                            <span>La Perseverancia</span><br />
+                            <span>Perseverancia</span><br />
                             Como elemento de tesón, constancia y paciencia para el logro de metas y objetivos fundamentales de nuestra organización y las personas con las que tiene contacto.
                         </p>
                         <p>
-                            <span>La Justicia</span><br />
+                            <span>Justicia</span><br />
                             Donde todas las personas tenemos derecho a ella, a tratar y ser tratados con equidad e igualdad de oportunidades.
                         </p>
                     </div>

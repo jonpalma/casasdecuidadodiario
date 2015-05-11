@@ -49,7 +49,7 @@
                     <li>Debes de tener el gusto por el cuidado de los niños.</li>
                     <li>Debes ser madre biológica.</li>
                     <li>Tener un rango de edad entre los 24 y 45 años.</li>
-                    <li>Debes tener casa propia o rentada.</li>
+                    <li>Debes tener casa propia.</li>
                     <li>No debe ser el único ingreso familiar el que pueda obtener de la Casa de Cuidado Diario.</li>
                     <li>La familia de la interesada deberá estar de acuerdo que su casa se utilice para el cuidado de los niños.</li>
                     <li>El espacio que se designará para la Casa de Cuidado Diario deberá estar a la entrada de la casa cerca de la cocina y del baño, y será mínimo de 20 a 25 metros cuadrados.</li>

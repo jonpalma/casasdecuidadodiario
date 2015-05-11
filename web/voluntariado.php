@@ -1,7 +1,7 @@
 <?php include('modules/header.php'); ?>
 <!-- BEGIN HEADING -->
 <div class="container-fluid parallax-container heading">
-   <div class="parallax"><img src="img/parallax/voluntariado4.jpg" alt="" class="img-responsive"></div>
+   <div class="parallax"><img src="img/parallax/voluntariado1.jpg" alt="" class="img-responsive"></div>
     <div class="row">
         <h2>¿Cómo puedo participar?</h2>
     </div>
@@ -16,7 +16,7 @@
                <div class="bottom-purple center-block"></div>
            </div>
            <div class="col-sm-4 margin-bottom">
-               <img src="img/voluntariado1.jpg" alt="" class="img-responsive">
+               <img src="img/parallax/voluntariado4.jpg" alt="" class="img-responsive">
            </div>
            <div class="col-sm-8">
                <p>El voluntariado para Casas de Cuidado Diario es la columna vertebral de la labor que la institución realiza a tráves de un programa de capacitación continua.</p>
