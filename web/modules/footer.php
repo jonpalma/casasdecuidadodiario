@@ -34,13 +34,13 @@
           <div class="col-sm-3 contacto">
               <h3>Contacto</h3>
                <address>
-                  <h4>Casas de cuidado diario</h4>
-                   Trasviña y Retes 2102 <br />
-                   Col. San Felipe, C.P.31240<br />
-                   Chihuahua, Chih.<br />
-                   Tel. 614 413 4300<br />
-                   Tel. 614 413 0319<br /><br />
-                   comunicacion@casasdecuidadodiario.org<br /><br />
+                   CASAS DE CUIDADO DIARIO <br>
+                   Trasviña y Retes 2102 <br>
+                   Col. San Felipe, C.P.31240<br>
+                   Chihuahua, Chih.<br>
+                   Tel. 614 413 4300<br>
+                   Tel. 614 413 0319<br /><br>
+                   comunicacion@casasdecuidadodiario.org<br><br>
                    <p>Chihuahua, Chihuahua, México</p>
                </address>
           </div>
@@ -75,5 +75,11 @@
             });
     </script>
 </footer>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0020/7404.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
 </body>
 </html>
