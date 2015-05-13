@@ -30,11 +30,11 @@ $(function() {
 			$(formMessages).text(response);
 
 			// Clear the form.
-			$('#nombreContacto').val('');
-            $('#telContacto').val('');
-			$('#emailContacto').val('');
-			$('#asuntoContacto').val('');
-			$('#comentariosContacto').val('');
+			$('#contacto_nombre').val('');
+            $('#contacto_empresa').val('');
+			$('#contacto_email').val('');
+			$('#contacto_telefono').val('');
+			$('#contacto_mensaje').val('');
             $("#sendBttn").text("Enviar");
 		})
 		.fail(function(data) {
