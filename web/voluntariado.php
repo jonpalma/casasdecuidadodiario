@@ -32,6 +32,8 @@
                    <div class="bottom-purple center-block"></div>
                </div>
                <p>Voluntaria de la Institución, responsable de apoyar y verificar la operación de la Casa de Cuidado Diario, con el fin de asegurar el buen funcionamiento de la misma.</p>
+               <p>La Guía de desarrollo tendrá que asistir a la Casa de Cuidado Diario una vez al mes a realizar la junta de padres de familia. 
+Así mismo deberá asistir a una junta mensual con la Coordinadora del Voluntariado el primer lunes de cada mes.</p>
            </div>
            <div class="col-sm-6 border-left">
                <div class="col-sm-12">
@@ -39,6 +41,7 @@
                    <div class="bottom-purple center-block"></div>
                </div>
                <p>Voluntaria de la Institución ante las familias de la comunidad, portando la filosofía del programa y manteniendo un contacto directo con la Madre Cuidadora.<br />Es responsable de proporcionar a los padres de familia herramientas para la integración familiar a través de los temas que se exponen cada mes.</p>
+               <p>La Guía de desarrollo tendrá que asistir a la Casa de Cuidado Diario una vez a la semana. Así mismo deberá asistir a una junta mensual con la Coordinadora del Voluntariado el primer martes de cada mes.</p>
            </div>
         </div>
         <div class="row margin-top">
