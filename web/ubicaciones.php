@@ -141,7 +141,7 @@
                </div>
                <div class="col-sm-4 border-left border-right">
                    <div class="col-sm-12 margin-bottom">
-                            <h2>Zona Foraneas</h2>
+                            <h2>Zona Foráneas</h2>
                             <div class="bottom-dark-blue center-block"></div>
                    </div>
                    <div class="clearfix"></div>
@@ -162,8 +162,8 @@
                        C.P. 31240
                    </p>
                    <p>
-                       Tel: 614 413 43 00<br />
-                       Tel: 614 413 03 19
+                       Tel: (614) 413.4300<br />
+                       Tel: (614) 413.0319
                    </p>
                    <p>Email: comunicacion@casasdecuidadodiario.org</p>
                    <p>Chihuahua, Chih.</p>

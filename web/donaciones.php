@@ -37,8 +37,8 @@
                     Si deseas que hagamos un cargo a tu tarjeta, comunícate con nosotros al:
                 </p>
                 <p>
-                    Tel: 4 13 03 19<br />
-                    Tel: 4 13 43 00
+                    Tel: (614) 413.0319<br />
+                    Tel: (614) 413.4300
                 </p>
             </div>
         </div>
