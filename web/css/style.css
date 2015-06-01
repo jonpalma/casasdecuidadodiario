@@ -571,11 +571,12 @@ li.border-pink a:hover {
     background-color: #d5680c;
 }
 
-/** PARALLAX **/
+/* Modified Parallax CSS by Chris */
 .parallax-container {
-  position: relative;
-  overflow: hidden;
-  /*height: 500px;*/ 
+    position: relative;
+    overflow: hidden;
+    /* min-height: 500px; Let min height be defined by parallax contents */ 
+    height: auto;
 }
 
 .parallax {
@@ -591,8 +592,8 @@ li.border-pink a:hover {
     display: none;
     position: absolute;
     bottom: 0;
+    min-width: 1920px;
     width: 100%;
-    min-height: 100%;
     background-position: center; 
 }
 
