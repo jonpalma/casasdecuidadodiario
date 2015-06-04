@@ -56,6 +56,7 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js"></script>
     <script src="js/googleMapInit.js"></script>
+     <script src="js/googleMapHouseInit.js"></script>
     <script src="js/app.js"></script>
     <script src="js/imageloaded.pkgd.min.js"></script>
     <script src="js/masonry.pkgd.min.js"></script>

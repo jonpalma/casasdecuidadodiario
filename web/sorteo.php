@@ -120,6 +120,9 @@
     </div>
 </div>
 <!-- END GALLERY -->
+<!-- BEGIN MAP -->
+<div class="container-fluid" id="googleMap_house"></div>  
+<!-- END MAP -->
 <!-- BEGIN MODAL -->
 <div class="modal fade" id="1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
           <div class="modal-dialog">
