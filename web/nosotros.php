@@ -17,7 +17,7 @@
       </div>
       <div class="modal-body">
            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://vimeo.com/124268345"></iframe>
+              <iframe src="https://player.vimeo.com/video/124268345" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
            </div>
       </div>
       <div class="modal-footer">
