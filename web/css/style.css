@@ -986,3 +986,12 @@ form, .border-left {
 }
     
 }
+
+/** CHRIS' HOTFIX FOR NOSOTROS PARALLAX **/
+.parallax-container.bg-nosotros {
+    height: auto;
+}
+
+.bg-nosotros .parallax img {
+    min-width: 100px;
+}
