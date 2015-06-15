@@ -10,7 +10,7 @@
     <meta name="keywords" content="Cuidado de niños, niñas, casas de cuidado, casas para niños, hogar para niños, escuelas para niños de bajos recursos, madres cuidadoras de niños">
    
    <!-- favicon -->
-   <!--<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">-->
+   <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     
     <!-- CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
