@@ -202,7 +202,7 @@
            <div class="col-sm-3">
                 <img src="img/organizaciones/pensiones-civiles.jpg" alt="" class="img-responsive center-block margin-bottom">
                 <h4>Pensiones Civiles del Estado</h4>
-                <p>mplementación de una Casa de Cuidado Diario en sus instalaciones para dar atención a hijos e hijas de los empleados.</p>
+                <p>Implementación de una Casa de Cuidado Diario en sus instalaciones para dar atención a hijos e hijas de los empleados.</p>
             </div>
             <div class="col-sm-3">
                 <img src="img/organizaciones/congreso-del-estado.jpg" alt="" class="img-responsive center-block">
