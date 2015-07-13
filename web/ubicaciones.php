@@ -52,7 +52,7 @@
                             <div class="bottom-dark-blue center-block"></div>
                        </div>
                        <div class="clearfix"></div>
-                       <p>Col. Lázaro cárdenas.</p>
+                       <p>Col. Lázaro Cárdenas.</p>
                        <p>Col. Ampliación Martin López.</p>
                        <p>Col. Santa Rita.</p>
                        <p>Col. 17 De Junio.</p>
