@@ -3,7 +3,7 @@
 <div class="container-fluid parallax-container heading bg-nosotros">
    <div class="parallax"><img src="img/parallax/nosotros1.jpg" alt="" class="img-responsive"></div>
     <div class="row">
-        <h2>Nosotros</h2>
+        <h2>About Us</h2>
     </div>
 </div>
 <!-- END HEADING -->
@@ -21,7 +21,7 @@
            </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-dismiss="modal">Regresar</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <h2>
-                        Somos un modelo alternativo para el cuidado, atención y protección de los niños pequeños hijos de madres trabajadoras que no cuentan con un servicio adecuado para dejar a sus hijos durante su jornada laboral.
+                        We are an alternative model for the care, attention and protection of small children of working mothers that do not count with an adequate service to leave their children during their work hours.
                     </h2>
                     <hr />
                 </div>
@@ -44,55 +44,67 @@
                 </div>
                 <div class="col-sm-8 margin-top">
                     <div class="col-sm-12">
-                        <h5>Misión</h5>
+                        <h5>Mission</h5>
                         <p>
-                            Atender, cuidar y formar niños de madres trabajadoras, mejorando la calidad de vidas de las familias mexicanas.
+                            Attend, care and form children of working mothers improving the quality of lives of the Mexican families.
                         </p>
                     </div>
                     <div class="col-sm-12">
-                        <h5>Visión 2017</h5>
+                        <h5>2017 Vision</h5>
                         <p>
-                            Los niños de Casas de Cuidado Diario son considerados ejemplo en la sociedad como resultado de la aplicación del modelo atención integral, operado bajo un sistema de franquicias, sustentado en su fondo patrimonial, patronato, gobiernos y sociedad responsable, además de influir en políticas públicas.
+                            The children of Casas de Cuidado Diario are considered an example to society as a result of the application of an integral care model which operates under a franchise system, sustained by a Patronage, governments and a responsible society which also influence public policy.
                         </p>
                     </div>
                     <div class="col-sm-12">
-                        <h5>Valores</h5>
+                        <h5>Values</h5>
                         <p>
-                            <span>Respeto</span><br />
-                            Como elemento importante de la condición e interacción humana y que a través del mismo se generan relaciones valiosas, profundas y duraderas..
+                            <span>Respect</span><br />
+                            As an important element of the human condition and interaction and that through it valuable, profound and lasting relationships are generated.
                         </p>
                         <p>
-                            <span>Familia</span><br />
-                            Como elemento base, formador e integrador de valores y principios que hacen de sus miembros personas de alta calidad personal, moral y espiritual.
+                            <span>Family</span><br />
+                            As a fundamental element, a former and integrator of values and principles that make its members persons of a high personal, moral and spiritual quality.
                         </p>
                         <p>
-                            <span>Honestidad</span><br />
-                            Como base de cualquier actividad humana y principio en todo tipo de relación.  
+                            <span>Honesty</span><br />
+                            As a base of any human activity and a principle in all types of relationships.  
                         </p>
                         <p>
-                            <span>Humildad</span><br />
-                            En la cual todos los seres humanos podemos recibir y aportar algo de alguien más grande o más pequeño que nosotros.
+                            <span>Humility</span><br />
+                            In which we as human beings can give something of ourselves or receive something from others.   
                         </p>
                         <p>
-                            <span>Flexibilidad</span><br />
-                            Adaptando el comportamiento con agilidad a las circunstancias de cada persona o situación, sin abandonar por ello los criterios de actuación personal.
+                            <span>Flexibility</span><br />
+                            Adapting with agility to the circumstances of each person or situation without abandoning personal criteria.
                         </p>
                         <p>
-                            <span>Optimismo</span><br />
-                            Porque confiamos en nuestras propias posibilidades y en la ayuda que podemos prestar a los demás. Distinguimos lo que es positivo en sí y las posibilidades de mejora que existen. 
+                            <span>Optimism</span><br />
+                           Because we confide in our own possibilities and in the help we can provide to others. We distinguish the possibilities of improvement that exist.
                         </p>
                         <p>
-                            <span>Disciplina</span><br />
-                            Como elemento fundamental en la formación del carácter y de hábitos positivos de las personas, y que a través de la vida son guías importantes.
+                            <span>Discipline</span><br />
+                            As a fundamental element in the formation of character and of positive habits in persons that are important guides throughout life.
                         </p>
                         <p>
-                            <span>Perseverancia</span><br />
-                            Como elemento de tesón, constancia y paciencia para el logro de metas y objetivos fundamentales de nuestra organización y las personas con las que tiene contacto.
+                            <span>Perseverance</span><br />
+                            As an element of patience and constancy to obtain goals and fundamental objectives of our organization and with those we come into contact with.
                         </p>
                         <p>
-                            <span>Justicia</span><br />
-                            Donde todas las personas tenemos derecho a ella, a tratar y ser tratados con equidad e igualdad de oportunidades.
+                            <span>Justice</span><br />
+                            Which all persons are entitled to; to be treated with equity and equality of opportunities.
                         </p>
+                        
+						<div class="row" style="text-align:center">
+						<br>
+							<h3>Corporate Presentation</h3>
+               				<div class="bottom-yellow center-block"></div>
+							<div class="col-sm-6">
+								<a href="pdf/esp.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>Español</strong></a>
+							</div>
+							<div class="col-sm-6">
+								<a href="pdf/ing.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>English</strong></a>
+							</div>
+						</div>
                     </div>
                 </div>
             </div>
@@ -103,14 +115,14 @@
 <div class="jumbotron bg-yellow">
     <div class="container content-consejo">
         <div class="row">
-            <h2>Consejo</h2>
+            <h2>Board</h2>
             <div class="consejo">
                 <div class="col-sm-5">
-                        <p><strong>Presidenta</strong></p>
-                        <p><strong>Vicepresidenta</strong></p>
-                        <p><strong>Tesorera</strong></p>
-                        <p><strong>Secretaria</strong></p>
-                        <p><strong>Vocales</strong></p>
+                        <p><strong>President</strong></p>
+                        <p><strong>Vicepresident</strong></p>
+                        <p><strong>Treasurer</strong></p>
+                        <p><strong>Secretary</strong></p>
+                        <p><strong>Vocals</strong></p>
                 </div>
                 <div class="col-sm-7">
                        <p>María Teresa García Terrazas</p>

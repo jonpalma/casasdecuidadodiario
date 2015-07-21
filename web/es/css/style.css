@@ -1,0 +1,1003 @@
+/*
+Theme Name: Casas de cuidado diario
+Theme URI: http://casasdecuidadodiario.com
+Author: Agencia Mixen
+Author URI: http://mixen.mx/
+Description: Tema para el sitio de Casas de cuidado diario.
+Version: 1.0
+Text Domain: Mixen Communication & Web Technology
+*/
+
+/** FONTS **/
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,800,900);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,700,700italic);
+
+/** MENU **/
+
+.navbar {
+    border-top: 21px solid #f9c444;
+}
+
+.navbar-default {
+    background-color: #fff !important;
+    background-image: none !important;
+    
+}
+
+.navbar .navbar-brand {
+    height: 178px;
+    padding-top: 5px;
+}
+
+.navbar .navbar-contact {
+    float: right;
+    padding: 50px 0;
+}
+
+.navbar .navbar-contact p{
+    font: 700 16px / 11.77px Raleway;
+    color: #43bcd5;
+}
+
+.nav-border-top {
+    border-top: 5px solid #f57b7c;
+}
+
+.nav-justified {
+    position: relative;
+    top: -5px;
+}
+
+.navbar-nav > li, .dropdown-menu > li {
+    max-width: 156px;
+    height: 47px;
+}
+
+.nav-justified > li > a, .dropdown-menu > li > a {
+    color: #000 !important;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.navbar .nav-justified > .active > a, .navbar .nav-justified > .open > a {
+    background-image: none !important;
+}
+
+.nav-justified > li > a:hover {
+    color: #fff !important;
+}
+
+li.border-menu a:hover {
+    background-color: #f57b7c;
+}
+
+li.border-yellow a:hover {
+    background-color: #f9c444;
+}
+
+li.border-green a:hover {
+    background-color: #adc252;
+}
+
+li.border-light-yellow a:hover {
+    background-color: #fee580;
+}
+
+li.border-orange a:hover {
+    background-color: #ed9d5a;
+}
+
+li.border-teal a:hover {
+    background-color: #43bcd5;
+}
+
+li.border-blue a:hover {
+    background-color: #497297;
+}
+
+li.border-purple a:hover {
+    background-color: #be5193;
+}
+
+li.border-pink a:hover {
+    background-color: #df7fb8;
+}
+
+/** BORDERS **/
+.border-menu {
+    border-top: 5px solid #f57b7c;
+}
+
+.border-yellow {
+    border-top: 5px solid #f9c444;
+}
+
+.border-green {
+    border-top: 5px solid #adc252;
+}
+
+.border-light-yellow {
+    border-top: 5px solid #fee580;
+}
+
+.border-orange {
+    border-top: 5px solid #ed9d5a;
+}
+
+.border-teal {
+    border-top: 5px solid #43bcd5;
+}
+
+.border-blue {
+    border-top: 5px solid #497297;
+}
+
+.border-purple {
+    border-top: 5px solid #be5193;
+}
+
+.border-pink {
+    border-top: 5px solid #df7fb8;
+}
+
+.border-left {
+    border-left: 2px solid rgba(0, 0, 0, 0.3);
+    padding-left: 30px;
+}
+
+.border-right {
+    border-right: 2px solid rgba(0, 0, 0, 0.3);
+    padding-right: 30px;
+}
+
+/** BACKGROUNDS **/
+.bg-white {
+    background-color: #fff;
+}
+
+.bg-purple {
+    background-color: rgba(62, 108, 204, .8);
+    /*height: 651px !important;*/
+}
+
+.bg-map {
+    background-color: rgba(242, 199, 94, .8);
+    padding: 120px 0;
+}
+
+.bg-mapa {
+    background-image: url('../img/parallax/mapa.jpg');
+}
+
+.bg-lime-green {
+    background-color: #96da73;
+}
+
+.bg-yellow {
+    background-color: #f9c444;
+}
+
+.bg-parallax {
+    background-color: rgba(190, 81, 147, 0.5);
+    color: #fff;
+}
+.bg-vinculacion {
+    background-color: rgba(254, 229, 128, 0.58) !important;
+    color: #fff;
+}
+
+.bg-nosotros {
+    background-color: rgba(249,196,68, 0.58) !important;
+}
+
+.bg-servicios {
+    background-color: rgba(173,194,82, 0.58) !important;
+}
+
+.bg-ubicaciones {
+    background-color: rgba(73,114,151, 0.58) !important;
+}
+
+.bg-sorteo {
+    background-color: rgba(237, 157, 90, 0.7) !important;
+}
+
+.bg-donaciones {
+    background-color: rgba(67, 188, 213, 0.58) !important;
+}
+
+.bg-contacto {
+    background-color: rgba(223,127,184, 0.58) !important;
+}
+
+/** BOTTOMS **/
+.bottom-yellow, .bottom-white, .bottom-blue, .bottom-purple, .bottom-orange, .bottom-dark-blue {
+    width: 156px;
+    height: 8px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.bottom-yellow {
+    
+    background-color: #f9c444;
+    border: 1px solid #f9c444;
+}
+
+.bottom-white {
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+.bottom-blue {
+    background-color: #62c5db;
+    border: 1px solid #62c5db;
+}
+
+.bottom-purple {
+    background-color: #be5193;
+    border: 1px solid #be5193;
+}
+
+.bottom-orange {
+    background-color: #ed9d5a;
+    border: 1px solid #ed9d5a;
+}
+
+.bottom-dark-blue {
+    background-color: #497297;
+    border: 1px solid #497297;
+}
+/** CONTENT **/
+.servicios {
+    font-family: Raleway;
+    color: #43bcd5;
+}
+.servicios h2 {
+    font: 700 26px / 30px Raleway;
+    color: #43bcd5;
+    text-align: center;
+    margin: 30px 0 20px;
+}
+
+.servicios p, .serv h3 {
+    font: 700 20px / 17.738px Raleway;
+    color: #43bcd5;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.serv .content {
+    width: 70%;
+    display: block;
+    margin: 20px auto;
+}
+
+.serv p {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -1px;
+    text-align: justify;
+}
+
+.servicios .square, .serv .square {
+    background-color: #F9C444;
+    padding: 10px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.serv .square {
+    height: 200px;
+}
+
+.serv .square img{
+    padding: 28px 0;
+}
+
+.alianzas h2 {
+    font: 700 40px / 44px Raleway;
+    color: #fff;
+    text-align: center;
+    margin: 30px 0 20px;
+}
+
+.alianzas h3 {
+    font: 700 30px / 14.768px Raleway;
+    color: #fff;
+    text-align: center;
+    margin: 50px 0 20px;
+}
+
+.nosotros {
+    padding: 120px 0; 
+}
+
+.nosotros h2 {
+    font: 700 40px / 44px Raleway;
+    color: #62c6db;
+    text-align: center;
+    margin: 30px 0 20px;
+}
+
+.nosotros p {
+    font: 400 22.49px / 30px Raleway;
+    color: #393939;
+    text-align: center;
+    width: 765px;
+    margin: 30px auto;
+}
+
+.visitanos p {
+    font: 700 40px / 37px Raleway;
+    color: #fff;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.visitanos p span {
+    font-size: 60px;
+    text-align: center;
+}
+
+.donaciones {
+    padding: 150px 0;
+}
+
+.donaciones h3 {
+    font: 400 22px / 30px Raleway;
+    color: #393939;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.donaciones span {
+    font: 400 14px / 30px Raleway;
+    color: #393939;
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+}
+
+.heading {
+    height: 194px;
+    color: #fff;
+    background-color: rgba(190, 81, 147, 0.5);
+    margin-top: -20px;
+}
+
+.heading h2, .bg-parallax h2, .bg-vinculacion h2 {
+    font: 700 28px / 30px Raleway;
+    text-align: center;
+    text-shadow: 0px 1px 1px rgba(77, 77, 77, 0.3);
+    margin: 80px 0;
+}
+
+.content-nosotros h2 {
+    font: 400 22px / 40px Open Sans;
+    color: #3e3e3e;
+    text-align: center;
+    max-width: 1097px;
+    display: block;
+    margin: 30px auto;
+}
+
+.content-nosotros h5::before {
+    content: url('../img/arrow.png');
+    margin-right: 10px;
+}
+
+.content-nosotros h5, .content-nosotros p {
+    font: 600 14px / 20px Verdana;
+    color: #000;
+    text-align: justify;
+}
+
+.content-nosotros p {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.content-nosotros p span::before {
+    content: url('../img/bullet.png');
+    position: relative;
+    top: -3px;
+    margin-right: 5px;
+}
+
+.content-consejo {
+    color: #fff;
+}
+
+.content-consejo h2 {
+    font: 700 25px / 31.76px Open Sans;
+    text-align: center;
+    max-width: 500px;
+    display: block;
+    margin: 30px auto;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 10px;
+}
+
+.consejo {
+    max-width: 550px;
+    display: block;
+    margin: 30px auto;
+}
+
+.consejo p {
+    font: 400 14px / 20px Verdana !important;
+    text-align: left;
+}
+
+.content-contacto p {
+    font: 400 14px / 20.05px Open Sans;
+    color: #393939;
+}
+
+.content-voluntariado img, .content-sorteo img {
+    border-right: 2px solid rgba(0, 0, 0, 0.3);
+    padding-right: 20px;
+}
+
+.content-voluntariado h3 {
+    color: #43bcd5;
+    text-align: center;
+    font: 700 26px / 30px Raleway;
+    margin-bottom: 20px;
+}
+
+.content-voluntariado p {
+    color: #393939;
+    font: 400 16px / 30px Raleway;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.content-voluntariado ol {
+    margin-left: 0;
+    padding-right: 0;
+    list-style-type: none;
+}
+
+.content-voluntariado ol > li {
+    counter-increment: step-counter;
+    margin-bottom: 20px;
+}
+
+.content-voluntariado ol > li::before {
+    content: counter(step-counter)".";
+    margin-right: 5px;
+    color: #43bcd5;
+}
+
+.content-organizaciones {
+    font-family: Raleway;
+    color: #393939;
+}
+
+.content-organizaciones h4 {
+    font-weight: 700;
+    text-align: center;
+    font-size: 14px !important;
+}
+
+.content-organizaciones p {
+    text-align: justify;
+    font-size: 14px !important;
+}
+
+.content-sorteo p {
+    font: 700 16px / 30px Raleway;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+.content-ubicaciones p {
+    font: 400 14px / 20.05px Raleway !important;
+    color: #393939;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.content-ubicaciones p span {
+    padding-left: 10px;
+}
+
+
+
+
+/** BUTTONS **/
+.btn-green {
+    width: 235px;
+    background-color: #56b17d;
+    color: #fff;
+    font: 700 23px / 14.768px Raleway;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.btn-green:hover, .btn-green:active, .btn-green:focus {
+    color: #e3e3e3;
+    background-color: #418b61;
+}
+
+.btn-blue {
+    background-color: #1ea7e7;
+    color: #fff;
+    width: 327px;
+    display: block;
+    margin: 0 auto;
+    font: 400 23px / 30px Raleway;
+    padding: 20px;
+}
+
+.btn-blue:hover, .btn-blue:active, .btn-blue:focus {
+    color: #e3e3e3;
+    background-color: #2393c7;
+}
+
+.btn-yellow {
+    background-color: #ffca59;
+    width: 178px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px;
+    border: 1px solid #ffca59;
+    border-radius: 0;
+}
+
+.btn-yellow:hover, .btn-yellow:active, .btn-yellow:focus {
+    color: #fff;
+    background-color: #FFAF00;
+}
+
+.btn-orange {
+    background-color: #fc8a2a;
+    color: #fff;
+    width: 327px;
+    display: block;
+    margin: 0 auto;
+    font: 700 23px / 30px Raleway;
+    padding: 20px;
+}
+
+.btn-orange:hover, .btn-orange:active, .btn-orange:focus {
+    color: #e3e3e3;
+    background-color: #d5680c;
+}
+
+/* Modified Parallax CSS by Chris */
+.parallax-container {
+    position: relative;
+    overflow: hidden;
+    /* min-height: 500px; Let min height be defined by parallax contents */ 
+    height: auto;
+}
+
+.parallax {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1; 
+}
+
+.parallax img {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    min-width: 1920px;
+    width: 100%;
+    background-position: center; 
+}
+
+/** FORMS **/
+form {
+    border-left: 2px solid rgba(0, 0, 0, 0.3);
+    padding-left: 50px;
+}
+
+.control-label {
+    font: 700 14px / 39.66px Open Sans;
+    color: #525252;
+}
+
+.form-textfield {
+    height: 90px;
+}
+
+.form-textfield, .form-textarea {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0;
+}
+
+.form-textarea {
+    width: 100%;
+    height: 148px;
+    resize: none;
+}
+
+
+/** CAROUSEL **/
+.carousel {
+    margin-top: -20px;    
+}
+
+.carousel-caption {
+    z-index: 10;
+}
+
+
+.carousel .item {
+    min-width: 100%;
+    background-color: #fff;
+}
+
+.carousel-inner > .item > img {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+.carousel-indicators li {
+    background-image: url('../img/banner/cloud.png');
+    width: 52px;
+    height: 35px;
+    border: none;
+}
+
+.carousel-indicators li.active {
+    background-image: url('../img/banner/cloud-active.png');
+    width: 52px;
+    height: 35px;
+    border: none;
+    background-color: transparent;
+}
+
+.carousel-prev, .carousel-next {
+    width: 53px;
+    height: 53px;
+}
+
+
+.carousel-prev {
+    background-image: url(../img/banner/prev.png);
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+
+.carousel-next {
+    background-image: url('../img/banner/next.png');
+    position: absolute;
+    top: 50%;
+    right: 30%;
+}
+
+.carousel-caption {
+    font-family: Raleway;
+    text-shadow: 0px 1px 1px rgba(77, 77, 77, 0.3);
+    text-align: right;
+}
+
+.carousel-caption h1 {
+    font-size: 50px;
+    font-weight: 700;
+    width: 462px;
+}
+
+/** MASONRY **/
+.masonry {
+    width: 100%;
+}
+
+.item { 
+    padding: 0 5px !important;
+}
+
+.item.w2 { 
+    padding: 0 !important; 
+}
+
+/** MODAL **/
+.modal-title {
+    color: #fff;
+}
+
+.modal-dialog {
+    margin-top: 100px;
+}
+
+.modal-content {
+    background-color: #000;
+}
+
+
+/** FOOTER **/
+footer {
+    font: 400 10px / 24px Open Sans;
+    color: #fff;
+}
+
+footer h3 {
+    font-size: 14px;
+    font-weight: 700;
+    margin: 30px 0;
+}
+
+footer p {
+    font-size: 12px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: Raleway;
+}
+
+footer ul {
+    text-decoration: none;
+    list-style: none;
+    font-size: 12px;
+    margin: 0;
+}
+
+footer ul li a::before {
+    content: '- ';
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: -30px;
+}
+
+footer li a:hover {
+    color: #e3e3e3;
+    text-decoration: underline;
+}
+
+footer address {
+    font-family: Raleway;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+footer address h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+
+.footer-rights {
+    background-color: #5db156;
+    color: #fff;
+    padding: 5px 0;
+}
+
+.footer-rights h4 {
+    font: oblique 12px / 20px Helvetica;
+    text-align: center;
+}
+
+.footer-rights a {
+    color: #fff;
+}
+
+.footer-rights a:hover {
+    color: #e3e3e3;
+    
+}
+
+/** MISC **/
+body {
+    width: auto !important;
+    overflow-x: hidden !important;
+    font-family: Raleway;
+    color: #393939;
+    font-size: 14px;
+}
+
+#googleMap, #googleMap_house {
+    width: 100%;
+    height: 561px;
+    overflow: hidden;
+}
+
+.margin-top {
+    margin-top: 30px;
+}
+
+.margin-bottom {
+    margin-bottom: 30px;
+}
+
+.padding-top {
+    padding-top: 80px;
+}
+
+.padding-bottom {
+    padding-bottom: 80px;
+}
+
+.box-content {
+    padding: 200px 0;
+}
+
+.no-float {
+    float: none;
+}
+
+.border-round {
+    border-radius: 5px;
+}
+
+
+/** MEDIA QUERIES **/
+@media (max-width: 767px) {
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.btn-blue {
+    width: 100%;
+}
+
+.carousel-caption {
+    right: 15% !important;
+    top: -10% !important;
+    left: 15% !important;
+}
+
+.carousel-caption h1 {
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    visibility: hidden;
+}
+    
+.carousel-prev, .carousel-next {
+    top: 25% !important;
+}
+
+.carousel-indicators {
+    bottom: 5px;
+}
+    
+.carousel-indicators li {
+    background-image: none;
+    background-color: #fff;
+    border: 1px solid #43BCD5;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.carousel-indicators li.active {
+    background-image: none;
+    background-color: #43BCD5;
+    border: 1px solid #43BCD5;
+    width: 10px;
+    height: 10px;
+}
+
+.nosotros p {
+    width: 100% !important;
+}
+    
+form, .border-left {
+    border-left: none;
+    padding-left: 0;
+}
+
+.border-right, .content-voluntariado img, .content-sorteo img {
+    border-right: none;
+    padding-right: 0;
+}
+    
+.item.lg img {
+    height: auto;
+}
+
+.item.sm img {
+    height: auto;
+}
+    
+.content-voluntariado ol {
+    padding-left: 0;
+}
+    
+}
+
+
+.modal {
+    overflow: visible !important;
+}
+
+@media (min-width: 768px) {
+.nav-hidden {
+    display: none;
+}
+    
+.nav-justified > li > a {
+    font-size: 10px;
+    padding: 10px 5px !important;
+}
+    
+.carousel-caption {
+    right: 20% !important;
+    top: 10% !important;
+    left: auto !important;
+}
+
+.carousel-caption h1 {
+    font-size: 30px;
+}
+
+.carousel-prev, .carousel-next {
+    top: 50% !important;
+}
+    
+.item.lg img {
+    height: 310px;
+}
+
+.item.sm img {
+    height: 140px;
+}
+    
+.servicios p {
+    font-size: 16px;
+    letter-spacing: -1px;
+}
+    
+}
+
+@media (min-width: 992px) { 
+.nav-hidden {
+    display: block;
+}
+
+.nav-justified > li > a {
+    font-size: 14px;
+    padding: 10px !important;
+}
+    
+.carousel-caption {
+    right: 25% !important;
+    top: 15% !important;
+    left: auto !important;
+}
+    
+.carousel-caption h1 {
+    font-size: 40px;
+}
+    
+.item.lg img {
+    height: 510px;
+}
+
+.item.sm img {
+    height: 240px;
+}
+    
+.servicios p {
+    font-size: 20px;
+    letter-spacing: 0;
+}
+    
+}
+
+/** CHRIS' HOTFIX FOR NOSOTROS PARALLAX **/
+.parallax-container.bg-nosotros {
+    height: auto;
+}
+
+.bg-nosotros .parallax img {
+    min-width: 100px;
+}

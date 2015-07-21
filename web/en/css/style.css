@@ -13,6 +13,7 @@ Text Domain: Mixen Communication & Web Technology
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,700,700italic);
 
 /** MENU **/
+
 .navbar {
     border-top: 21px solid #f9c444;
 }
@@ -911,6 +912,11 @@ form, .border-left {
     padding-left: 0;
 }
     
+}
+
+
+.modal {
+    overflow: visible !important;
 }
 
 @media (min-width: 768px) {

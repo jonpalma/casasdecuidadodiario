@@ -1,0 +1,95 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+@font-face {
+	font-family: ErasITC;
+	src: url(eras.ttf);
+}
+
+body {
+	height: 100vh;
+	overflow: hidden;
+}
+
+.topbar {
+	background-color: #f9c444;
+	height: 21px;
+	width: 100%;
+}
+
+.content {
+	height: calc(100vh - 238.5px);
+	position: relative;
+}
+
+.vertcenter {
+	position: relative;
+	top: 50%;
+	transform: translate(0, -50%);
+}
+
+.content img {
+	margin: 0px auto;
+	display: block;
+	max-width: 80%;
+}
+
+.buttons {
+	max-width: 500px;
+	margin: 25px auto;
+	height: 75px;
+}
+
+.spanish, .english {
+	width: 190px;
+	height: 51px;
+	max-width: 40%;
+	font: 700 22.49px / 14.768px Raleway;
+	text-align: center;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+	padding-top: 17px
+}
+
+.spanish {
+	float: left;
+	background-color: #f9c444;
+}
+
+.spanish:hover {
+	background-color: #C79D36;
+	color: #eee;
+}
+
+.english:hover {
+	background-color: #458E64;
+	color: #eee;
+}
+
+.english {
+	float: right;
+	background-color: #56b17d;	
+}
+
+h3 {
+	font: 300 14px / 30px ErasITC;
+	color: #034ea2;
+	text-align: center;
+	margin-top: 6%;
+}
+
+.footer img {
+	margin: 0px;
+}
+
+.footer-bg {
+	margin-top: -5px;
+	background-color: #96da73;
+	height: 100px;
+}
