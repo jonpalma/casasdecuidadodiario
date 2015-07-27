@@ -8,8 +8,8 @@
 <body>
 	<div class="topbar"></div>
 	<div class="content">
-		<div class="vertcenter">
-			<img src="logo.png" alt="Casas de Cuidado Diario">
+		<div class="">
+			<img src="logo.jpg" alt="Casas de Cuidado Diario" style="margin-top: 10vh">
 			<h3>ELIGE UN IDIOMA</h3>
 			<div class="buttons">
 				<a href="es/" class="spanish">Español</a>
