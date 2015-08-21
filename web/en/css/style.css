@@ -363,6 +363,23 @@ li.border-pink a:hover {
     margin: 10px auto;
 }
 
+.paypal {
+	padding: 0;
+	margin: 80px 0px;
+}
+
+.paypal form {	
+	border: none;
+}
+
+.paypal table  {
+	float: left;
+}
+
+.donativo-paypal {
+	margin-top: 50px;
+}
+
 .heading {
     height: 194px;
     color: #fff;
@@ -407,6 +424,46 @@ li.border-pink a:hover {
     position: relative;
     top: -3px;
     margin-right: 5px;
+}
+
+.transparencia {
+	color: #43bcd5;
+	text-align: center;
+}
+
+.transparencia h3 {
+	font:700 35.99px / 40px Raleway
+}
+
+.transparencia h4 {
+	margin-top: 60px;
+	margin-bottom: 14px;
+	font: 700 25px / 40px Raleway;
+}
+
+.transparencia .double-line {
+	padding-top: 10px;
+}
+
+.transparencia img {
+	margin: 0 auto;
+}
+
+.transparencia img:hover {
+	opacity: 0.8;
+}
+
+.btn-rec {
+	margin-bottom: 50px!important;
+	display: block;
+	margin: 0 auto;
+	padding-top: 10px!important;
+	font-size: 16px!important;
+}
+
+.btn-rec:hover, .btn-rec:active, btn-rec:focus {
+	background-color: #ffca59!important;
+    border: 1px solid #ffca59!important;
 }
 
 .content-consejo {
@@ -544,7 +601,8 @@ li.border-pink a:hover {
 
 .btn-yellow {
     background-color: #ffca59;
-    width: 178px;
+    width: 212px;	
+	height: 64px;	
     font-size: 16px;
     color: #fff;
     padding: 20px;
@@ -555,6 +613,12 @@ li.border-pink a:hover {
 .btn-yellow:hover, .btn-yellow:active, .btn-yellow:focus {
     color: #fff;
     background-color: #FFAF00;
+}
+
+.btn-lang {
+	width: 198px;
+	height: 53px;
+	padding: 15px;
 }
 
 .btn-orange {
