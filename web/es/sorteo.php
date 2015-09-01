@@ -7,7 +7,7 @@
     </div>
 </div>
 <!-- END HEADING -->
-<!-- BEGIN MODAL -->
+<!-- BEGIN MODAL
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -26,8 +26,8 @@
     </div>
   </div>
 </div>
-<!-- END MODAL -->
-<!-- BEGIN CONTENT -->
+END MODAL -->
+<!-- BEGIN CONTENT 
 <div class="jumbotron bg-white">
     <div class="container content-sorteo">
         <div class="row">
@@ -50,8 +50,8 @@
         </div>
     </div>
 </div>
-<!-- END CONTENT -->
-<!-- BEGIN PARALLAX -->
+END CONTENT -->
+<!-- BEGIN PARALLAX
 <div class="jumbotron parallax-container bg-parallax bg-sorteo box-content">
    <div class="parallax"><img src="img/parallax/sorteo2.jpg" alt="" class="img-responsive"></div>
    <div class="container">
@@ -61,8 +61,8 @@
        </div>
    </div>
 </div>
-<!-- END PARALLAX -->
-<!-- BEGIN GALLERY -->
+END PARALLAX -->
+<!-- BEGIN GALLERY
 <div class="jumbotron bg-white">
     <div class="container servicios">
         <div class="row">
@@ -124,7 +124,12 @@
         </div>
     </div>
 </div>
-<!-- END GALLERY -->
+END GALLERY -->
+
+ <div class="container"> 	
+ 	<br><h1 style="text-align:center">Próximamente</h1><br>
+ </div>
+
 <!-- BEGIN MAP -->
 <div class="container-fluid" id="googleMap_house"></div>  
 <!-- END MAP -->
