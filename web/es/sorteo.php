@@ -127,7 +127,7 @@ END PARALLAX -->
 END GALLERY -->
 
  <div class="container"> 	
- 	<br><h1 style="text-align:center">Próximamente</h1><br>
+ 	<br><h1 style="text-align:center">Espera pronto las fotos de la nueva casa</h1><br>
  </div>
 
 <!-- BEGIN MAP -->
