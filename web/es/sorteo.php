@@ -7,7 +7,7 @@
     </div>
 </div>
 <!-- END HEADING -->
-<!-- BEGIN MODAL
+<!-- BEGIN MODAL -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -17,7 +17,7 @@
       </div>
       <div class="modal-body">
            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H_LaTMOOkhc"></iframe>
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2NKrfG4JDCY"></iframe>
            </div>
       </div>
       <div class="modal-footer">
@@ -26,8 +26,8 @@
     </div>
   </div>
 </div>
-END MODAL -->
-<!-- BEGIN CONTENT 
+<!-- END MODAL -->
+<!-- BEGIN CONTENT -->
 <div class="jumbotron bg-white">
     <div class="container content-sorteo">
         <div class="row">
@@ -35,25 +35,26 @@ END MODAL -->
                 <img src="img/sorteo.jpg" alt="" class="img-responsive center-block">
             </div>
             <div class="col-sm-8">
-                <p>El 25vo. Sorteo Chihuahua por sus niños se realizó el 26 de Junio a las 13:00 horas en Plaza Galerías.</p>
+                <p>El 26vo. Sorteo Chihuahua por sus niños se realizará el 18 de Diciembre a las 12:00 horas en Plaza Galerías.</p>
                 <p>Premios:</p>
-                <p>1er. Premio es una residencia totalmente amueblada y equipada con un automóvil Spark 2015.</p>
-                <p>2do. Premio es un automóvil Sentra 2015.</p>
-                <p>3er. Premio es un automóvil Aveo 2015.</p>
-				<p>El valor del boleto es de $350. La ganadora fue Lizeth Carolina y/o Edna Georgina.</p>
+                <p>1er. Premio es una residencia totalmente amueblada y equipada con un automóvil Spark 2016.</p>
+                <p>2do. Premio es un automóvil Sentra 2016.</p>
+                <p>3er. Premio es un automóvil Gol 2016.</p>
+				<p>El valor del boleto es de $350.</p>
+				<!--
 				<p>Conoce a los ganadores:</p>
 				
 				<a class="btn btn-orange" style="float:left" href="ganadores.pdf" target="_blank">Descarga la información</a>
-
+            	-->
 
             </div>
         </div>
     </div>
 </div>
-END CONTENT -->
-<!-- BEGIN PARALLAX
+<!-- END CONTENT -->
+<!-- BEGIN PARALLAX -->
 <div class="jumbotron parallax-container bg-parallax bg-sorteo box-content">
-   <div class="parallax"><img src="img/parallax/sorteo2.jpg" alt="" class="img-responsive"></div>
+   <div class="parallax"><img src="img/parallax/sorteo3.jpg" alt="" class="img-responsive"></div>
    <div class="container">
        <div class="row">
            <h2>Ver Recorrido Virtual<br />de la Casa</h2>
@@ -61,9 +62,9 @@ END CONTENT -->
        </div>
    </div>
 </div>
-END PARALLAX -->
-<!-- BEGIN GALLERY
-<div class="jumbotron bg-white">
+<!-- END PARALLAX -->
+<!-- BEGIN GALLERY 
+<div class="jumbotron bg-white"> 
     <div class="container servicios">
         <div class="row">
             <div class="col-sm-12">
@@ -122,13 +123,13 @@ END PARALLAX -->
                </div>
             </div>
         </div>
-    </div>
+    </div> 
 </div>
-END GALLERY -->
-
+<!-- END GALLERY -->
+<!--
  <div class="container"> 	
  	<br><h1 style="text-align:center">Espera pronto las fotos de la nueva casa</h1><br>
- </div>
+ </div> -->
 
 <!-- BEGIN MAP -->
 <div class="container-fluid" id="googleMap_house"></div>  

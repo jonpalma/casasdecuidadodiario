@@ -7,7 +7,7 @@
     </div>
 </div>
 <!-- END HEADING -->
-<!-- BEGIN MODAL 
+<!-- BEGIN MODAL -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -17,7 +17,7 @@
       </div>
       <div class="modal-body">
            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H_LaTMOOkhc"></iframe>
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2NKrfG4JDCY"></iframe>
            </div>
       </div>
       <div class="modal-footer">
@@ -26,8 +26,8 @@
     </div>
   </div>
 </div>
- END MODAL -->
-<!-- BEGIN CONTENT 
+<!-- END MODAL -->
+<!-- BEGIN CONTENT -->
 <div class="jumbotron bg-white">
     <div class="container content-sorteo">
         <div class="row">
@@ -35,25 +35,26 @@
                 <img src="img/sorteo.jpg" alt="" class="img-responsive center-block">
             </div>
             <div class="col-sm-8">
-                <p>The 25th Chihuahua for its Children Raffle will be held the 26th of June at 13:00 hours at Galerias Plaza</p>
+                <p>The 26th Chihuahua for its Children Raffle will be held the 18th of December at 12:00 hours at Galerias Plaza</p>
                 <p>Prizes:</p>
-                <p>1st Place is a completely equipped and furnished residence with a 2015 Spark automobile included.</p>
-                <p>2nd Place is a 2015 Sentra. </p>
-                <p>3rd Place is a 2015 Aveo.</p>
+                <p>1st Place is a completely equipped and furnished residence with a 2016 Spark automobile included.</p>
+                <p>2nd Place is a 2016 Sentra. </p>
+                <p>3rd Place is a 2016 Gol.</p>
 				<p>The value of the ticket is $350.00</p>
+				<!--
 				<p>Meet the winners:</p>
 				
 				<a class="btn btn-orange" style="float:left" href="ganadores.pdf" target="_blank">Download the information</a>
-
+            	-->
 
             </div>
         </div>
     </div>
 </div>
- END CONTENT -->
-<!-- BEGIN PARALLAX 
+<!-- END CONTENT -->
+<!-- BEGIN PARALLAX -->
 <div class="jumbotron parallax-container bg-parallax bg-sorteo box-content">
-   <div class="parallax"><img src="img/parallax/sorteo2.jpg" alt="" class="img-responsive"></div>
+   <div class="parallax"><img src="img/parallax/sorteo3.jpg" alt="" class="img-responsive"></div>
    <div class="container">
        <div class="row">
            <h2>Take a Virtual Tour<br />of the house</h2>
@@ -61,9 +62,9 @@
        </div>
    </div>
 </div>
-END PARALLAX -->
-<!-- BEGIN GALLERY 
-<div class="jumbotron bg-white">
+<!-- END PARALLAX -->
+<!-- BEGIN GALLERY
+<div class="jumbotron bg-white"> 
     <div class="container servicios">
         <div class="row">
             <div class="col-sm-12">
@@ -125,11 +126,12 @@ END PARALLAX -->
     </div>
 </div>
 
- END GALLERY -->
+ <!-- END GALLERY -->
  
+ <!--
  <div class="container"> 	
- 	<br><h1 style="text-align:center">The pictures of the new house coming soon</h1><br>
- </div>
+ 	<br><h1 style="text-align:center">Pictures of the new house coming soon</h1><br>
+ </div> -->
  
 <!-- BEGIN MAP -->
 <div class="container-fluid" id="googleMap_house"></div>  
