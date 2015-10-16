@@ -115,28 +115,28 @@
 						<h4>Financial Statements</h4>
 						<div class="row">
 							<div class="col-sm-4">
-								<a href="pdf/nosotros/Dictamen%20Estados%20Financieros%202011.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Financial Stament<br />Report 2011</strong></a>
+								<a href="pdf/nosotros/Dictamen-Estados-Financieros-2011.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Financial Stament<br />Report 2011</strong></a>
 							</div>
 							<div class="col-sm-4">
-								<a href="pdf/nosotros/Dictamen%20Estados%20Financieros%202012.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Financial Stament<br />Report 2012</strong></a>
+								<a href="pdf/nosotros/Dictamen-Estados-Financieros-2012.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Financial Stament<br />Report 2012</strong></a>
 							</div>
 							<div class="col-sm-4">
-								<a href="pdf/nosotros/Dictamen%20Estados%20Financieros%202013.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Financial Stament<br />Report 2013</strong></a>
+								<a href="pdf/nosotros/Dictamen-Estados-Financieros-2013.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Financial Stament<br />Report 2013</strong></a>
 							</div>
 						</div>
 						<h4>Annual Reports</h4>
 						<div class="row">
 							<div class="col-sm-4 col-md-3">
-								<a href="pdf/nosotros/informe%202012.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>Annual Report 2012</strong></a>
+								<a href="pdf/nosotros/informe-2012.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>Annual Report 2012</strong></a>
 							</div>
 							<div class="col-sm-4 col-md-3">
-								<a href="pdf/nosotros/informe%202013.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>Annual Report 2013</strong></a>
+								<a href="pdf/nosotros/informe-2013.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>Annual Report 2013</strong></a>
 							</div>
 							<div class="col-sm-4 col-md-3">
-								<a href="pdf/nosotros/informe%202014.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>Annual Report 2014</strong></a>
+								<a href="pdf/nosotros/informe-2014.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>Annual Report 2014</strong></a>
 							</div>
 							<div class="col-sm-12 col-md-3">
-								<a href="pdf/nosotros/Informe%20Ejecuci%C3%B3n%20de%20Recursos%20P%C3%BAblicos%202013.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Execution Report of <br />Public Resources 2013</strong></a>
+								<a href="pdf/nosotros/Informe-Ejecucion-de-Recursos-Publicos-2013.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Execution Report of <br />Public Resources 2013</strong></a>
 							</div>
 						</div>						
 						<h4>Awards</h4>
@@ -278,8 +278,8 @@
                         <p><strong>Vocals</strong></p>
                 </div>
                 <div class="col-sm-7">
-                       <p>María Teresa García Terrazas</p>
                        <p>Fabiola Corral Pérez</p>
+                       <p>Ana Gabriela Guerrero Elías</p>
                        <p>Patricia Margarita Fierro Shelton</p>
                        <p>Ana Cecilia Sánchez Vizcaya</p>
                        <p>María de los Ángeles Vizcaya Engroñat<br />
@@ -288,7 +288,6 @@
                             Adriana Rodríguez Amézaga<br />
                             María Emilia García Domínguez<br />
                             Rosa Elena Corral Lozano<br />
-                            Ana Gabriela Guerrero Elías<br />
                             Leticia Terrazas Becerra
                        </p>
                 </div>
