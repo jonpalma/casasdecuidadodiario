@@ -146,13 +146,13 @@
                 <p>Authorizes sanitary permits for the care homes.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/capsi.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/capsi.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CAPSI (Centro de Atención Psicológica Integral)</h4>
                 <h4>(Center for Integral Psychological) </h4>
                 <p>They are the link to channel any anomaly detected in the psychological development of the boys and girls.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/dif.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/dif.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>DIF Municipal</h4>
                 <h4>Municipal System of Integral Family Development</h4>
                 <p>Children and families that present any type of problem are directed to CAPSI for psychological attention.</p>
@@ -178,7 +178,7 @@
                 <p>It supports the operation of the program through subsidiary programs.  We participate in the discussion table; the subject entailed is children and adolescents. </p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/implan.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/implan.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>IMPLAN (Instituto Municipal de Planeación)</h4>
                 <h4>Municipal Institute of Planning</h4>
                 <p>Exchange agreement to supply information for the installation of infrastructure of the Care Homes. </p>
@@ -270,7 +270,7 @@
                 <p>Active members of the network.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/cedehm.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/cedehm.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CEDEHM (Centro de Derechos Humanos de las Mujeres de Chihuahua)</h4>
                 <h4>Center for Human Rights for Women of Chihuahua</h4>
                 <p>Aids in legal motions and rights for women.</p>
@@ -278,7 +278,7 @@
         </div>
         <div class="row margin-bottom">
             <div class="col-sm-3">
-                <img src="img/organizaciones/cfosc.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/cfosc.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CFOSC (Centro de Fortalecimiento a las Organizaciones de la Sociedad Civil)</h4>
                 <h4>Center for The Strengthening of the Civil Society’s Organizations</h4>
                 <p>Links other organizations, offers courses and training in areas of interest and aid with processes, media spaces, among others.</p>

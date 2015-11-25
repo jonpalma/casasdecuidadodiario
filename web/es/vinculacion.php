@@ -144,12 +144,12 @@
                 <p>Otorga los permisos sanitarios para el funcionamiento de la Casa de Cuidado.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/capsi.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/capsi.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CAPSI (Centro de Atención Psicológica Integral)</h4>
                 <p>Vínculo para canalizar cualquier anomalía detectada en el sano desarrollo psicológico de los niños y niñas beneficiarios.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/dif.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/dif.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>DIF Municipal</h4>
                 <p>A través de éste se canalizan los niños y las familias que presentan algún tipo de problema enviándolos a su centro de atención psicológica CAPSI.</p>
             </div>
@@ -171,7 +171,7 @@
                 <p>Apoya la operación del Programa por medio de recursos vía subsidio. Participamos en la Mesa de Niños, Niñas y Adolescentes.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/implan.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/implan.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>IMPLAN (Instituto Municipal de Planeación)</h4>
                 <p>Convenio de intercambio de información de infraestructura para la instalación de Casas de Cuidado Diario.</p>
             </div>
@@ -251,14 +251,14 @@
                 <p>Miembros activos de la Red.</p>
             </div>
             <div class="col-sm-3">
-                <img src="img/organizaciones/cedehm.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/cedehm.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CEDEHM (Centro de Derechos Humanos de las Mujeres de Chihuahua)</h4>
                 <p>Apoyo en gestiones legales y de derechos de las mujeres.</p>
             </div>
         </div>
         <div class="row margin-bottom">
             <div class="col-sm-3">
-                <img src="img/organizaciones/cfosc.jpg" alt="" class="img-responsive center-block margin-bottom">
+                <img src="img/organizaciones/cfosc.png" alt="" class="img-responsive center-block margin-bottom">
                 <h4>CFOSC (Centro de Fortalecimiento a las Organizaciones de la Sociedad Civil)</h4>
                 <p>Es el vínculo con otras OSC´s, ofrece cursos y capacitaciones en áreas de interés y apoyo con trámites, espacios en medios, etc.</p>
             </div>

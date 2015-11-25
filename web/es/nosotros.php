@@ -283,12 +283,10 @@
                        <p>Patricia Margarita Fierro Shelton</p>
                        <p>Ana Cecilia Sánchez Vizcaya</p>
                        <p>María de los Ángeles Vizcaya Engroñat<br />
-                            Mariana Medina Pegram<br />
                             Blanca Rosa Montes Prado<br />
                             Adriana Rodríguez Amézaga<br />
                             María Emilia García Domínguez<br />
                             Rosa Elena Corral Lozano<br />
-                            Leticia Terrazas Becerra
                        </p>
                 </div>
                 <div class="clearfix"></div>
