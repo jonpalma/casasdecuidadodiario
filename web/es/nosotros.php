@@ -138,6 +138,12 @@
 							<div class="col-sm-12 col-md-3">
 								<a href="pdf/nosotros/Informe-Ejecucion-de-Recursos-Publicos-2013.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round double-line"><strong>Informe Ejecución de<br />Recursos Públicos 2013</strong></a>
 							</div>
+						</div>	
+						<h4>Aviso de Privacidad</h4>
+						<div class="row">
+							<div class="col-sm-12">
+								<a href="pdf/nosotros/AVISO-DE-PRIVACIDAD-CCD.pdf" target="_blank" class="btn btn-yellow margin-bottom border-round"><strong>Aviso de Privacidad</a>
+							</div>
 						</div>						
 						<h4>Premios y Reconocimientos</h4>
 						<div class="col-sm-12">
@@ -285,8 +291,8 @@
                        <p>María de los Ángeles Vizcaya Engroñat<br />
                             Blanca Rosa Montes Prado<br />
                             Adriana Rodríguez Amézaga<br />
-                            María Emilia García Domínguez<br />
                             Rosa Elena Corral Lozano<br />
+                            María Teresa García Terrazas<br />
                        </p>
                 </div>
                 <div class="clearfix"></div>

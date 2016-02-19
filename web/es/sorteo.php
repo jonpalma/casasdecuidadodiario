@@ -35,17 +35,30 @@
                 <img src="img/sorteo.jpg" alt="" class="img-responsive center-block">
             </div>
             <div class="col-sm-8">
-                <p>El 26vo. Sorteo Chihuahua por sus niños se realizará el 18 de Diciembre a las 12:00 horas en Plaza Galerías.</p>
+               
+               	<p>Espera nuestro 27vo Gran Sorteo el 24 de Junio. Más información pronto.</p>
+                
+                <!--<p>El 26vo. Sorteo Chihuahua por sus niños se realizará el 18 de Diciembre a las 12:00 horas en Plaza Galerías.</p>
                 <p>Premios:</p>
                 <p>1er. Premio es una residencia totalmente amueblada y equipada con un automóvil Spark 2016.</p>
                 <p>2do. Premio es un automóvil Sentra 2016.</p>
                 <p>3er. Premio es un automóvil Gol 2016.</p>
-				<p>El valor del boleto es de $350.</p>
-				<!--
-				<p>Conoce a los ganadores:</p>
+				<p>El valor del boleto es de $350.</p>-->
 				
-				<a class="btn btn-orange" style="float:left" href="ganadores.pdf" target="_blank">Descarga la información</a>
-            	-->
+				<div class="row text-left no-margin">
+					<div class="col-sm-12 no-padding">
+						<p>Conoce a los ganadores del 26vo sorteo:</p>
+						
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="ganadores.pdf" target="_blank">Descarga la información</a>
+					</div>
+					
+					<div class="col-sm-12 no-padding">
+						<p>Conoce a los ganadores del 25vo sorteo:</p>
+						
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="ganadores-25.pdf" target="_blank">Descarga la información</a>
+					</div>
+				</div>
+            	
 
             </div>
         </div>

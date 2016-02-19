@@ -285,8 +285,8 @@
                        <p>María de los Ángeles Vizcaya Engroñat<br />
                             Blanca Rosa Montes Prado<br />
                             Adriana Rodríguez Amézaga<br />
-                            María Emilia García Domínguez<br />
                             Rosa Elena Corral Lozano<br />
+                            María Teresa García Terrazas<br />
                        </p>
                 </div>
                 <div class="clearfix"></div>

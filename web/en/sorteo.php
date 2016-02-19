@@ -35,17 +35,35 @@
                 <img src="img/sorteo.jpg" alt="" class="img-responsive center-block">
             </div>
             <div class="col-sm-8">
+               	
+               	<p>Wait for our 27th grand raffle on June 24. More information soon.</p>
+               	
+               	<!--
                 <p>The 26th Chihuahua for its Children Raffle will be held the 18th of December at 12:00 hours at Galerias Plaza</p>
                 <p>Prizes:</p>
                 <p>1st Place is a completely equipped and furnished residence with a 2016 Spark automobile included.</p>
                 <p>2nd Place is a 2016 Sentra. </p>
                 <p>3rd Place is a 2016 Gol.</p>
 				<p>The value of the ticket is $350.00</p>
-				<!--
+
 				<p>Meet the winners:</p>
 				
-				<a class="btn btn-orange" style="float:left" href="ganadores.pdf" target="_blank">Download the information</a>
-            	-->
+				<a class="btn btn-orange" style="float:left" href="ganadores.pdf" target="_blank">Download the information</a>-->
+				
+				<div class="row text-left no-margin">
+					<div class="col-sm-12 no-padding">
+						<p>Meeth the winners of the 26th raffle:</p>
+						
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="ganadores.pdf" target="_blank">Download the information</a>
+					</div>
+					
+					<div class="col-sm-12 no-padding">
+						<p>Meeth the winners of the 25th raffle:</p>
+						
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="ganadores-25.pdf" target="_blank">Download the information</a>
+					</div>
+				</div>
+
 
             </div>
         </div>

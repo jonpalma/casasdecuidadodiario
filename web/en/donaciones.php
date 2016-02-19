@@ -40,7 +40,7 @@
             <div class="col-sm-12">
                 <h3>Where does the money come from <br />and where does it go?</h3>
                 <div class="bottom-blue center-block"></div>
-                <a href="pdf/money.pdf" target="_blank" class="btn btn-blue margin-top">Download Document</a>
+                <a href="pdf/donations.pdf" target="_blank" class="btn btn-blue margin-top">Download Document</a>
             </div>
         </div>
         <div class="row donativo-paypal">

@@ -896,6 +896,10 @@ body {
     float: none;
 }
 
+.no-margin {
+	margin: 0;
+}
+
 .border-round {
     border-radius: 5px;
 }
