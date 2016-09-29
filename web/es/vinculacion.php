@@ -81,7 +81,7 @@
                        <img src="img/servicios/ingles.png" alt="" class="img-responsive center-block">
                 </div>
                 <div class="content">
-                    <h3 class="text-center">inglés</h3>
+                    <h3 class="text-center">Inglés</h3>
                     <p>Con el fin de complementar el programa de actividades que reciben nuestros niños, contamos con un equipo de maestros de inglés.</p>
                 </div>
             </div>

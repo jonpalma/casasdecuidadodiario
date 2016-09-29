@@ -49,6 +49,9 @@
                         Tel. (614) 413.0319<br /><br />
                         comunicacion@casasdecuidadodiario.org
                     </p>
+                    <div class="text-right">
+                    	<a href="transparencia.php" class="btn-light-green">Transparencia</a>
+                    </div>
                 </div>
             </div>
             <div class="container-fluid nav-border-top">

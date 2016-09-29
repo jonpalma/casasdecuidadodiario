@@ -17,7 +17,11 @@
       </div>
       <div class="modal-body">
            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2NKrfG4JDCY"></iframe>
+              <!--<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2NKrfG4JDCY"></iframe>-->
+              <video controls>
+              	<source src="../sorteo27.mp4" type="video/mp4">
+              	Your browser does not support this video type.
+              </video>
            </div>
       </div>
       <div class="modal-footer">
@@ -32,35 +36,40 @@
     <div class="container content-sorteo">
         <div class="row">
             <div class="col-sm-4">
-                <img src="img/sorteo.jpg" alt="" class="img-responsive center-block">
+                <a href="img/sorteo.jpg" target="_blank"><img src="img/sorteo.jpg" alt="" class="img-responsive center-block"></a>
             </div>
             <div class="col-sm-8">
                	
-               	<p>Wait for our 27th grand raffle on June 24. More information soon.</p>
+               	<!--<p>Wait for our 27th grand raffle on June 24. More information soon.</p>-->
                	
-               	<!--
-                <p>The 26th Chihuahua for its Children Raffle will be held the 18th of December at 12:00 hours at Galerias Plaza</p>
+                <p>The 27th Chihuahua for its Children Raffle will be held the 24th of June at 13:00 hours at Galerias Plaza</p>
                 <p>Prizes:</p>
                 <p>1st Place is a completely equipped and furnished residence with a 2016 Spark automobile included.</p>
                 <p>2nd Place is a 2016 Sentra. </p>
-                <p>3rd Place is a 2016 Gol.</p>
+                <p>3rd Place is a 2016 March.</p>
 				<p>The value of the ticket is $350.00</p>
 
 				<p>Meet the winners:</p>
 				
-				<a class="btn btn-orange" style="float:left" href="ganadores.pdf" target="_blank">Download the information</a>-->
+				<!--<a class="btn btn-orange" style="float:left" href="ganadores.pdf" target="_blank">Download the information</a>-->
 				
 				<div class="row text-left no-margin">
 					<div class="col-sm-12 no-padding">
+						<p>Meeth the winners of the 27th raffle:</p>
+						
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/ganadores-27.pdf" target="_blank">Download the information</a>
+					</div>
+					
+					<div class="col-sm-12 no-padding">
 						<p>Meeth the winners of the 26th raffle:</p>
 						
-						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="ganadores.pdf" target="_blank">Download the information</a>
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/ganadores.pdf" target="_blank">Download the information</a>
 					</div>
 					
 					<div class="col-sm-12 no-padding">
 						<p>Meeth the winners of the 25th raffle:</p>
 						
-						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="ganadores-25.pdf" target="_blank">Download the information</a>
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/ganadores-25.pdf" target="_blank">Download the information</a>
 					</div>
 				</div>
 
@@ -151,7 +160,7 @@
  	<br><h1 style="text-align:center">Pictures of the new house coming soon</h1><br>
  </div> -->
  
-<!-- BEGIN MAP -->
+<!-- BEGIN MAP
 <div class="container-fluid" id="googleMap_house"></div>  
 <!-- END MAP -->
 <!-- BEGIN MODAL -->

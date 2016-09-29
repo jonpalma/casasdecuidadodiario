@@ -17,7 +17,11 @@
       </div>
       <div class="modal-body">
            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2NKrfG4JDCY"></iframe>
+              <!--<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2NKrfG4JDCY"></iframe>-->
+              <video controls>
+              	<source src="../sorteo27.mp4" type="video/mp4">
+              	Tu navegador no soporta este tipo de video.
+              </video>
            </div>
       </div>
       <div class="modal-footer">
@@ -32,30 +36,37 @@
     <div class="container content-sorteo">
         <div class="row">
             <div class="col-sm-4">
-                <img src="img/sorteo.jpg" alt="" class="img-responsive center-block">
+                <a href="img/sorteo.jpg" target="_blank"><img src="img/sorteo.jpg" alt="" class="img-responsive center-block"></a>
             </div>
             <div class="col-sm-8">
                
-               	<p>Espera nuestro 27vo Gran Sorteo el 24 de Junio. Más información pronto.</p>
+               	<!--<p>Espera nuestro 27vo Gran Sorteo el 24 de Junio. Más información pronto.</p>-->
                 
-                <!--<p>El 26vo. Sorteo Chihuahua por sus niños se realizará el 18 de Diciembre a las 12:00 horas en Plaza Galerías.</p>
+                <p>El 27vo. Sorteo Chihuahua por sus niños se realizará el 24 de Junio a las 13:00 horas en Plaza Galerías.</p>
+                
                 <p>Premios:</p>
                 <p>1er. Premio es una residencia totalmente amueblada y equipada con un automóvil Spark 2016.</p>
                 <p>2do. Premio es un automóvil Sentra 2016.</p>
-                <p>3er. Premio es un automóvil Gol 2016.</p>
-				<p>El valor del boleto es de $350.</p>-->
+                <p>3er. Premio es un automóvil March 2016.</p>
+				<p>El valor del boleto es de $350.</p>
 				
 				<div class="row text-left no-margin">
 					<div class="col-sm-12 no-padding">
+						<p>Conoce a los ganadores del 27vo sorteo:</p>
+						
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/ganadores-27.pdf" target="_blank">Descarga la información</a>
+					</div>
+					
+					<div class="col-sm-12 no-padding">
 						<p>Conoce a los ganadores del 26vo sorteo:</p>
 						
-						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="ganadores.pdf" target="_blank">Descarga la información</a>
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/ganadores.pdf" target="_blank">Descarga la información</a>
 					</div>
 					
 					<div class="col-sm-12 no-padding">
 						<p>Conoce a los ganadores del 25vo sorteo:</p>
 						
-						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="ganadores-25.pdf" target="_blank">Descarga la información</a>
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/ganadores-25.pdf" target="_blank">Descarga la información</a>
 					</div>
 				</div>
             	
@@ -144,7 +155,7 @@
  	<br><h1 style="text-align:center">Espera pronto las fotos de la nueva casa</h1><br>
  </div> -->
 
-<!-- BEGIN MAP -->
+<!-- BEGIN MAP
 <div class="container-fluid" id="googleMap_house"></div>  
 <!-- END MAP -->
 <!-- BEGIN MODAL -->

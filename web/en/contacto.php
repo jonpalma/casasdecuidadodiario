@@ -35,8 +35,8 @@
 					Casas de Cuidado Diario Bajío A.C.<br />
 					Blvd J. Manuel Clouthier No. 402L-4, Col Bosques <br />
 					del Campestre, C.P. 37125<br />
-					Tel: (472) 781.20.06<br />
-					Tel: (472) 781.20.07<br /><br />
+					Tel: (477) 781.20.06<br />
+					Tel: (477) 781.20.07<br /><br />
                 </p>
             </div>
             <div class="col-sm-8">

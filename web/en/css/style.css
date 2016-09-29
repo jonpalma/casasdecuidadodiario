@@ -584,6 +584,26 @@ li.border-pink a:hover {
     background-color: #418b61;
 }
 
+.btn-light-green {
+	width: 160px;
+	height: 48px;
+	display: inline-block;
+	line-height: 48px;
+	text-align: center;
+	color: #fff!important;
+	text-decoration: none!important;
+	outline: none!important;
+	background-color: #96da73;
+	font-family: Raleway;
+	font-weight: 700;
+	font-size: 19px;
+	border-radius: 5px;
+}
+
+.btn-light-green:hover {
+	background-color: #84bf65;
+}
+
 .btn-blue {
     background-color: #1ea7e7;
     color: #fff;
@@ -900,6 +920,10 @@ body {
 	margin: 0;
 }
 
+.no-padding {
+	padding: 0;
+}
+
 .border-round {
     border-radius: 5px;
 }
@@ -1066,6 +1090,11 @@ form, .border-left {
     height: auto;
 }
 
-.bg-nosotros .parallax img {
+.bg-nosotros .parallax img, .bg-transparencia .parallax img {
     min-width: 100px;
+}
+
+/** ANGEL'S HOTFIX FOR TRANSPARENCIA PARALLAX **/
+.bg-transparencia.heading {
+	background-color: transparent;
 }
