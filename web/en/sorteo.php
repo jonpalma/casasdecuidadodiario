@@ -36,13 +36,13 @@
     <div class="container content-sorteo">
         <div class="row">
             <div class="col-sm-4">
-                <a href="img/sorteo.jpg" target="_blank"><img src="img/sorteo.jpg" alt="" class="img-responsive center-block"></a>
+                <a href="img/sorteo-28.jpg" target="_blank"><img src="img/sorteo-28.jpg" alt="" class="img-responsive center-block"></a>
             </div>
             <div class="col-sm-8">
                	
                	<!--<p>Wait for our 27th grand raffle on June 24. More information soon.</p>-->
                	
-                <p>The 27th Chihuahua for its Children Raffle will be held the 24th of June at 13:00 hours at Galerias Plaza</p>
+                <p>The 28th Chihuahua for its Children Raffle will be held the 22th of December at 12:00 hours at Galerias Plaza</p>
                 <p>Prizes:</p>
                 <p>1st Place is a completely equipped and furnished residence with a 2016 Spark automobile included.</p>
                 <p>2nd Place is a 2016 Sentra. </p>

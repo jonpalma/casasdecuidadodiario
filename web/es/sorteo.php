@@ -36,13 +36,13 @@
     <div class="container content-sorteo">
         <div class="row">
             <div class="col-sm-4">
-                <a href="img/sorteo.jpg" target="_blank"><img src="img/sorteo.jpg" alt="" class="img-responsive center-block"></a>
+                <a href="img/sorteo-28.jpg" target="_blank"><img src="img/sorteo-28.jpg" alt="" class="img-responsive center-block"></a>
             </div>
             <div class="col-sm-8">
                
                	<!--<p>Espera nuestro 27vo Gran Sorteo el 24 de Junio. Más información pronto.</p>-->
                 
-                <p>El 27vo. Sorteo Chihuahua por sus niños se realizará el 24 de Junio a las 13:00 horas en Plaza Galerías.</p>
+                <p>El 28vo. Sorteo Chihuahua por sus niños se realizará el 22 de Diciembre a las 12:00 horas en Plaza Galerías.</p>
                 
                 <p>Premios:</p>
                 <p>1er. Premio es una residencia totalmente amueblada y equipada con un automóvil Spark 2016.</p>
