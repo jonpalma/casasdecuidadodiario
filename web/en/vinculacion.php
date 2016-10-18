@@ -60,11 +60,11 @@
             </div>
             <div class="col-sm-3">
                 <div class="square border-round img-responsive">
-                       <img src="img/servicios/musica.png" alt="" class="img-responsive center-block">
+                       <img src="img/servicios/capacitacion.png" alt="" class="img-responsive center-block">
                 </div>
                 <div class="content">
-                    <h3 class="text-center">Music</h3>
-                    <p>The children have the opportunity of having contact with music through choir and guitar groups, which aid in the development of their intellect, auditive, motor and sensory skills.</p>
+                    <h3 class="text-center">Training</h3>
+                    <p>We professionalize the Care Mother’s job with courses and workshops that improve the attention offered to the boys and girls in Casas de Cuidado Diario. </p>
                 </div>
             </div>
             <div class="col-sm-3">
@@ -87,16 +87,7 @@
             </div>
         </div>
         <div class="row margin-top margin-bottom">
-            <div class="col-sm-3 col-sm-offset-1">
-                <div class="square border-round img-responsive">
-                       <img src="img/servicios/capacitacion.png" alt="" class="img-responsive center-block">
-                </div>
-                <div class="content">
-                    <h3 class="text-center">Training</h3>
-                    <p>We professionalize the Care Mother’s job with courses and workshops that improve the attention offered to the boys and girls in Casas de Cuidado Diario. </p>
-                </div>
-            </div>
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-sm-offset-2">
                 <div class="square border-round img-responsive">
                        <img src="img/servicios/computacion.png" alt="" class="img-responsive center-block">
                 </div>

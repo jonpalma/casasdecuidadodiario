@@ -60,11 +60,11 @@
             </div>
             <div class="col-sm-3">
                 <div class="square border-round img-responsive">
-                       <img src="img/servicios/musica.png" alt="" class="img-responsive center-block">
+                       <img src="img/servicios/capacitacion.png" alt="" class="img-responsive center-block">
                 </div>
                 <div class="content">
-                    <h3 class="text-center">Música</h3>
-                    <p>Los niños tienen la oportunidad de tener contacto con la música a través de grupos de coro y guitarra, lo cual ayuda a su desarrollo intelectual, auditivo, motriz y sensorial.</p>
+                    <h3 class="text-center">Capacitación</h3>
+                    <p>Profesionalizamos el trabajo de la Madre Cuidadora a través de cursos y talleres que mejoren la atención hacia los niños y niñas de Casas de Cuidado Diario.</p>
                 </div>
             </div>
             <div class="col-sm-3">
@@ -87,16 +87,7 @@
             </div>
         </div>
         <div class="row margin-top margin-bottom">
-            <div class="col-sm-3 col-sm-offset-1">
-                <div class="square border-round img-responsive">
-                       <img src="img/servicios/capacitacion.png" alt="" class="img-responsive center-block">
-                </div>
-                <div class="content">
-                    <h3 class="text-center">Capacitación</h3>
-                    <p>Profesionalizamos el trabajo de la Madre Cuidadora a través de cursos y talleres que mejoren la atención hacia los niños y niñas de Casas de Cuidado Diario.</p>
-                </div>
-            </div>
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-sm-offset-2">
                 <div class="square border-round img-responsive">
                        <img src="img/servicios/computacion.png" alt="" class="img-responsive center-block">
                 </div>
