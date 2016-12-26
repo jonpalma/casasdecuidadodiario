@@ -55,6 +55,12 @@
 				
 				<div class="row text-left no-margin">
 					<div class="col-sm-12 no-padding">
+						<p>Meeth the winners of the 28th raffle:</p>
+						
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/lista-ganadores-28.jpg" target="_blank">Download the information</a>
+					</div>
+					
+					<div class="col-sm-12 no-padding">
 						<p>Meeth the winners of the 27th raffle:</p>
 						
 						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/ganadores-27.pdf" target="_blank">Download the information</a>

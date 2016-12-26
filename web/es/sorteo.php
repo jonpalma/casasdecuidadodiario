@@ -52,6 +52,12 @@
 				
 				<div class="row text-left no-margin">
 					<div class="col-sm-12 no-padding">
+						<p>Conoce a los ganadores del 28vo sorteo:</p>
+						
+						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/lista-ganadores-28.jpg" target="_blank">Descarga la información</a>
+					</div>
+					
+					<div class="col-sm-12 no-padding">
 						<p>Conoce a los ganadores del 27vo sorteo:</p>
 						
 						<a class="btn btn-orange" style="display: inline-block; margin-bottom: 10px;" href="sorteo/ganadores-27.pdf" target="_blank">Descarga la información</a>
